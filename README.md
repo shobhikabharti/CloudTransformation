@@ -1,6 +1,6 @@
 # CloudComputing
 <p align="center">
-  <img src="https://www.canva.com/design/DAFJ4O0aHkg/Fl5W-TX6gTiS-6CcAc6UPw/view?utm_content=DAFJ4O0aHkg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+  <img src="Banner.jpg">
 </p>
 
 ## The Journey
