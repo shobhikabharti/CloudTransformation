@@ -16,9 +16,9 @@
 
 ## Stepping out the door, publishing my cloud memoir
 
-- 20 AUG 2022 > Playing with the Canva to come up with the banner online. Created my learning accounts on AWS and Azure.
-- 21 AUG 2022 > Came up with my learning plan and it's brutal, need to plan for wellness as well, I'm thinking 1-2 hours per day.
-- 22 AUG 2022 > 
+20 AUG 2022 > Playing with the Canva to come up with the banner online. Created my learning accounts on AWS and Azure.  
+21 AUG 2022 > Came up with my learning plan and it's brutal, need to plan for wellness as well, I'm thinking 1-2 hours per day.  
+22 AUG 2022 > 
 
 
 ## Walking down the road
