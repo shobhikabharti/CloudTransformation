@@ -146,4 +146,4 @@ Template Source:  https://github.com/100DaysOfCloud/100DaysOfCloud
 - [ ] ☁️ 100 > [](Journey/100/Readme.md)
 
 Reference material:
-Complete list of github markdown emoji markup: https://gist.github.com/rxaviers/7360908
+1. Complete list of github markdown emoji markup: https://gist.github.com/rxaviers/7360908
