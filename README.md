@@ -6,7 +6,7 @@
 ## The Journey
 1. Revisit the Cloud Basics :speech_balloon:
 2. Come up with the learning plan :dash:
-3. Make a point to stick to the plan and make wellness a point too
+3. Make a point to stick to the plan and make wellness a point too :curry:
 4. Upload the content here on daily basis :notes:
 5. Be presentation ready on your content :thumbsup:
 6. Live in the glory of the learned brain :sparkles:
