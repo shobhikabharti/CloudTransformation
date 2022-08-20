@@ -16,7 +16,7 @@ Template Source:  https://github.com/100DaysOfCloud/100DaysOfCloud
 
 ## Stepping out the door, publishing my cloud memoir
 
-- [ ] ☁️ 1 > Playing with the Canva to come up with the banner online.
+- [ ] ☁️ 1 > Playing with the Canva to come up with the banner online. Created my learning accounts on AWS and Azure. 
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
@@ -143,3 +143,6 @@ Template Source:  https://github.com/100DaysOfCloud/100DaysOfCloud
 - [ ] ☁️ 98 > [](Journey/098/Readme.md)
 - [ ] ☁️ 99 > [](Journey/099/Readme.md)
 - [ ] ☁️ 100 > [](Journey/100/Readme.md)
+
+Reference material:
+
