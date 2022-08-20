@@ -4,15 +4,16 @@
 </p>
 
 ## The Journey
-1. Revisit the Cloud Basics 
-2. Come up with the learning plan
-3. Make a point to stick to the plan 
-4. Upload the content here 
-5. Be presentation ready
-6. Live in the glory of the learned brain :)
-7. Now that you have learned cloud, take a break
+1. Revisit the Cloud Basics :speech_balloon:
+2. Come up with the learning plan :dash:
+3. Make a point to stick to the plan and make wellness a point too
+4. Upload the content here on daily basis :notes:
+5. Be presentation ready on your content :thumbsup:
+6. Live in the glory of the learned brain :sparkles:
+7. Now that you have learned cloud, take a break, go for an outing...
 
 Template Source:  https://github.com/100DaysOfCloud/100DaysOfCloud
+** To Pursue Cloud Computing Mastery path, one should have 5-7 years of experience on the Cloud. I would recommend you to pursue microservices course before venturing on the Cloud. 
 
 ## Stepping out the door, publishing my cloud memoir
 
@@ -145,4 +146,4 @@ Template Source:  https://github.com/100DaysOfCloud/100DaysOfCloud
 - [ ] ☁️ 100 > [](Journey/100/Readme.md)
 
 Reference material:
-
+Complete list of github markdown emoji markup: https://gist.github.com/rxaviers/7360908
