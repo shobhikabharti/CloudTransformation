@@ -1,6 +1,6 @@
 # CloudComputing
 <p align="center">
-  <img src=https://www.canva.com/design/DAFJ4O0aHkg/Fl5W-TX6gTiS-6CcAc6UPw/view?utm_content=DAFJ4O0aHkg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink>
+  <img src="https://www.canva.com/design/DAFJ4O0aHkg/Fl5W-TX6gTiS-6CcAc6UPw/view?utm_content=DAFJ4O0aHkg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 </p>
 
 ## The Journey
@@ -16,7 +16,7 @@ Template Source:  https://github.com/100DaysOfCloud/100DaysOfCloud
 
 ## Stepping out the door, publishing my cloud memoir
 
-- [ Banner] ☁️ 1 > Playing with the Canva to come up with the banner online.
+- [ ] ☁️ 1 > Playing with the Canva to come up with the banner online.
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
