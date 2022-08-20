@@ -10,7 +10,7 @@
 4. Upload the content here on daily basis :notes:
 5. Be presentation ready on your content :thumbsup:
 6. Live in the glory of the learned brain :sparkles:
-7. Now that you have learned cloud, take a break, go for an outing...
+7. Now that you have learned cloud, take a break, go for an outing...:checkered_flag: :moyai:
 
 Template Source:  https://github.com/100DaysOfCloud/100DaysOfCloud
 ** To Pursue Cloud Computing Mastery path, one should have 5-7 years of experience on the Cloud. I would recommend you to pursue microservices course before venturing on the Cloud. 
