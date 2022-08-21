@@ -1,4 +1,4 @@
-# CloudComputing
+# Cloud Computing
 <p align="center">
   <img src="Banner.jpg">
 </p>
