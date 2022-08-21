@@ -14,7 +14,7 @@
 
 ** To Pursue Cloud Computing Mastery path, one should have 5-7 years of hands-on experience on the DevOps, Microservices, and Full Stack Architecture. I would recommend you to revisit few courses for in-depth knowledge in these areas before venturing on the Cloud. For more, you can keep my YouTube Playlist as a reference, I keep on updating these as per industry requirements
 
-Development Library :	https://bit.ly/3K92GXO
+Development Library :	https://bit.ly/3K92GXO  
 Digital Product Library :	https://bit.ly/3pAquKA
 
 ## Stepping out the door, publishing my cloud memoir
