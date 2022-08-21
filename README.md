@@ -12,7 +12,10 @@
 6. Live in the glory of the learned brain :sparkles:
 7. Now that you have learned cloud, take a break, go for an outing...:checkered_flag: :moyai:
 
-** To Pursue Cloud Computing Mastery path, one should have 5-7 years of experience on the Cloud. I would recommend you to pursue microservices course before venturing on the Cloud. 
+** To Pursue Cloud Computing Mastery path, one should have 5-7 years of hands-on experience on the DevOps, Microservices, and Full Stack Architecture. I would recommend you to revisit few courses for in-depth knowledge in these areas before venturing on the Cloud. For more, you can keep my YouTube Playlist as a reference, I keep on updating these as per industry requirements
+
+Development Library :	https://bit.ly/3K92GXO
+Digital Product Library :	https://bit.ly/3pAquKA
 
 ## Stepping out the door, publishing my cloud memoir
 
