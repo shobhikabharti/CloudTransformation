@@ -50,6 +50,6 @@ Digital Product Library :	https://bit.ly/3pAquKA
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </p>
 
-:books: ## Reference Material:  
+## Reference Material :books:  
   
 1. Complete list of github markdown emoji markup: https://gist.github.com/rxaviers/7360908
