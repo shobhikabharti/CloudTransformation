@@ -26,8 +26,11 @@ Digital Product Library :	https://bit.ly/3pAquKA
 - [ ] 20 AUG 2022 > Playing with the Canva to come up with the banner online. Created my learning accounts on AWS and Azure.  
 - [ ] 21 AUG 2022 > Came up with my learning plan and it's brutal, need to plan for wellness as well, I'm thinking 1-2 hours per day.  
 - [ ] 22 AUG 2022 > Started on Cloud Practioner Essentials Week 1, tide is high and I'm sailing on for sure 😉  
-- [ ] 23 AUG 2022 >
-
+- [ ] 23 AUG 2022 > Revisted few basics on the S3 Bucket, EC2, Route 53, and Load Balancing    
+- [ ] 24 AUG 2022 >  
+- [ ] 25 AUG 2022 >  
+- [ ] 26 AUG 2022 >  
+- [ ] 27 AUG 2022 >  
 
 ## Walking down the road
 
