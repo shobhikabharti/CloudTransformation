@@ -12,7 +12,7 @@
 6. Live in the glory of the learned brain :sparkles:
 7. Now that you have learned cloud, take a break, go for an outing...:checkered_flag: :moyai:
 
-** To Pursue Cloud Computing Mastery path, one should have 5-7 years of hands-on experience on the DevOps, Microservices, Security, and Full Stack Architecture. I would recommend you to revisit few courses for in-depth knowledge in these areas before venturing on the Cloud. For more, you can keep my YouTube Playlist as a reference, I keep on updating these as per industry requirements
+** To Pursue Cloud Computing Mastery path, one should have 5-7 years of hands-on experience on the DevOps, Microservices, Security, and Full Stack Architecture. I would recommend you to revisit few courses for in-depth knowledge in these areas before venturing on the Cloud. To be frank, it depends on the experience level and your interest in the Cloud to come up with flying colors in this area. Just make sure that you don't mug up things for a while but it should be pragmatic exprerience as well. For more, you can keep my YouTube Playlist as a reference, I keep on updating these as per industry requirements
 
 Development Library :	https://bit.ly/3K92GXO  
 Digital Product Library :	https://bit.ly/3pAquKA
@@ -25,7 +25,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 
 - [ ] 20 AUG 2022 > Playing with the Canva to come up with the banner online. Created my learning accounts on AWS and Azure.  
 - [ ] 21 AUG 2022 > Came up with my learning plan and it's brutal, need to plan for wellness as well, I'm thinking 1-2 hours per day.  
-- [ ] 22 AUG 2022 > Started on Cloud Practioner Essentials Week 1, road is tougher ahead  
+- [ ] 22 AUG 2022 > Started on Cloud Practioner Essentials Week 1, tide is high and I'm sailing on for sure 😉  
 - [ ] 23 AUG 2022 >
 
 
