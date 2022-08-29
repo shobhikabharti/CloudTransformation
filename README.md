@@ -27,12 +27,19 @@ Digital Product Library :	https://bit.ly/3pAquKA
 - [ ] 21 AUG 2022 > Came up with my learning plan and it's brutal, need to plan for wellness as well, I'm thinking 1-2 hours per day.  
 - [ ] 22 AUG 2022 > Started on Cloud Practioner Essentials Week 1, tide is high and I'm sailing on for sure 😉  
 - [ ] 23 AUG 2022 > Revisited few basics on the S3 Bucket, EC2, Route 53, and Load Balancing    
-- [ ] 24 AUG 2022 >  
-- [ ] 25 AUG 2022 >  
-- [ ] 26 AUG 2022 >  
-- [ ] 27 AUG 2022 >  
+- [ ] 24 AUG 2022 > No Revision  
+- [ ] 25 AUG 2022 > Introduction to Docker and Kubernetes  
+- [ ] 26 AUG 2022 > Contd.    
+- [ ] 27 AUG 2022 > Contd.   
+- [ ] 28 AUG 2022 > Revisted the Learning plan and tweaked for quick results     
+- [ ] 29 AUG 2022 > AWS Containerization and EKS   
+- [ ] 30 AUG 2022 > AWS Cloud Essentials    
+- [ ] 31 AUG 2022 > AWS Cloud Essentials       
 
 ## Walking down the road
+
+- [ ] 1 SEP 2022 >    
+- [ ] 2 SEP 2022 >   
 
 ## Crossing the bridge
 
