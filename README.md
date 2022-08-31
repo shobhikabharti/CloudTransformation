@@ -33,8 +33,8 @@ Digital Product Library :	https://bit.ly/3pAquKA
 - [ ] 27 AUG 2022 > Contd.   
 - [ ] 28 AUG 2022 > Revisted the Learning plan and tweaked for quick results     
 - [ ] 29 AUG 2022 > AWS Containerization and EKS   
-- [ ] 30 AUG 2022 > AWS Cloud Essentials    
-- [ ] 31 AUG 2022 > AWS Cloud Essentials       
+- [ ] 30 AUG 2022 > AWS Cloud Practitioner Essentials    
+- [ ] 31 AUG 2022 > AWS Cloud Practitioner Essentials Week 3 made me cackle after a long S3 classification, I was about to doze off but now, I feel alright ...        
 
 ## Walking down the road
 
