@@ -38,8 +38,17 @@ Digital Product Library :	https://bit.ly/3pAquKA
 
 ## Walking down the road
 
-- [ ] 1 SEP 2022 >    
-- [ ] 2 SEP 2022 >   
+- [ ] 1 SEP 2022 > AWS Cloud Practitioner Essentials...   
+- [ ] 2 SEP 2022 > Browsing around on YouTube for the cloud training for ideas  
+- [ ] 3 SEP 2022 > Took a day off as I had guests in my home   
+- [ ] 4 SEP 2022 > Had a good meal on Sunday and completed pending courses in Marketing  
+- [ ] 5 SEP 2022 > Completed AWS Cloud Practioner Essentials course, ready to take exam   
+- [ ] 6 SEP 2022 > Revision and hands on AWS cloud     
+- [ ] 7 SEP 2022 > Exam Prep for AWS Cloud Practioner    
+- [ ] 8 SEP 2022 > BIRTHDAY today :birthday:, taking off  
+- [ ] 9 SEP 2022 >   
+- [ ] 10 SEP 2022 >   
+- [ ] 11 SEP 2022 >   
 
 ## Crossing the bridge
 
@@ -63,4 +72,4 @@ Digital Product Library :	https://bit.ly/3pAquKA
 
 ## Reference Material :books:  
   
-1. Complete list of github markdown emoji markup: https://gist.github.com/rxaviers/7360908
+1. Complete list of github markdown emoji markup: https://gist.github.com/rxaviers/7360908  
