@@ -46,11 +46,17 @@ Digital Product Library :	https://bit.ly/3pAquKA
 - [ ] 6 SEP 2022 > Revision and hands on AWS cloud     
 - [ ] 7 SEP 2022 > Exam Prep for AWS Cloud Practioner    
 - [ ] 8 SEP 2022 > BIRTHDAY today :birthday:, taking off  
-- [ ] 9 SEP 2022 >   
-- [ ] 10 SEP 2022 >   
-- [ ] 11 SEP 2022 >   
-
+- [ ] 9 SEP 2022 > AWS Exam Prep  
+- [ ] 10 SEP 2022 > Met a friend    
+- [ ] 11 SEP 2022 > Attended Webinar and revisited few areas around Cloud  
+  
 ## Crossing the bridge
+
+- [ ] 12 SEP 2022 > Attended Exam prep by AWS and took Mock tests, subscribed more webinars on my Calendar around cloud  
+- [ ] 13 SEP 2022 >   
+- [ ] 14 SEP 2022 >   
+- [ ] 15 SEP 2022 >   
+- [ ] 16 SEP 2022 >   
 
 ## Into the bushy, thorny forest
 
