@@ -44,7 +44,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 - [ ] 4 SEP 2022 > Had a good meal on Sunday and completed pending courses in Marketing  
 - [ ] 5 SEP 2022 > Completed AWS Cloud Practioner Essentials course, ready to take exam   
 - [ ] 6 SEP 2022 > Revision and hands on AWS cloud     
-- [ ] 7 SEP 2022 > Exam Prep for AWS Cloud Practioner    
+- [ ] 7 SEP 2022 > Exam Prep for AWS Cloud Practitioner    
 - [ ] 8 SEP 2022 > BIRTHDAY today :birthday:, taking off  
 - [ ] 9 SEP 2022 > AWS Exam Prep  
 - [ ] 10 SEP 2022 > Met a friend    
@@ -53,7 +53,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 ## Crossing the bridge
 
 - [ ] 12 SEP 2022 > Attended Exam prep by AWS and took Mock tests, subscribed more webinars on my Calendar around cloud  
-- [ ] 13 SEP 2022 > So, in the next few days, I'm going to put myself in motion so that I enjoy cloud ride along with my work. For this, I'm going through few Bootcamps and Exam Prep material everyday since naming conventions are different in every cloud (AWS, Azure, GCP) but I'm taking AWS first. And, I have to read blogs, docs, news, and new features around it as well.
+- [ ] 13 SEP 2022 > So, in the next few days, I'm going to put myself in motion so that I enjoy cloud ride along with my work. For this, I'm going through few Bootcamps on Udemy, Pratcie tests, and Exam Prep readiness material everyday since naming conventions are different in every cloud (AWS, Azure, GCP) but I'm taking AWS first. And, I have to read blogs, docs, news, and new features around it as well.
 - [ ] 14 SEP 2022 >   
 - [ ] 15 SEP 2022 >   
 - [ ] 16 SEP 2022 >   
