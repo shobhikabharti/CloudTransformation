@@ -53,7 +53,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 ## Crossing the bridge
 
 - [ ] 12 SEP 2022 > Attended Exam prep by AWS and took Mock tests, subscribed more webinars on my Calendar around cloud  
-- [ ] 13 SEP 2022 > So, in the next few days, I'm going to put myself in motion so that I enjoy cloud ride along with my work. For this, I'm going through few Bootcamps on Udemy, Pratcie tests, and Exam Prep readiness material everyday since naming conventions are different in every cloud (AWS, Azure, GCP) but I'm taking AWS first. And, I have to read blogs, docs, news, and new features around it as well.
+- [ ] 13 SEP 2022 > So, in the next few days, I'm going to put myself in motion so that I enjoy cloud ride along with my work. For this, I'm going through few Bootcamps on Udemy, Practice tests, and Exam Prep readiness material everyday since naming conventions are different in every cloud (AWS, Azure, GCP) but I'm taking AWS first. And, I have to read blogs, docs, news, and new features around it as well.
 - [ ] 14 SEP 2022 >   
 - [ ] 15 SEP 2022 >   
 - [ ] 16 SEP 2022 >   
