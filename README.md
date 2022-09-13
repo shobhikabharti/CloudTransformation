@@ -12,7 +12,7 @@
 6. Live in the glory of the learned brain :sparkles:
 7. Now that you have learned cloud, take a break, go for an outing...:checkered_flag: :moyai:
 
-** To Pursue Cloud Computing Mastery path, one should have 5-7 years of hands-on experience on the DevOps, Microservices, Security, and Full Stack Architecture. I would recommend you to revisit few courses for in-depth knowledge in these areas before venturing on the Cloud. To be frank, it depends on the experience level and your interest in the Cloud to come up with flying colors in this area. Just make sure that you don't mug up things for a while but it should be pragmatic exprerience as well. For more, you can keep my YouTube Playlist as a reference, I keep on updating these as per industry requirements
+** To Pursue Cloud Computing Mastery path, one should have 4-7 years of hands-on experience on the DevOps, Microservices, Security, and Full Stack Architecture. I would recommend you to revisit few courses for in-depth knowledge in these areas before venturing on the Cloud. To be frank, it depends on the experience level and your interest in the Cloud to come up with flying colors in this area. Just make sure that you don't mug up things for a while but it should be pragmatic exprerience as well. For more, you can keep my YouTube Playlist as a reference, I keep on updating these as per industry requirements
 
 Development Library :	https://bit.ly/3K92GXO  
 Digital Product Library :	https://bit.ly/3pAquKA
@@ -53,7 +53,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 ## Crossing the bridge
 
 - [ ] 12 SEP 2022 > Attended Exam prep by AWS and took Mock tests, subscribed more webinars on my Calendar around cloud  
-- [ ] 13 SEP 2022 >   
+- [ ] 13 SEP 2022 > So, in the next few days, I'm going to put myself in motion so that I enjoy cloud ride along with my work. For this, I'm going through few Bootcamps and Exam Prep material everyday since naming conventions are different in every cloud (AWS, Azure, GCP) but I'm taking AWS first. And, I have to read blogs, docs, news, and new features around it as well.
 - [ ] 14 SEP 2022 >   
 - [ ] 15 SEP 2022 >   
 - [ ] 16 SEP 2022 >   
