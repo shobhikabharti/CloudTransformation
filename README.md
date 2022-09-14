@@ -54,7 +54,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 
 - [ ] 12 SEP 2022 > Attended Exam prep by AWS and took Mock tests, subscribed more webinars on my Calendar around cloud  
 - [ ] 13 SEP 2022 > So, in the next few days, I'm going to put myself in motion so that I enjoy cloud ride along with my work. For this, I'm going through few Bootcamps on Udemy, Practice tests, and Exam Prep readiness material everyday since naming conventions are different in every cloud (AWS, Azure, GCP) but I'm taking AWS first. And, I have to read blogs, docs, news, and new features around it as well.
-- [ ] 14 SEP 2022 >   
+- [ ] 14 SEP 2022 > Going through few topics on Cloud again, from the next month onwards, my classes would start and I am going to post my activity seldom here   
 - [ ] 15 SEP 2022 >   
 - [ ] 16 SEP 2022 >   
 
@@ -79,3 +79,45 @@ Digital Product Library :	https://bit.ly/3pAquKA
 ## Reference Material :books:  
   
 1. Complete list of github markdown emoji markup: https://gist.github.com/rxaviers/7360908  
+2. PG Program in Cloud Computing : https://bit.ly/3T8Qf2b  
+3. Tools & Technologies studied so far:  https://bit.ly/3Dj9zEF   
+4. Running Kubernetes on EKS : https://www.linkedin.com/learning/running-kubernetes-on-aws-eks/selecting-worker-sizing?autoSkip=true&autoplay=true&resume=false  
+5. Prepare for the Designing and Implementing Microsoft DevOps Solutions (AZ-400) Exam : https://www.linkedin.com/learning/paths/prepare-for-the-designing-and-implementing-microsoft-devops-solutions-az-400-exam  
+6. Become a DevOps Engineer : https://www.linkedin.com/learning/paths/become-a-devops-engineer  
+7. AWS Fundamentals : https://www.coursera.org/specializations/aws-fundamentals  
+8. AWS Cloud Practitioner Essentials : https://www.coursera.org/learn/aws-cloud-practitioner-essentials  
+9. Exam Prep: AWS Certified Cloud Practitioner Foundations : https://www.coursera.org/learn/cloud-practitioner-exam-prep  
+10. Exam Prep: AWS Certified Solutions Architect - Associate : https://www.coursera.org/learn/aws-certified-solutions-architect-associate  
+11. DevOps on AWS Specialization : https://www.coursera.org/specializations/aws-devops  
+12. GitHub AZ400 Library : https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions  
+13. Azure Learning : https://bit.ly/3pySkqF  
+14. Azure Docs : https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops  
+15. AWS Docs : https://docs.aws.amazon.com/  
+16. Developer to Architect : https://www.udemy.com/course/developer-to-architect/  
+17. DCA Certification: https://www.linkedin.com/learning/paths/prepare-for-the-docker-certified-associate-dca-certification/  
+18. Running Jenkins on AWS: https://www.linkedin.com/learning/running-jenkins-on-aws-8591136/running-jenkins-on-aws/  
+19. Learning NGINX: https://www.linkedin.com/learning/learning-nginx/what-is-nginx/  
+20. Learning UML: https://bit.ly/3ABBApe  
+21. Learning UML: https://bit.ly/3A9AGyE  
+22. BPMN 2.0 : https://www.udemy.com/course/process-mapping-process-flowcharts/  
+23. Business Transformation Google Cloud: https://www.coursera.org/learn/business-transformation-google-cloud/  
+24. Digital Transformation Google Cloud: https://www.coursera.org/learn/digital-transformation-google-cloud/  
+25. Developing Apps GCP: https://www.coursera.org/specializations/developing-apps-gcp  
+26. https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/welcome  
+27. https://www.coursera.org/projects/googlecloud-cloud-operations-for-gke-hhhly  
+28. https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform  
+29. https://www.coursera.org/specializations/organizational-change-and-culture-for-adopting-google-cloud  
+30. https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training  
+31. https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud  
+32. https://www.coursera.org/professional-certificates/gcp-cloud-architect  
+33. AZ 400 Training: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d  
+34. Containerized application on aws: https://www.coursera.org/learn/containerized-applications-on-aws  
+35. Building Modern application with Java: https://www.coursera.org/learn/building-modern-java-applications-on-aws/lecture/7QKLj/introduction-to-building-modern-applications  
+36. Master Cloud Native Infrastructure with Kubernetes : https://www.linkedin.com/learning/paths/master-cloud-native-infrastructure-with-kubernetes  
+36. AWS Fundamentals: https://www.coursera.org/specializations/aws-fundamentals  
+37. Cloud Computing at Scale: https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale  
+38. Exam Prep by AWS: https://www.coursera.org/learn/exam-prep-aws-sysops-administrator  
+39. Cloud Computing by Duke: https://www.coursera.org/learn/cloud-computing-foundations-duke/lecture/zNF7x/instructor-introduction  
+
+
+
