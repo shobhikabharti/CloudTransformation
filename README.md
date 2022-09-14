@@ -121,10 +121,10 @@ Digital Product Library :	https://bit.ly/3pAquKA
 34. Containerized application on aws: https://www.coursera.org/learn/containerized-applications-on-aws  
 35. Building Modern application with Java: https://www.coursera.org/learn/building-modern-java-applications-on-aws/lecture/7QKLj/introduction-to-building-modern-applications  
 36. Master Cloud Native Infrastructure with Kubernetes : https://www.linkedin.com/learning/paths/master-cloud-native-infrastructure-with-kubernetes      
-37. AWS Fundamentals: https://www.coursera.org/specializations/aws-fundamentals  
-38. Cloud Computing at Scale: https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale  
-39. Exam Prep by AWS: https://www.coursera.org/learn/exam-prep-aws-sysops-administrator  
-40. Cloud Computing by Duke: https://www.coursera.org/learn/cloud-computing-foundations-duke/lecture/zNF7x/instructor-introduction  
-41. Azure AZ 400 Lab on GitHub: https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions
+
+37. Cloud Computing at Scale: https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale  
+38. Exam Prep by AWS: https://www.coursera.org/learn/exam-prep-aws-sysops-administrator  
+39. Cloud Computing by Duke: https://www.coursera.org/learn/cloud-computing-foundations-duke/lecture/zNF7x/instructor-introduction  
+40. Azure AZ 400 Lab on GitHub: https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions
 
 
