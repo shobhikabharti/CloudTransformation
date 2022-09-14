@@ -3,6 +3,13 @@
   <img src="Banner.jpg">
 </p>
 
+## My Certifications
+Coming soon...  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</p>
+
 ## The Journey
 1. Revisit the Cloud Basics :speech_balloon:
 2. Come up with the learning plan :dash:
