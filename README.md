@@ -103,21 +103,20 @@ Digital Product Library :	https://bit.ly/3pAquKA
 23. Business Transformation Google Cloud: https://www.coursera.org/learn/business-transformation-google-cloud/  
 24. Digital Transformation Google Cloud: https://www.coursera.org/learn/digital-transformation-google-cloud/  
 25. Developing Apps GCP: https://www.coursera.org/specializations/developing-apps-gcp  
-26. https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/welcome  
-27. https://www.coursera.org/projects/googlecloud-cloud-operations-for-gke-hhhly  
-28. https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform  
-29. https://www.coursera.org/specializations/organizational-change-and-culture-for-adopting-google-cloud  
-30. https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training  
-31. https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud  
-32. https://www.coursera.org/professional-certificates/gcp-cloud-architect  
+26. Azure Developer Space: https://azure.microsoft.com/en-us/products/devops/?nav=min#overview
+27. Google Cloud Operations for GKE: https://www.coursera.org/projects/googlecloud-cloud-operations-for-gke-hhhly  
+28. GCP: https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform  
+29. Adopting GCP: https://www.coursera.org/specializations/organizational-change-and-culture-for-adopting-google-cloud  
+30. GCP Digital Leader Training: https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training  
+31. GCP DevOps Engineer: https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud  
+32. GCP Cloud Architect: https://www.coursera.org/professional-certificates/gcp-cloud-architect  
 33. AZ 400 Training: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d  
 34. Containerized application on aws: https://www.coursera.org/learn/containerized-applications-on-aws  
 35. Building Modern application with Java: https://www.coursera.org/learn/building-modern-java-applications-on-aws/lecture/7QKLj/introduction-to-building-modern-applications  
-36. Master Cloud Native Infrastructure with Kubernetes : https://www.linkedin.com/learning/paths/master-cloud-native-infrastructure-with-kubernetes  
-36. AWS Fundamentals: https://www.coursera.org/specializations/aws-fundamentals  
-37. Cloud Computing at Scale: https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale  
-38. Exam Prep by AWS: https://www.coursera.org/learn/exam-prep-aws-sysops-administrator  
-39. Cloud Computing by Duke: https://www.coursera.org/learn/cloud-computing-foundations-duke/lecture/zNF7x/instructor-introduction  
+36. Master Cloud Native Infrastructure with Kubernetes : https://www.linkedin.com/learning/paths/master-cloud-native-infrastructure-with-kubernetes   37. AWS Fundamentals: https://www.coursera.org/specializations/aws-fundamentals  
+38. Cloud Computing at Scale: https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale  
+39. Exam Prep by AWS: https://www.coursera.org/learn/exam-prep-aws-sysops-administrator  
+40. Cloud Computing by Duke: https://www.coursera.org/learn/cloud-computing-foundations-duke/lecture/zNF7x/instructor-introduction  
 
 
 
