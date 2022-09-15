@@ -125,6 +125,6 @@ Digital Product Library :	https://bit.ly/3pAquKA
 37. Cloud Computing at Scale: https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale  
 38. Exam Prep by AWS: https://www.coursera.org/learn/exam-prep-aws-sysops-administrator  
 39. Cloud Computing by Duke: https://www.coursera.org/learn/cloud-computing-foundations-duke/lecture/zNF7x/instructor-introduction  
-40. Azure AZ 400 Lab on GitHub: https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions
+40. AWS Certified Cloud Practitioner: https://www.udemy.com/course/aws-certified-cloud-practitioner-new
 
 
