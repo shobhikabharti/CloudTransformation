@@ -65,6 +65,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 - [ ] 14 SEP 2022 > Going through few topics on Cloud again, from the next month onwards, my classes would start and I am going to post my activity seldom here   
 - [ ] 15 SEP 2022 > Took it slow today  
 - [ ] 16 SEP 2022 > Found a good DevOps Library, auditing today https://lms.simplilearn.com/courses/4305/Introduction-to-Devops-Tools  
+- [ ] 21 SEP 2022 > Embarking on the Journey, it took me a month again to prepare for the Cloud Practitioner Essentials with my job  
 
 ## Into the bushy, thorny forest
 
@@ -121,8 +122,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 33. AZ 400 Training: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d  
 34. Containerized application on aws: https://www.coursera.org/learn/containerized-applications-on-aws  
 35. Building Modern application with Java: https://www.coursera.org/learn/building-modern-java-applications-on-aws/lecture/7QKLj/introduction-to-building-modern-applications  
-36. Master Cloud Native Infrastructure with Kubernetes : https://www.linkedin.com/learning/paths/master-cloud-native-infrastructure-with-kubernetes      
-
+36. Master Cloud Native Infrastructure with Kubernetes : https://www.linkedin.com/learning/paths/master-cloud-native-infrastructure-with-kubernetes   
 37. Cloud Computing at Scale: https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale  
 38. Exam Prep by AWS: https://www.coursera.org/learn/exam-prep-aws-sysops-administrator  
 39. Cloud Computing by Duke: https://www.coursera.org/learn/cloud-computing-foundations-duke/lecture/zNF7x/instructor-introduction  
