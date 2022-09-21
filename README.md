@@ -65,7 +65,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 - [ ] 14 SEP 2022 > Going through few topics on Cloud again, from the next month onwards, my classes would start and I am going to post my activity seldom here   
 - [ ] 15 SEP 2022 > Took it slow today  
 - [ ] 16 SEP 2022 > Found a good DevOps Library, auditing today https://lms.simplilearn.com/courses/4305/Introduction-to-Devops-Tools  
-- [ ] 21 SEP 2022 > Embarking on the Journey, it took me a month again to prepare for the Cloud Practitioner Essentials with my job  
+- [ ] 21 SEP 2022 > Embarking on the Journey, induction session on my Great Learning course  
 
 ## Into the bushy, thorny forest
 
