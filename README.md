@@ -66,6 +66,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 - [ ] 15 SEP 2022 > Took it slow today  
 - [ ] 16 SEP 2022 > Found a good DevOps Library, auditing today https://lms.simplilearn.com/courses/4305/Introduction-to-Devops-Tools  
 - [ ] 21 SEP 2022 > Embarking on the Journey, induction session on my Great Learning course  
+- [ ] 22 SEP 2022 > Got myself registerd for many AWS Events https://go.aws/3dtUoxX. Please do checkout. It can be different as per your location and partner profile.    
 
 ## Into the bushy, thorny forest
 
