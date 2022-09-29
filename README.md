@@ -3,9 +3,6 @@
   <img src="Banner.jpg">
 </p>
 
-## My Certifications
-Coming soon...  
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </p>
@@ -69,6 +66,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 - [ ] 22 SEP 2022 > Got myself registerd for many AWS Events https://go.aws/3dtUoxX. Please do checkout. It can be different as per your location and partner profile.    
 - [ ] 23 SEP 2022 > Attended AWS Cloud Practitioner Event https://classnotes.puser.info/CPELinks_v3.html and checked in file in the Content folder  
 - [ ] 26 SEP 2022 > Calendar full of AWS Events is all I wanted to put myself on Cloud 9  
+- [ ] 29 SEP 2022 > Finished a few courses on https://explore.skillbuilder.aws/ and enrolled myself on Associate track  
 
 ## Into the bushy, thorny forest
 
