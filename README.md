@@ -67,6 +67,8 @@ Digital Product Library :	https://bit.ly/3pAquKA
 - [ ] 16 SEP 2022 > Found a good DevOps Library, auditing today https://lms.simplilearn.com/courses/4305/Introduction-to-Devops-Tools  
 - [ ] 21 SEP 2022 > Embarking on the Journey, induction session on my Great Learning course  
 - [ ] 22 SEP 2022 > Got myself registerd for many AWS Events https://go.aws/3dtUoxX. Please do checkout. It can be different as per your location and partner profile.    
+- [ ] 23 SEP 2022 > Attended AWS Cloud Practitioner Event https://classnotes.puser.info/CPELinks_v3.html and checked in file in the Content folder  
+- [ ] 26 SEP 2022 > Calendar full of AWS Events is all I wanted to put myself on Cloud 9  
 
 ## Into the bushy, thorny forest
 
