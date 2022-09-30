@@ -22,7 +22,7 @@ Introduction to DevOps Tools: https://lms.simplilearn.com/courses/4305/Introduct
 Development Library :	https://bit.ly/3K92GXO  
 Digital Product Library :	https://bit.ly/3pAquKA  
 
-Further, Google & IBM launched beginner library on Coursera, please go through these basic courses to refresh/upscale on product development and management    
+Further, Google & IBM launched beginner library on Coursera, please go through these basic courses to refresh/upscale on product development and management for DevOps work. However, if you're from other applied areas, you might need to come up with different learning library  
 1. Google UX Design: https://www.coursera.org/professional-certificates/google-ux-design  
 2. Google IT Support: https://www.coursera.org/professional-certificates/google-it-support  
 3. Google Data Analytics: https://www.coursera.org/professional-certificates/google-data-analytics  
