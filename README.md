@@ -20,7 +20,15 @@
 
 Introduction to DevOps Tools: https://lms.simplilearn.com/courses/4305/Introduction-to-Devops-Tools  
 Development Library :	https://bit.ly/3K92GXO  
-Digital Product Library :	https://bit.ly/3pAquKA
+Digital Product Library :	https://bit.ly/3pAquKA  
+
+Further, Google & IBM launched beginner library on Coursera, please go through these basic courses to refresh/upscale on product development and maintenance    
+1. Google UX Design: https://www.coursera.org/professional-certificates/google-ux-design  
+2. Google IT Support: https://www.coursera.org/professional-certificates/google-it-support  
+3. Google Data Analytics: https://www.coursera.org/professional-certificates/google-data-analytics  
+4. Google Digital Marketing Ecommerce: https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce  
+5. Google Project Management: https://www.coursera.org/professional-certificates/google-project-management  
+6. IBM DevOps and Software Engineering: https://www.coursera.org/professional-certificates/devops-and-software-engineering  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
@@ -127,6 +135,7 @@ Digital Product Library :	https://bit.ly/3pAquKA
 37. Cloud Computing at Scale: https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale  
 38. Exam Prep by AWS: https://www.coursera.org/learn/exam-prep-aws-sysops-administrator  
 39. Cloud Computing by Duke: https://www.coursera.org/learn/cloud-computing-foundations-duke/lecture/zNF7x/instructor-introduction  
-40. AWS Certified Cloud Practitioner: https://www.udemy.com/course/aws-certified-cloud-practitioner-new
+40. AWS Certified Cloud Practitioner: https://www.udemy.com/course/aws-certified-cloud-practitioner-new  
+41. Certified Kubernetes Administrator: https://share.percipio.com/cd/eht-evrza  
 
 
