@@ -16,13 +16,13 @@
 6. Live in the glory of the learned brain :sparkles:
 7. Now that you have learned cloud, take a break, go for an outing...:checkered_flag: :moyai:
 
-** To Pursue Cloud Computing Mastery path, one should have 4-7 years of hands-on experience on the DevOps, Microservices, Security, and Full Stack Architecture Design Patterns. I would recommend you to revisit few IT related courses preferably around IT networking and Linux fundamentals for in-depth knowledge in these areas before venturing on the Cloud. To be frank, it depends on the experience level and your interest in the Cloud to come up with flying colors in this area. Just make sure that you don't mug up things for a while but it should be pragmatic exprerience as well. For more, you can keep my YouTube Playlist as a reference, I keep on updating these as per industry requirements
+** To Pursue Cloud Computing Mastery path, one should have 4-7 years of hands-on experience on the DevOps, Microservices, Security, and Full Stack Architecture Design Patterns. I would recommend you to revisit few IT related courses preferably around IT networking and Linux fundamentals for in-depth knowledge in these areas before venturing on the Cloud. To be frank, it depends on the experience level and your interest in the Cloud to come up with flying colors in this area. For the starters, take a cloud practitioner/essentials course exam and gets hands-on on cloud, it would take 6 months and anybody can take it whether you are 18 yrs. old or 40 yrs. old, it doesn't matter, just hop on to your cloud express. Just make sure that you don't mug up things for a while but it should be pragmatic exprerience as well. For more, you can keep my YouTube Playlist below as a reference, I keep on updating these as per industry requirements
 
 Introduction to DevOps Tools: https://lms.simplilearn.com/courses/4305/Introduction-to-Devops-Tools  
 Development Library :	https://bit.ly/3K92GXO  
 Digital Product Library :	https://bit.ly/3pAquKA  
 
-Further, Google & IBM launched beginner library on Coursera, please go through these basic courses to refresh/upscale on product development and management for DevOps work. However, if you're from other applied areas, you might need to come up with different learning library  
+Further, Google & IBM launched beginner library on Coursera, if required, please go through these basic courses to refresh/upscale on product development and management for DevOps work. However, if you're from other applied areas, you might need to come up with different learning library  
 1. Google UX Design: https://www.coursera.org/professional-certificates/google-ux-design  
 2. Google IT Support: https://www.coursera.org/professional-certificates/google-it-support  
 3. Google Data Analytics: https://www.coursera.org/professional-certificates/google-data-analytics  
@@ -75,6 +75,7 @@ Further, Google & IBM launched beginner library on Coursera, please go through t
 - [ ] 23 SEP 2022 > Attended AWS Cloud Practitioner Event https://classnotes.puser.info/CPELinks_v3.html and checked in file in the Content folder  
 - [ ] 26 SEP 2022 > Calendar full of AWS Events is all I wanted to put myself on Cloud 9  
 - [ ] 29 SEP 2022 > Finished a few courses on https://explore.skillbuilder.aws/ and enrolled myself on Associate track  
+- [ ] 30 SEP 2022 > After first 40 days of arranging courses, webinars, websites, materials, and events on the cloud, I am feeling confident that I can start with my deeper level of understanding now   
 
 ## Into the bushy, thorny forest
 
