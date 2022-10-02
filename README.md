@@ -14,23 +14,23 @@
 4. Upload the content here on daily basis :notes:
 5. Be presentation ready on your content :thumbsup:
 6. Live in the glory of the learned brain :sparkles:
-7. Now that you have learned cloud, take a break, go for an outing...:checkered_flag: :moyai:
+7. Now that you have learned cloud, take a break, go for an outing...:checkered_flag: :moyai:  
 
 ** To Pursue Cloud Computing Mastery path, one should have 4-7 years of hands-on experience on the DevOps, Microservices, Security, and Full Stack Architecture Design Patterns. I would recommend you to revisit few IT related courses preferably around IT networking and Linux fundamentals for in-depth knowledge in these areas before venturing on the Cloud. To be frank, it depends on the experience level and your interest in the Cloud to come up with flying colors in this area. For the starters, take a cloud practitioner/essentials course exam and gets hands-on on cloud, it would take 6 months and anybody can take it whether you are 18 yrs. old or 40 yrs. old, it doesn't matter, just hop on to your cloud express :bullettrain_front:. Just make sure that you don't mug up things for a while but it should be pragmatic exprerience as well. And, if you're planning for masters, select your masters' programme as per your interest and continue on technical area side by side:vertical_traffic_light:. For more, you can keep my YouTube Playlist below as a reference, I keep on updating these as per industry requirements  
 
-Complete list of github markdown emoji markup: https://gist.github.com/rxaviers/7360908  
-Introduction to DevOps Tools: https://lms.simplilearn.com/courses/4305/Introduction-to-Devops-Tools  
-Development Library :	https://bit.ly/3K92GXO  
-Digital Product Library :	https://bit.ly/3pAquKA  
+1. Introduction to DevOps Tools: https://lms.simplilearn.com/courses/4305/Introduction-to-Devops-Tools  
+2. DevOps Certification Link: https://www.edureka.co/devops-certification-training  
+3. Development Library :	https://bit.ly/3K92GXO  
+4. Digital Product Library :	https://bit.ly/3pAquKA  
 
 
-Further, Google & IBM launched beginner library on Coursera, if required, please go through these basic courses to refresh/upscale on product development and management for DevOps work. However, if you're from other applied areas, you might need to come up with different learning library  
+Further, Google launched beginner library on Coursera, if required, please go through these basic courses to refresh/upscale on product development and management for DevOps work. However, if you're from other applied areas, you might need to come up with different learning library  
 1. Google UX Design: https://www.coursera.org/professional-certificates/google-ux-design  
 2. Google IT Support: https://www.coursera.org/professional-certificates/google-it-support  
 3. Google Data Analytics: https://www.coursera.org/professional-certificates/google-data-analytics  
 4. Google Digital Marketing Ecommerce: https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce  
 5. Google Project Management: https://www.coursera.org/professional-certificates/google-project-management  
-6. IBM DevOps and Software Engineering: https://www.coursera.org/professional-certificates/devops-and-software-engineering  
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
@@ -38,7 +38,7 @@ Further, Google & IBM launched beginner library on Coursera, if required, please
 
 ## Stepping out the door, publishing my cloud memoir
 
-- [ ] 20 AUG 2022 > Playing with the Canva to come up with the banner online. Created my learning accounts on AWS and Azure.  
+- [ ] 20 AUG 2022 > Playing with the Canva to come up with the banner online. Created my learning accounts on AWS and Azure. Referred https://gist.github.com/rxaviers/7360908 for README.md    
 - [ ] 21 AUG 2022 > Came up with my learning plan and it's brutal, need to plan for wellness as well, I'm thinking 1-2 hours per day.  
 - [ ] 22 AUG 2022 > Started on Cloud Practioner Essentials Week 1, tide is high and I'm sailing on for sure 😉  
 - [ ] 23 AUG 2022 > Revisited few basics on the S3 Bucket, EC2, Route 53, and Load Balancing    
