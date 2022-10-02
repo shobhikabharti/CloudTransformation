@@ -78,6 +78,7 @@ Further, Google launched beginner library on Coursera, if required, please go th
 - [ ] 26 SEP 2022 > Calendar full of AWS Events is all I wanted to put myself on Cloud 9  
 - [ ] 29 SEP 2022 > Finished a few courses on https://explore.skillbuilder.aws/ and enrolled myself on Associate track  
 - [ ] 30 SEP 2022 > After first 40 days of arranging courses, webinars, websites, materials, and events on the cloud, I am feeling confident that I can start with my deeper level of understanding now   
+- [ ] 02 OCT 2022 > Found a link to GCP Interactive Cheat sheet https://googlecloudcheatsheet.withgoogle.com/  
 
 ## Into the bushy, thorny forest
 
