@@ -146,6 +146,7 @@ Further, Google launched beginner library on Coursera, if required, please go th
 41.	Master Cloud Native Infrastructure with Kubernetes: https://www.linkedin.com/learning/paths/master-cloud-native-infrastructure-with-kubernetes     
 42. Software Architecture for IOT: https://www.coursera.org/learn/iot-software-architecture/  
 43. Enterprise and Infrastructure Security: https://www.coursera.org/learn/enterprise-infrastructure-security/   
+44. Digital Governance: https://www.coursera.org/learn/digitalgovernance  
  
 
 
