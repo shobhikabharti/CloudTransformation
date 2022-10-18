@@ -82,6 +82,7 @@ Further, Google launched beginner library on Coursera, if required, please go th
 - [ ] 07 OCT 2022 > Attended three days workshop on AWS QuickSight https://bit.ly/3SMGeqV  
 - [ ] 10 OCT 2022 > For my record here, I am attending events this month from other cloud providers for my work, will be updating on AWS Cloud Practitioner soon ...  
 - [ ] 11 OCT 2022 > AWS Power-hour links https://bit.ly/3fUCHIy , https://go.aws/3TbF5Ju, && https://bit.ly/3fUCHIy  
+- [ ] 18 OCT 2022 > Busy with the Partner events from past few weeks, gonna update my progress on the Cloud Exam soon ...  
 
 ## Into the bushy, thorny forest
 
