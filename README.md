@@ -88,6 +88,8 @@ Further, Google launched beginner library on Coursera, if required, please go th
 - [ ] 9 NOV 2022 > Still in training mode, but I learned about partner compentency program https://aws.amazon.com/partners/programs/competencies/  
 
 ## Into the bushy, thorny forest
+- [ ] 16 NOV 2022 > Last month, I revisited Cybersecurity theoretical concepts from OWASP, CompTIA, CISSP, ITIL, and InfoSec to understand security layer and compliances associated with the Cloud. Not a very good strategy, but I had to brush up on everything quickly to start with the lab session in the AWS training. One can definitely skip this step for the last, but I would recommend to revisit basics of Cybersecurity and pen testing for work  
+- [ ] 17 NOV 2022 > 
 
 ## Trekking the dunes
 
