@@ -104,6 +104,7 @@ Further, Google launched beginner library on Coursera, if required, please go th
 - [ ] 21 DEC 2022 > Delayed few things as I have to wrap this year as quickly as I can as I was committed to a massive learning goal this year, some areas were refresher while others really took toll on my sleeping patterns all year, but what to do though government/institution(s) tries to teach you mostly in bachelors and masters, but disruption gets real. So, sometimes, you have to become extra vigilant to these changing patterns & paradigm shifts and make a point to follow-through through updates in your niche, hence, I did...    
 - [ ] 24 DEC 2022 > Watched two movies on the Christmas eve, The Addams Family & Ram Setu   
 - [ ] 25 DEC 2022 > Started on my assignment, two case studies, Containers on AWS and Lululemon Atheletica, have to submit in two days.  
+- [ ] 02 JAN 2023 > In the past 8 days, I submitted my assignment on Containers on AWS, then post-submission, I had good four days rest without any heavy reading material. So, I focused on planning ahead for the year 2023, spent few hours watching Christmas flicks as I was busy on Christmas with my pending tasks, then I wanted to finish them before we enter into 2023. HAPPY NEW YEAR :tada:!  
 
 ## Winding through the canyons
 
