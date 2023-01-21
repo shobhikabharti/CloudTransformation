@@ -107,6 +107,7 @@ Further, Google launched beginner library on Coursera, if required, please go th
 - [ ] 02 JAN 2023 > In the past 8 days, I submitted my assignment on Containers on AWS, then post-submission, I had good four days rest without any heavy reading material. So, I focused on planning ahead for the year 2023, spent few hours watching Christmas flicks as I was busy on Christmas with my pending tasks, then I wanted to finish them before we enter into 2023. HAPPY NEW YEAR :tada:!  
 - [ ] 10 JAN 2023 > Started with AWS Services now... Couple of months ago, I didn't want to look at the cloud interface with work, now, it feels why did that even  happen? I hope it's fluidic now, now, I will not hate the ugliness in switching platforms while working. Sometimes, meditation helps in compartmentalizing the tasks in your brain or we can say repetition helps in hardwiring. I'll update on the Services links post this month.  
 - [ ] 18 JAN 2023 > Attended Migration Business Case Development again to assess report on https://accelerate.amazonaws.com/  
+- [ ] 21 JAN 2023 > It has been such a long time that I'm studying cloud, but still, I'm looking further to see, what did I miss here. Perhaps, it could be hands-on on the newer things as I'm busy with microservices & business analysis, but again, brain is brain, it wants more out of this experience. Today, I spotted AWS Lambda lab work https://aws.amazon.com/blogs/compute/translating-documents-at-enterprise-scale-with-serverless/   
 
 ## Winding through the canyons
 
