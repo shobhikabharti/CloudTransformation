@@ -21,6 +21,7 @@
 1. Introduction to DevOps Tools: https://lms.simplilearn.com/courses/4305/Introduction-to-Devops-Tools  
 2. Development Library :	https://bit.ly/3K92GXO  
 3. Digital Product Library :	https://bit.ly/3pAquKA  
+4. DevOps Training: https://www.edureka.co/devops-certification-training  
 
 
 Further, Google launched beginner library on Coursera, if required, please go through these basic courses to refresh/upscale on product development and management for DevOps work. However, if you're from other applied areas, you might need to come up with different learning library  
