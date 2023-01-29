@@ -108,6 +108,7 @@ Further, Google launched beginner library on Coursera, if required, please go th
 - [ ] 10 JAN 2023 > Started with AWS Services now... Couple of months ago, I didn't want to look at the cloud interface with work, now, it feels why did that even  happen? I hope it's fluidic now, now, I will not hate the ugliness in switching platforms while working. Sometimes, meditation helps in compartmentalizing the tasks in your brain or we can say repetition helps in hardwiring. I'll update on the Services links post this month.  
 - [ ] 18 JAN 2023 > Attended Migration Business Case Development again to assess report on https://accelerate.amazonaws.com/  
 - [ ] 21 JAN 2023 > It has been such a long time that I'm studying cloud, but still, I'm looking further to see, what did I miss here. Perhaps, it could be hands-on on the newer things as I'm busy with microservices & business analysis, but again, brain is brain, it wants more out of this experience. Today, I spotted AWS Lambda lab work https://aws.amazon.com/blogs/compute/translating-documents-at-enterprise-scale-with-serverless/   
+- [ ] 29 JAN 2023 > AWS is finished and I will be starting with the Associate track prep soon. Registered myself to the AWS APN ride today https://explore.skillbuilder.aws/learn/lp/1651/solution-architect-associate-accelerator-partner-learning-plan/  
 
 ## Winding through the canyons
 
