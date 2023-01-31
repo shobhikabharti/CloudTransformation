@@ -110,6 +110,7 @@ Further, Google launched beginner library on Coursera, if required, please go th
 - [ ] 18 JAN 2023 > Attended Migration Business Case Development again to assess report on https://accelerate.amazonaws.com/  
 - [ ] 21 JAN 2023 > It has been such a long time that I'm studying cloud, but still, I'm looking further to see, what did I miss here. Perhaps, it could be hands-on on the newer things as I'm busy with microservices & business analysis, but again, brain is brain, it wants more out of this experience. Today, I spotted AWS Lambda lab work https://aws.amazon.com/blogs/compute/translating-documents-at-enterprise-scale-with-serverless/   
 - [ ] 29 JAN 2023 > AWS is finished and I will be starting with the Associate track prep soon. Registered myself to the AWS APN ride today https://explore.skillbuilder.aws/learn/lp/1651/solution-architect-associate-accelerator-partner-learning-plan/  
+- [ ] 31 JAN 2023 > Soon, i will be finishing with AWS, starting with the GCP Partner track https://www.cloudskillsboost.google/paths/8. But, as per my training program, I wll be busy in Azure cloud intriduction for two months.  
 
 ## Winding through the canyons
 
