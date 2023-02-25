@@ -116,7 +116,9 @@ Further, Google launched beginner library on Coursera, if required, please go th
 
 ## Winding through the canyons
 - [ ] 14 FEB 2023 > Starting with the major Cloud providers sessions daily now for the next 3 months. That was the aim right from the very beginning. Coming from the development & support background, it is very difficult to boot up on cloud in a day. Hence, training was necessary. My profile is more like business analyst + data scientist + business operations developer + build/deploy + testing/release >> product management. Now, you know why cloud, because I loved it. First time, I did not hesitate to pay for the programme and I enrolled myself, but there were hurdles too. Anyway, now, it's more like melting pot of all major providers' updates here, but this month, I will be focussing mainly on Azure.  
-- [ ] 25 FEB 2023 > Azure started in my program https://infrastructuremap.microsoft.com/ , https://news.microsoft.com/stories/microsoft-datacenter-tour/, https://learn.microsoft.com/en-us/training/paths/implement-network-security/  
+- [ ] 25 FEB 2023 > Azure started in my program https://infrastructuremap.microsoft.com/  
+                                                https://news.microsoft.com/stories/microsoft-datacenter-tour/ 
+                                                https://learn.microsoft.com/en-us/training/paths/implement-network-security/  
 
 ## Stumbling through the caves
 
