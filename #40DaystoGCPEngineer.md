@@ -11,3 +11,4 @@
 - [ ] Feb 18 2023 > Found this GitHub cheatsheet link on GCP https://github.com/priyankavergadia/google-cloud-4-words#the-google-cloud-developers-cheat-sheet   
 - [ ] Feb 19 2023 > Revisited few basics of GCP on Coursera  
 - [ ] Feb 23 2023 > Going through Essential Cloud Infrastructure: Foundation  
+- [ ] Feb 26 2023 > Going through Sample GCP questions today on https://www.whizlabs.com/blog/gcp-associate-cloud-engineer-questions/  
