@@ -12,3 +12,4 @@
 - [ ] Feb 19 2023 > Revisited few basics of GCP on Coursera  
 - [ ] Feb 23 2023 > Going through Essential Cloud Infrastructure: Foundation  
 - [ ] Feb 26 2023 > Going through Sample GCP questions today on https://www.whizlabs.com/blog/gcp-associate-cloud-engineer-questions/  
+- [ ] Feb 27 2023 > GCP Partner training started in my office. For the next 15 days, I will be religiously pursuing that material  
