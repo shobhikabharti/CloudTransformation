@@ -119,7 +119,7 @@ Further, Google launched beginner library on Coursera, if required, please go th
 - [ ] 25 FEB 2023 > Azure started in my program https://infrastructuremap.microsoft.com/  
                                                 https://news.microsoft.com/stories/microsoft-datacenter-tour/ 
                                                 https://learn.microsoft.com/en-us/training/paths/implement-network-security/  
-- [ ] 28 FEB 2023 > Stumbled on Cloud Compasrison https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison  
+- [ ] 28 FEB 2023 > Stumbled on Cloud Comparison https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison  
 
 ## Stumbling through the caves
 
