@@ -14,4 +14,17 @@
 - [ ] Feb 26 2023 > Going through Sample GCP questions today on https://www.whizlabs.com/blog/gcp-associate-cloud-engineer-questions/  
 - [ ] Feb 27 2023 > GCP Partner training started in my office. For the next 15 days, I will be religiously pursuing that material  
 - [ ] Feb 28 2023 > Cheatsheet and cloud comparison https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison, https://googlecloudcheatsheet.withgoogle.com/ 
-- [ ] 1 MAR 2023 > Working with the flash cards for the D-Day revision, back to school methods @35 :D     
+- [ ] 1 MAR 2023 > Working with the flash cards for the D-Day revision, back to school methods @35 :D.   
+      1. Introduction to VPC & Subnets  
+      2. IP & CIDR  
+      3. Regions & Zones (World)  
+      4. VPC Peering   
+      5. Load Balancing & Auto Scaling      
+- [ ] 2 MAR 2023 > Came across a new feature Security Hardening https://cloud.google.com/managed-microsoft-ad/docs/hardening  
+      1. VP Networks lab  
+      2. Firewall (Ingress & Egress) i.e. incoming & outgoing   
+      3. Routes  
+      4. Compute Engine   
+      5. Cluster Security & Security Hardening      
+- [ ] 
+
