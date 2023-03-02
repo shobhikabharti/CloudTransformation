@@ -20,11 +20,13 @@
         3. Regions & Zones (World)  
         4. VPC Peering   
         5. Load Balancing & Auto Scaling      
-- [ ] 2 MAR 2023 > Came across a new feature Security Hardening https://cloud.google.com/managed-microsoft-ad/docs/hardening  
+- [ ] 2 MAR 2023 > GCP Partner training update: Came across a new feature Security Hardening https://cloud.google.com/managed-microsoft-ad/docs/hardening  
         1. VP Networks lab  
         2. Firewall (Ingress & Egress) i.e. incoming & outgoing   
         3. Routes  
-        4. Compute Engine   
+        4. Compute Engine & Options   
         5. Cluster Security & Security Hardening      
-- [ ] 3 MAR 2023 >
+        6. NAT Gateway & Bastion Host  
+        7. Cloud Storage  
+- [ ] 3 MAR 2023 >  
 
