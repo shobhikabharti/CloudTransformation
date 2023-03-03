@@ -38,5 +38,11 @@
         7. **Object Versioning** : Maintaining multiple version on the object or maintaining the history https://cloud.google.com/storage/docs/object-versioning  
         8. **Delete Policy** : https://cloud.google.com/iam/docs/reference/rest/v2beta/policies/delete   
         9. **Filestore** : https://cloud.google.com/filestore  
+        10. **Netapp** : https://cloud.google.com/architecture/partners/netapp-cloud-volumes  
+        11. **Azure-AWS-GCP Comparison** : https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison  
+        12. **ACID Properties** : https://www.bmc.com/blogs/acid-atomic-consistent-isolated-durable/  
+        13. **GCP Services** : https://cloud.google.com/terms/services  
+        14. **Scaling Application** : https://cloud.google.com/community/tutorials/horizontally-scale-mysql-database-backend-with-google-cloud-sql-and-proxysql, https://cloud.google.com/architecture/elastically-scaling-your-mysql-environment  
+        15. **Create Read Replicas** : https://cloud.google.com/sql/docs/postgres/replication/create-replica, https://cloud.google.com/sql/docs/mysql/replication     
 - [ ] 
 
