@@ -31,7 +31,12 @@
 - [ ] 3 MAR 2023 >  
         1. **Storage & Databases (Object, File, Relational, Non-realtional, Warehouse)** : https://cloud.google.com/products/storage, https://cloud.google.com/products/databases  
         2. **Shared Responsibility Model**: https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate  
-        3. **Storage Types** : Storage -> Nearline (1 Month) -> Coldline (3 Month) -> Archive (1 Year) (arranged as per frequecy usage/ data retrieval)
-        4. **** :
+        3. **Storage Types** : Storage -> Nearline (1 Month) -> Coldline (3 Month) -> Archive (1 Year) (arranged as per frequecy usage/ data retrieval)  
+        4. **Pricing** : https://cloud.google.com/storage/pricing  
+        5. **Object Lifecycle Management** : If you want to delete the data but want to contain the snapshot of teh data for few days before deleting it. https://cloud.google.com/storage/docs/lifecycle  
+        6. **Object Immutability** : https://cloud.google.com/storage/docs/objects  
+        7. **Object Versioning** : Maintaining multiple version on the object or maintaining the history https://cloud.google.com/storage/docs/object-versioning  
+        8. **Delete Policy** : https://cloud.google.com/iam/docs/reference/rest/v2beta/policies/delete   
+        9. **Filestore** : https://cloud.google.com/filestore  
 - [ ] 
 
