@@ -27,8 +27,19 @@
         4. **Compute Engine & Options** https://cloud.google.com/compute   
         5. **Cluster Security & Security Hardening** https://cloud.google.com/kubernetes-engine/docs/concepts/security-overview, https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster     
         6. **NAT Gateway & Bastion Host** https://cloud.google.com/nat/docs/overview  
-        7. **Cloud Storage** https://cloud.google.com/products/storage  
-- [ ] 3 MAR 2023 >  
+        7. **Cloud Storage** : https://cloud.google.com/products/storage  
+        8. **Other Recommendation** :
+        Recommendation for ACE and PCA 
+        1. **Basic of Networking**   https://www.youtube.com/watch?v=EuSFNggRCH8&t=1306s   
+        2. https://www.computernetworkingnotes.com/ccna-study-guide/subnetting-tricks-subnetting-made-easy-with-examples.html  
+        3. **Basic of Linux Server** https://www.elithecomputerguy.com/linux-new/  
+        4. **Basic Database** https://www.elithecomputerguy.com/mysql-introduction-2019/  
+        5. **Basic of Storage** https://www.youtube.com/watch?v=1Dqsi2M2tgM  
+        6. **Basic Virtualization** https://www.youtube.com/watch?v=FZR0rG3HKIk  
+        7. **Basic of Scripting (Powershell, JSON scripting , Python scripting)** https://www.youtube.com/watch?v=kpuAr6hbRuk  
+        8. **Basic of Windows Server** https://www.elithecomputerguy.com/windows-server-2012/  
+
+- [ ] 3 MAR 2023 >  In Depth understanding of the cloud setup for the basic application     
         1. **Storage & Databases (Object, File, Relational, Non-realtional, Warehouse)** : https://cloud.google.com/products/storage, https://cloud.google.com/products/databases  
         2. **Shared Responsibility Model**: https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate  
         3. **Storage Types** : Storage -> Nearline (1 Month) -> Coldline (3 Month) -> Archive (1 Year) (arranged as per frequecy usage/ data retrieval)  
