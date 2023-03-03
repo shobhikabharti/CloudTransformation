@@ -29,4 +29,9 @@
         6. **NAT Gateway & Bastion Host** https://cloud.google.com/nat/docs/overview  
         7. **Cloud Storage** https://cloud.google.com/products/storage  
 - [ ] 3 MAR 2023 >  
+        1. **Storage & Databases (Object, File, Relational, Non-realtional, Warehouse)** : https://cloud.google.com/products/storage, https://cloud.google.com/products/databases  
+        2. **Shared Responsibility Model**: https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate  
+        3. **Storage Types** : Storage -> Nearline (1 Month) -> Coldline (3 Month) -> Archive (1 Year) (arranged as per frequecy usage/ data retrieval)
+        4. **** :
+- [ ] 
 
