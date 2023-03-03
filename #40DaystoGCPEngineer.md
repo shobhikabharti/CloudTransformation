@@ -15,18 +15,18 @@
 - [ ] Feb 27 2023 > GCP Partner training started in my office. For the next 15 days, I will be religiously pursuing that material  
 - [ ] Feb 28 2023 > Cheatsheet and cloud comparison https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison, https://googlecloudcheatsheet.withgoogle.com/ 
 - [ ] 1 MAR 2023 > Working with the flash cards for the D-Day revision, back to school methods @35 :D.   
-        1. Introduction to VPC & Subnets  
+        1. Introduction to VPC & Subnets https://cloud.google.com/vpc/docs/overview  
         2. IP & CIDR  
-        3. Regions & Zones (World)  
-        4. VPC Peering   
-        5. Load Balancing & Auto Scaling      
+        3. Regions & Zones (World) https://cloud.google.com/compute/docs/regions-zones  
+        4. VPC Peering https://cloud.google.com/vpc/docs/vpc-peering  
+        5. Load Balancing & Auto Scaling https://cloud.google.com/load-balancing/docs/load-balancing-overview      
 - [ ] 2 MAR 2023 > GCP Partner training update: Came across a new feature Security Hardening https://cloud.google.com/managed-microsoft-ad/docs/hardening  
         1. VP Networks lab  
-        2. Firewall (Ingress & Egress) i.e. incoming & outgoing   
-        3. Routes  
-        4. Compute Engine & Options   
-        5. Cluster Security & Security Hardening      
-        6. NAT Gateway & Bastion Host  
-        7. Cloud Storage  
+        2. Firewall (Ingress & Egress) i.e. incoming & outgoing https://cloud.google.com/vpc/docs/about-firewalls, https://cloud.google.com/vpc/docs/firewalls    
+        3. Routes https://cloud.google.com/vpc/docs/routes  
+        4. Compute Engine & Options https://cloud.google.com/compute   
+        5. Cluster Security & Security Hardening https://cloud.google.com/kubernetes-engine/docs/concepts/security-overview, https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster     
+        6. NAT Gateway & Bastion Host https://cloud.google.com/nat/docs/overview  
+        7. Cloud Storage https://cloud.google.com/products/storage  
 - [ ] 3 MAR 2023 >  
 
