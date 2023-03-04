@@ -122,6 +122,7 @@ Further, Google launched beginner library on Coursera, if required, please go th
 - [ ] 28 FEB 2023 > Stumbled on Cloud Comparison https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison  
 - [ ] 1 MAR 2023 > Found an amazing link on GCP https://partner.cloudskillsboost.google/  
 - [ ] 4 MAR 2023 > Today, I'm attending session on Azure storage https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction. Got to know, S3 bucket and azure storage is also possible solution.  
+- [ ] 4 MAR 2023 > Create serverless applications https://learn.microsoft.com/en-us/training/paths/create-serverless-applications/  
 
 ## Stumbling through the caves
 First 3 things  
