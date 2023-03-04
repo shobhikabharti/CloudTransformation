@@ -124,6 +124,12 @@ Further, Google launched beginner library on Coursera, if required, please go th
 - [ ] 4 MAR 2023 > Today, I'm attending session on Azure storage https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction. Got to know, S3 bucket and azure storage is also possible solution.  
 
 ## Stumbling through the caves
+First 3 things  
+1. https://cloud.google.com/docs/get-started  
+2. https://cloud.google.com/communities  
+3. https://www.googlecloudcommunity.com/gc/Google-Cloud/ct-p/google-cloud  
+
+Ge your hands dirty https://console.cloud.google.com/  
 
 ## Resting at the Lagoon
 
