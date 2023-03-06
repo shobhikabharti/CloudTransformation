@@ -12,6 +12,7 @@ PMP Journey starts here ...
 - [ ] 24 February 2023 > Putting it on hold, mission PMP will start once I finish GCP Cloud Engineer, but I'm going to track it for 100 days as I have already attended training and went through material.  Actually, I need 2-3 weeks continuously to attempt this paper, but I'm constantly engaged in multiple tracks in office and at home. Sometimes, I think, do I have a life right now? No. Hence, I am working on wellness too, can't really cram or skim, it is PMP after all.  
 - [ ] 1 March 2023 > Found flash cards to study PMP, hopefully, they'll help me in my journey https://read.amazon.in/?asin=B07BDBVLGQ&ref_=dbs_t_r_kcr, https://read.amazon.in/?asin=B0999MRLJL&ref_=dbs_t_r_kcr  
 - [ ] 6 March 2023 > https://business.adobe.com/blog/basics/knowledge-areas#project-integration-management  
+Also, another link to the cheat sheet https://github.com/cheat-sheets/project-management-cheat-sheet  
 ->->->->->->->->->->1. Project integration management.  
 ->->->->->->->->->->2. Project scope management.  
 ->->->->->->->->->->3. Project time management.  
@@ -22,3 +23,4 @@ PMP Journey starts here ...
 ->->->->->->->->->->8. Project risk management.  
 ->->->->->->->->->->9. Project procurement management.  
 ->->->->->->->->->->10. Project stakeholder management.  
+- [ ] 
