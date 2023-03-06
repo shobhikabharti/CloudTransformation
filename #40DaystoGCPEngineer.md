@@ -61,7 +61,11 @@
         3. **Firestore** : https://cloud.google.com/firestore  
         4. **Cloud Bigtable** : https://cloud.google.com/bigtable  
         5. **Memorystore** : https://cloud.google.com/memorystore  
-        6. **Security** : https://cloud.google.com/security  
-        7. 
+        6. **Security** : https://cloud.google.com/security, https://cloud.google.com/docs/security/encryption-in-transit    
+        7. **Shared Responsibility Model** : https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate  
+        8. **Performance & IOPS** : https://cloud.google.com/compute/docs/disks/performance  
+        9. **Encryption Options** : https://cloud.google.com/docs/security/encryption/default-encryption    
+        10. **Cloud Key Management** : https://cloud.google.com/security-key-management  
+        11. **Cloud EKM** : https://cloud.google.com/cloud-provider-access-management/key-access-justifications/docs/overview   
 - [ ] 7 MAR 2023 >
 
