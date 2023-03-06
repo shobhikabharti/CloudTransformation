@@ -70,5 +70,6 @@
         12. **Compliance** : https://cloud.google.com/security/compliance  ..look PCI DSS standard   
         13. **GDPR** : https://cloud.google.com/privacy/gdpr  
         14. **Private Google Access** : https://cloud.google.com/vpc/docs/private-google-access   
+        15. **Pricing (dual region vs single region)** : https://cloud.google.com/products/calculator , https://cloud.google.com/storage/docs/locations  
 - [ ] 7 MAR 2023 >
 
