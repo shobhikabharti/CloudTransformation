@@ -67,5 +67,6 @@
         9. **Encryption Options** : https://cloud.google.com/docs/security/encryption/default-encryption    
         10. **Cloud Key Management** : https://cloud.google.com/security-key-management  
         11. **Cloud EKM** : https://cloud.google.com/cloud-provider-access-management/key-access-justifications/docs/overview   
+        12. **Compliance** : https://cloud.google.com/security/compliance  ..look PCI DSS standard   
 - [ ] 7 MAR 2023 >
 
