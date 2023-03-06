@@ -68,5 +68,7 @@
         10. **Cloud Key Management** : https://cloud.google.com/security-key-management  
         11. **Cloud EKM** : https://cloud.google.com/cloud-provider-access-management/key-access-justifications/docs/overview   
         12. **Compliance** : https://cloud.google.com/security/compliance  ..look PCI DSS standard   
+        13. **GDPR** : https://cloud.google.com/privacy/gdpr  
+        14. **Private Google Access** : https://cloud.google.com/vpc/docs/private-google-access   
 - [ ] 7 MAR 2023 >
 
