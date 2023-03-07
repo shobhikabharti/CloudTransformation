@@ -86,5 +86,6 @@
         12. **Best Practices** : https://cloud.google.com/blog/topics/cost-management/best-practices-for-optimizing-your-cloud-costs  
         13. **Pricing Calculator**: https://cloud.google.com/products/calculator  
         14. **Resource Hierarchy** : https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy  
+        15. **Book on Google Cloud Security Foundations (120 pages)** : https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf  
 - [ ] 
 
