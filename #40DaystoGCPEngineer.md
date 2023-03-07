@@ -71,11 +71,20 @@
         13. **GDPR** : https://cloud.google.com/privacy/gdpr  
         14. **Private Google Access** : https://cloud.google.com/vpc/docs/private-google-access   
         15. **Pricing (dual region vs single region)** : https://cloud.google.com/products/calculator , https://cloud.google.com/storage/docs/locations  
-- [ ] 7 MAR 2023 > Security Contd.  
+- [ ] 7 MAR 2023 > Security Contd.  Deployments -> Rolling, Blue green, canary  
         1. **Security** : https://cloud.google.com/security-command-center, https://partner.cloudskillsboost.google/course_templates/88?catalog_rank={%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue}&search_id=22645730   
         2. **DDoS Attack** : https://cloud.google.com/armor, https://cloud.google.com/blog/products/identity-security/how-google-cloud-blocked-largest-layer-7-ddos-attack-at-46-million-rps  
         3. **GCP WAF** : https://cloud.google.com/blog/products/identity-security/new-waf-capabilities-in-cloud-armor  
         4. **Cloud Operations Suite (Refer Log Sink)** : https://cloud.google.com/products/operations, https://cloud.google.com/logging/docs/export/configure_export_v2, https://services.google.com/fh/files/misc/whitepaper_data_governance_logs_how_to.pdf      
         5. **Cloud Monitoring** : https://cloud.google.com/monitoring/docs/monitoring-overview   
+        6. **Cloud Trace** : https://cloud.google.com/trace   
+        7. **Error Reporting** : https://cloud.google.com/error-reporting  
+        8. **Cloud logs** : https://cloud.google.com/logging/docs/view/logs-explorer-interface, https://cloud.google.com/debugger/docs  
+        9. **Cloud Profiler** : https://cloud.google.com/profiler/docs/about-profiler , https://cloud.google.com/profiler/docs    
+        10. **Deployments** : https://www.techtarget.com/searchitoperations/answer/When-to-use-canary-vs-blue-green-vs-rolling-deployment  
+        11. **Cost Management** : https://cloud.google.com/cost-management  
+        12. **Best Practices** : https://cloud.google.com/blog/topics/cost-management/best-practices-for-optimizing-your-cloud-costs  
+        13. **Pricing Calculator**: https://cloud.google.com/products/calculator  
+        14. **Resource Hierarchy** : https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy  
 - [ ] 
 
