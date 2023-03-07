@@ -87,5 +87,6 @@
         13. **Pricing Calculator**: https://cloud.google.com/products/calculator  
         14. **Resource Hierarchy** : https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy  
         15. **Book on Google Cloud Security Foundations (120 pages)** : https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf  
+        16. **Financial Governance on the Cloud** : https://cloud.google.com/files/guide-to-financial-governance.pdf  
 - [ ] 
 
