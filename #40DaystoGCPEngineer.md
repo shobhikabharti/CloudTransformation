@@ -95,5 +95,6 @@
         4. **App Engine** : Each project has 1 app engine, cannot have more than that https://cloud.google.com/appengine  
         5. **Application Architecture: Monolithic vs SOA vs Microservices** : https://www.coforge.com/blog/application-architecture-monolithic-vs-soa-vs-microservices  
         6. **MIGs** : https://cloud.google.com/compute/docs/instance-groups#managed_instance_groups, https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances   
+        7. **OSI Model (Extra)** : https://www.elithecomputerguy.com/2010/07/osi-model-demystified/  
 - [ ] 
 
