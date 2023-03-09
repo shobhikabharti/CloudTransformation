@@ -94,6 +94,6 @@
         3. **GKE** : https://cloud.google.com/kubernetes-engine, https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview    
         4. **App Engine** : Each project has 1 app engine, cannot have more than that https://cloud.google.com/appengine  
         5. **Application Architecture: Monolithic vs SOA vs Microservices** : https://www.coforge.com/blog/application-architecture-monolithic-vs-soa-vs-microservices  
-        6. **** : 
+        6. **MIGs** : https://cloud.google.com/compute/docs/instance-groups#managed_instance_groups, https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances   
 - [ ] 
 
