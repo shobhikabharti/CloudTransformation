@@ -88,5 +88,12 @@
         14. **Resource Hierarchy** : https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy  
         15. **Book on Google Cloud Security Foundations (120 pages)** : https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf  
         16. **Financial Governance on the Cloud** : https://cloud.google.com/files/guide-to-financial-governance.pdf  
+- [ ] 9 MAR 2023 > CI/CD and DevOps Automation    
+        1. **DevOps & SRE** : https://sre.google/, https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out, https://thenewstack.io/google-reveals-the-secrets-of-devops/  
+        2. **Continuous Integration** : https://cloud.google.com/solutions/continuous-integration  
+        3. **GKE** : https://cloud.google.com/kubernetes-engine, https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview    
+        4. **App Engine** : Each project has 1 app engine, cannot have more than that https://cloud.google.com/appengine  
+        5. **Application Architecture: Monolithic vs SOA vs Microservices** : https://www.coforge.com/blog/application-architecture-monolithic-vs-soa-vs-microservices  
+        6. **** : 
 - [ ] 
 
