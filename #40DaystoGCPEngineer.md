@@ -19,7 +19,7 @@
         2. **IP & CIDR**  
         3. **Regions & Zones (World)** https://cloud.google.com/compute/docs/regions-zones  
         4. **VPC Peering** https://cloud.google.com/vpc/docs/vpc-peering  
-        5. **Load Balancing & Auto Scaling** https://cloud.google.com/load-balancing/docs/load-balancing-overview      
+        5. **Load Balancing & Auto Scaling** https://cloud.google.com/load-balancing/docs/load-balancing-overview , https://cloud.google.com/load-balancing/docs     
 - [ ] 2 MAR 2023 > GCP Partner training update: Came across a new feature Security Hardening https://cloud.google.com/managed-microsoft-ad/docs/hardening  
         1. **VP Networks lab**  https://partner.cloudskillsboost.google/course_templates/479?catalog_rank={%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue}&search_id=22588454  
         2. **Firewall (Ingress & Egress) i.e. incoming & outgoing** https://cloud.google.com/vpc/docs/about-firewalls, https://cloud.google.com/vpc/docs/firewalls    
@@ -44,7 +44,7 @@
         2. **Shared Responsibility Model**: https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate  
         3. **Storage Types** : Storage -> Nearline (1 Month) -> Coldline (3 Month) -> Archive (1 Year) (arranged as per frequecy usage/ data retrieval)  
         4. **Pricing** : https://cloud.google.com/storage/pricing  
-        5. **Object Lifecycle Management** : If you want to delete the data but want to contain the snapshot of teh data for few days before deleting it. https://cloud.google.com/storage/docs/lifecycle  
+        5. **Object Lifecycle Management** : If you want to delete the data but want to contain the snapshot of the data for few days before deleting it. https://cloud.google.com/storage/docs/lifecycle  
         6. **Object Immutability** : https://cloud.google.com/storage/docs/objects  
         7. **Object Versioning** : Maintaining multiple version on the object or maintaining the history https://cloud.google.com/storage/docs/object-versioning  
         8. **Delete Policy** : https://cloud.google.com/iam/docs/reference/rest/v2beta/policies/delete   
