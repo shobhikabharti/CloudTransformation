@@ -96,5 +96,10 @@
         5. **Application Architecture: Monolithic vs SOA vs Microservices** : https://www.coforge.com/blog/application-architecture-monolithic-vs-soa-vs-microservices  
         6. **MIGs** : https://cloud.google.com/compute/docs/instance-groups#managed_instance_groups, https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances   
         7. **OSI Model (Extra)** : https://www.elithecomputerguy.com/2010/07/osi-model-demystified/  
+- [ ] 10 MAR 2023 > Lab Today  
+        1. **Networking lab**  
+        2. **VM Instance lab**   
+        3. **MIG Lab, predictive autoscaling**   
+        4. **Cloud balancing** : https://cloudsolutions.academy/solution/what-is-anycast-ip-address-and-how-does-google-cloud-load-balancer-works/
 - [ ] 
 
