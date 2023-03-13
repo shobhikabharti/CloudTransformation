@@ -9,7 +9,7 @@
 - [ ] Feb 14 2023 > Went through LAB today: Getting Started with VPC Networking and Google Compute Engine  
 - [ ] Feb 16 2023 > Today, I decided to go through the playlist on Cracking the Google Cloud career https://bit.ly/3xsYrRp  
 - [ ] Feb 18 2023 > Found this GitHub cheatsheet link on GCP https://github.com/priyankavergadia/google-cloud-4-words#the-google-cloud-developers-cheat-sheet   
-- [ ] Feb 19 2023 > Revisited few basics of GCP on Coursera  
+- [ ] Feb 19 2023 > Revisited few basics of GCP on Coursera, pay attention to **pricing model**  
 - [ ] Feb 23 2023 > Going through Essential Cloud Infrastructure: Foundation  
 - [ ] Feb 26 2023 > Going through Sample GCP questions today on https://www.whizlabs.com/blog/gcp-associate-cloud-engineer-questions/  
 - [ ] Feb 27 2023 > GCP Partner training started in my office. For the next 15 days, I will be religiously pursuing that material  
@@ -101,5 +101,12 @@
         2. **VM Instance lab**   
         3. **MIG Lab, predictive autoscaling**   
         4. **Cloud balancing** : https://cloudsolutions.academy/solution/what-is-anycast-ip-address-and-how-does-google-cloud-load-balancer-works/
+- [ ] 13 MAR 2023 > Hybrid networking, Pub/Sub, Cloud Functions, Cloud Run  
+        1. **Serverless** : https://cloud.google.com/serverless  
+        2. **YouTube Library on Pub/Sub** :   
+        3. **Where to run my stuff** : https://cloud.google.com/blog/topics/developers-practitioners/where-should-i-run-my-stuff-choosing-google-cloud-compute-option         4. **Cloud Functions** :  https://cloud.google.com/functions  
+        4. **Cloud Functions Lab** : https://partner.cloudskillsboost.google/focuses/11542?catalog_rank={%22rank%22%3A13%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue}&parent=catalog&search_id=16956267  
+        5. **Cloud Functions vs Cloud Run** : Both are serverless and auto scaled but when you binary depencies, and program is written in Rust, use Cloud run  
+        6. **Cloud Run** : When you have a container and don't want to use GKE, cloud run is used. https://cloud.google.com/run, https://cloud.google.com/run/docs  
 - [ ] 
 
