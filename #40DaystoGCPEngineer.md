@@ -108,5 +108,12 @@
         4. **Cloud Functions Lab** : https://partner.cloudskillsboost.google/focuses/11542?catalog_rank={%22rank%22%3A13%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue}&parent=catalog&search_id=16956267  
         5. **Cloud Functions vs Cloud Run** : Both are serverless and auto scaled but when you binary depencies, and program is written in Rust, use Cloud run  
         6. **Cloud Run** : When you have a container and don't want to use GKE, cloud run is used. https://cloud.google.com/run, https://cloud.google.com/run/docs, https://knative.dev/docs/, https://www.virtasant.com/blog/stateful-vs-stateless-architecture-why-stateless-won  
-- [ ] 
+- [ ] 14 MAR 2023 > Containers and Kubernetes. Also, today is the last day of my GCP ACE training, hopefully, I'll take exam in coming weeks...  
+        1. **Hypervisor vs OS**  
+        2. **Containers vs Docker** : https://blog.purestorage.com/purely-informational/containerd-vs-docker-whats-the-difference/  
+        3. **CI/CD** : https://cloud.google.com/solutions/continuous-integration, https://cloud.google.com/docs/ci-cd  
+        4. **Artifact Registry** : https://cloud.google.com/artifact-registry, https://cloud.google.com/artifact-registry/docs  
+        5. **Kubernetes Cheatsheet** : https://kubernetes.io/docs/reference/kubectl/cheatsheet/  
+        6. **gcloud cheatsheet** : https://cloud.google.com/sdk/docs/cheatsheet, https://cloud.google.com/static/sdk/docs/images/gcloud-cheat-sheet.pdf, https://googlecloudcheatsheet.withgoogle.com/  
+        7. **** :   
 
