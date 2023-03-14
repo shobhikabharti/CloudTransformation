@@ -120,5 +120,14 @@ However, if you're on a Beast Mode, 25 days of self study + 5 days of questionna
         5. **Kubernetes Cheatsheet** : https://kubernetes.io/docs/reference/kubectl/cheatsheet/  
         6. **gcloud cheatsheet** : https://cloud.google.com/sdk/docs/cheatsheet, https://cloud.google.com/static/sdk/docs/images/gcloud-cheat-sheet.pdf, https://googlecloudcheatsheet.withgoogle.com/  
         7. **GKE Documentation** : https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview   
+        8. **Services** : https://cloud.google.com/kubernetes-engine/docs/concepts/service   
+        9. **Another overview** : https://kubernetes.io/docs/concepts/services-networking/service/   
+        10. **Exposing applications using services (includes add, edit and remove)** : https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps   
+        11. **Deployments** : https://kubernetes.io/docs/concepts/workloads/controllers/deployment/   
+        12. **Suggested Lab: Running a MongoDB Database in Kubernetes with StatefulSets**: https://partner.cloudskillsboost.google/catalog_lab/327   
+        13. **Lab 2** : https://partner.cloudskillsboost.google/course_templates/2   
+        14. **GKE Reference Doc** : https://storage.googleapis.com/cloud-training/T-KUBGKE-I/v1.7/Student%20PDFs/%5BT-KUBGKE-B%5D%20%20M2_%20Introduction%20to%20Containers%20and%20Kubernetes_ILT%20v1.7.pdf   
+        15. **Kubernetes Architecture** : https://storage.googleapis.com/cloud-training/T-KUBGKE-I/v1.7/Student%20PDFs/%5BT-KUBGKE-B%5D%20M3_%20Kubernetes%20Architecture_ILT%20v1.7.pdf   
+        16. **Kubernetes Workloads** : https://storage.googleapis.com/cloud-training/T-KUBGKE-I/v1.7/Student%20PDFs/%5BT-KUBGKE-B%5D%20%20M4_%20Introduction%20to%20Kubernetes%20Workloads%20v1.7.pdf   
   
 - [ ] 14 MAR 2023 > ************************************************************SELF STUDY STARTS NOW**************************************************************
