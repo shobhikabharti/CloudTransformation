@@ -116,4 +116,5 @@
         5. **Kubernetes Cheatsheet** : https://kubernetes.io/docs/reference/kubectl/cheatsheet/  
         6. **gcloud cheatsheet** : https://cloud.google.com/sdk/docs/cheatsheet, https://cloud.google.com/static/sdk/docs/images/gcloud-cheat-sheet.pdf, https://googlecloudcheatsheet.withgoogle.com/  
         7. **GKE Documentation** : https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview   
-
+  
+- [ ] 14 MAR 2023 > ************************************************************SELF STUDY STARTS NOW**************************************************************
