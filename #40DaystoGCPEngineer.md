@@ -129,6 +129,7 @@ However, if you're on a Beast Mode, 25 days of self study + 5 days of questionna
         14. **GKE Reference Doc** : https://storage.googleapis.com/cloud-training/T-KUBGKE-I/v1.7/Student%20PDFs/%5BT-KUBGKE-B%5D%20%20M2_%20Introduction%20to%20Containers%20and%20Kubernetes_ILT%20v1.7.pdf   
         15. **Kubernetes Architecture** : https://storage.googleapis.com/cloud-training/T-KUBGKE-I/v1.7/Student%20PDFs/%5BT-KUBGKE-B%5D%20M3_%20Kubernetes%20Architecture_ILT%20v1.7.pdf   
         16. **Kubernetes Workloads** : https://storage.googleapis.com/cloud-training/T-KUBGKE-I/v1.7/Student%20PDFs/%5BT-KUBGKE-B%5D%20%20M4_%20Introduction%20to%20Kubernetes%20Workloads%20v1.7.pdf   
-        17. **Configuring multidimensional Pod autoscaling** : https://cloud.google.com/kubernetes-engine/docs/how-to/multidimensional-pod-autoscaling   
+        17. **Configuring multidimensional Pod autoscaling** : https://cloud.google.com/kubernetes-engine/docs/how-to/multidimensional-pod-autoscaling  
+        18. **Transfer Appliance** : https://cloud.google.com/transfer-appliance/docs/4.0/overview  
   
 - [ ] 14 MAR 2023 > ************************************************************SELF STUDY STARTS NOW**************************************************************
