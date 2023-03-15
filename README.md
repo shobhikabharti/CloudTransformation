@@ -123,6 +123,7 @@ Further, Google launched beginner library on Coursera, if required, please go th
 - [ ] 1 MAR 2023 > Found an amazing link on GCP https://partner.cloudskillsboost.google/  
 - [ ] 4 MAR 2023 > Today, I'm attending session on Azure storage https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction. Got to know, S3 bucket and azure storage is also possible solution.  
 - [ ] 4 MAR 2023 > Create serverless applications https://learn.microsoft.com/en-us/training/paths/create-serverless-applications/  
+- [ ] 15 MAR 2023 > After six months of continuous researching around cloud, finally, I'm able to read and watch around cloud seamlessly for hours. I would not lie, before this research around big 3 platforms (AWS, Azure, GCP), I was a little lost in the cloud offerings. But because I'm from the same industry, cloud and server terms were not new to me. Otherwise, at this age, I would have dragged the topic far far far away from me... To be honest, I'm enjoying cloud now. Hoefully, I'll update on use cases soon. GCP Engineer training is over today as well, I can browse through cloud services on all cloud platforms now.    
 
 ## Stumbling through the caves
 First 3 things  
