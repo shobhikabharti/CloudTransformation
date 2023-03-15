@@ -133,3 +133,9 @@ However, if you're on a Beast Mode, 25 days of self study + 5 days of questionna
         18. **Transfer Appliance** : https://cloud.google.com/transfer-appliance/docs/4.0/overview  
   
 - [ ] 14 MAR 2023 > ************************************************************SELF STUDY STARTS NOW**************************************************************
+First 3 things  
+.  
+https://cloud.google.com/docs/get-started  
+https://cloud.google.com/communities  
+https://www.googlecloudcommunity.com/gc/Google-Cloud/ct-p/google-cloud  
+Ge your hands dirty https://console.cloud.google.com/  
