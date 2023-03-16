@@ -23,4 +23,4 @@ Also, another link to the cheat sheet https://github.com/cheat-sheets/project-ma
 ->->->->->->->->->->8. Project risk management.  
 ->->->->->->->->->->9. Project procurement management.  
 ->->->->->->->->->->10. Project stakeholder management.  
-- [ ] 
+- [ ] 16 MARCH 2023 > Completed my GCP Training yesterday, preparing for certification now. Meanwhile, since I am losing track of time on PMP, registered myself for 18 days training session in the month of April again. My plan is take mock exam, then take date for the PMP somewhere in June, let's see. Original date was May 11th, but even a manager has to reschedule a lot of things because of the market disruption. I will update on daily basis starting next month. Till then, have fun.  
