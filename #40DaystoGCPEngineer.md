@@ -140,23 +140,30 @@ https://cloud.google.com/communities
 https://www.googlecloudcommunity.com/gc/Google-Cloud/ct-p/google-cloud  
 Ge your hands dirty https://console.cloud.google.com/  
 
-**Labs on Fundatmentals**  
+**Google recommended Labwork on Fundatmentals**  
 - [X] CLoud Storage and Cloud SQL  
 - [X] Cloud Marketplace  
 - [X] VPC networking and Compute Engine  
 - [] Getting started with GKE  
-**Labs on Infrastructure Foundation**  
+**Google recommended Labwork on Infrastructure Foundation**  
 - [X] Google cloud console and cloud shell  
 - [] Infrastructure Preview   
 - [] VPC networking  
 - [] Private Google Access and Cloud NAT  
-**Labs on Infrstructure Core Services**
+**Google recommended Labwork on Infrstructure Core Services**
 - [] IAM
 - [] Cloud Storage
 - [] Cloud SQL
 - [] Billing Data and BigQuery  
 - [] Resource Monitoring  
 - [] Error Reporting and Debugging  
-**Scaling and Automation**  
-- [X] Autoscaling and Loadbalancing  
--
+**Google recommended Labwork on Scaling and Automation**  
+- [X] Cloud HA VPN  
+- [X] Autoscaling and Loadbalancing   
+- [] Configuring Load balancer  
+- [] Automating the infrastructure of netwroks usinf Terraform  
+**Google recommended Labwork on GKE**  
+
+**Sources**:
+1. Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate (Coursera)  
+2. Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate (Google Cloud SkillBoost)  
