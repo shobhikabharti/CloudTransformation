@@ -139,3 +139,24 @@ https://cloud.google.com/docs/get-started
 https://cloud.google.com/communities  
 https://www.googlecloudcommunity.com/gc/Google-Cloud/ct-p/google-cloud  
 Ge your hands dirty https://console.cloud.google.com/  
+
+**Labs on Fundatmentals**  
+- [X] CLoud Storage and Cloud SQL  
+- [X] Cloud Marketplace  
+- [X] VPC networking and Compute Engine  
+- [] Getting started with GKE  
+**Labs on Infrastructure Foundation**  
+- [X] Google cloud console and cloud shell  
+- [] Infrastructure Preview   
+- [] VPC networking  
+- [] Private Google Access and Cloud NAT  
+**Labs on Infrstructure Core Services**
+- [] IAM
+- [] Cloud Storage
+- [] Cloud SQL
+- [] Billing Data and BigQuery  
+- [] Resource Monitoring  
+- [] Error Reporting and Debugging  
+**Scaling and Automation**  
+- [X] Autoscaling and Loadbalancing  
+-
