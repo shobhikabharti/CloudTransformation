@@ -4,9 +4,9 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </p>
 
-** DISCLAIMER: This is not 40 days continuous journey to certification as I had 45 hours workweek and weekend classes as well while taking the exam, but I had to start the countdown somewhere so that I take the certification ASAP. However, if you've time, I would suggest 30 days of self study around GCP Engineer prep material on Google Cloud portal + 10 days of exam prep questions prep from Udemy and voila, CERTIFIED!  
+** DISCLAIMER: This is not 40 days continuous journey to certification as initially advised. But since I had 45 hours workweek and weekend classes as well while taking the exam, I had to start the countdown somewhere so that I take the certification ASAP. However, if you've time, I would suggest 45 days of self study around GCP Engineer prep material on Google Cloud portal (including labs) + 10 days of exam prep questions prep from Udemy and voila, CERTIFIED!  
 
-However, if you're on a Beast Mode, 25 days of self study + 5 days of questionnaire, but for how many exams can we be on a beast mode, hence, I enjoyed food too, instead of following a strict diet during exam time. :D          
+However, if you're on a Beast Mode, 30 days of self study + 10 days of questionnaire, but for how many exams can we be on a beast mode, hence, I enjoyed food too, instead of following a strict diet during exam time. :D          
    
 - [ ] Feb 1 2023 > Went through the GCP Engineer starter introduction on YouTube https://www.youtube.com/watch?v=RbIbS0YMFs4&t=1395&ab_channel=GoogleCloud    
 - [ ] Feb 13 2023 > Went through the IAM & GCP marketplace to understand LAMP deployment in the GCP Engineer coursework https://cloud.google.com/marketplace/docs/  
