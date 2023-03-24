@@ -165,8 +165,8 @@ Get your hands dirty https://console.cloud.google.com/
 **D. Google recommended Labwork on Scaling and Automation**  
 - [X] Cloud HA VPN  
 - [X] Autoscaling and Loadbalancing   
-- [] Configuring Load balancer  
-- [] Automating the infrastructure of netwroks usinf Terraform  
+- [X] Configuring Load balancer  
+- [X] Automating the infrastructure of netwroks using Terraform  
   
 **E. Google recommended Labwork on GKE**  
 
