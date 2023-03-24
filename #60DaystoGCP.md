@@ -167,6 +167,9 @@ Get your hands dirty https://console.cloud.google.com/
 - [X] Autoscaling and Loadbalancing   
 - [X] Configuring Load balancer  
 - [X] Automating the infrastructure of netwroks using Terraform  
+- 
+  Further Reading 
+  1. https://www.cloudskillsboost.google/focuses/2794?parent=catalog  
   
 **E. Google recommended Labwork on GKE**  
 
