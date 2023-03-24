@@ -59,7 +59,7 @@ However, if you're on a Beast Mode, 30 days of self study + 10 days of questionn
         13. **GCP Services** : https://cloud.google.com/terms/services  
         14. **Scaling Application** : https://cloud.google.com/community/tutorials/horizontally-scale-mysql-database-backend-with-google-cloud-sql-and-proxysql, https://cloud.google.com/architecture/elastically-scaling-your-mysql-environment  
         15. **Create Read Replicas** : https://cloud.google.com/sql/docs/postgres/replication/create-replica, https://cloud.google.com/sql/docs/mysql/replication     
-- [ ] 6 MAR 2023 > Storage Options  
+- [ ] 6 MAR 2023 > Storage Options (BigQuery -> Dataflow -> Dataprep -> Dataproc -> Result)    
         1. **Bigquery** : https://cloud.google.com/bigquery  
         2. **Cloud Spanner** : https://cloud.google.com/spanner  
         3. **Firestore** : https://cloud.google.com/firestore  
