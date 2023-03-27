@@ -188,12 +188,6 @@ Ge your hands dirty https://console.cloud.google.com/
 42. Software Architecture for IOT: https://www.coursera.org/learn/iot-software-architecture/  
 43. Enterprise and Infrastructure Security: https://www.coursera.org/learn/enterprise-infrastructure-security/   
 44. Digital Governance: https://www.coursera.org/learn/digitalgovernance  
-45. Microservices: https://www.edureka.co/microservices-architecture-training  
-46. NodeJS: https://www.edureka.co/nodejs-certification-training  
-47. Big data: https://www.edureka.co/masters-program/big-data-architect-training  
-48. DWBI: https://www.edureka.co/data-warehousing-and-bi  
-49. MSBI: https://www.edureka.co/microsoft-bi-certification?qId=7576a195d194e445d853087def6d4e91&index_name=prod_search_results_courses&objId=594&objPos=4  
-50. Selenium: https://www.edureka.co/selenium-certification-training  
  
 
 
