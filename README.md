@@ -188,6 +188,7 @@ Ge your hands dirty https://console.cloud.google.com/
 42. Software Architecture for IOT: https://www.coursera.org/learn/iot-software-architecture/  
 43. Enterprise and Infrastructure Security: https://www.coursera.org/learn/enterprise-infrastructure-security/   
 44. Digital Governance: https://www.coursera.org/learn/digitalgovernance  
+45. SRE Guidebook: https://sre.google/sre-book/table-of-contents/  
  
 
 
