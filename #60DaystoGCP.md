@@ -155,12 +155,12 @@ Get your hands dirty https://console.cloud.google.com/
 - [] Private Google Access and Cloud NAT  
   
 **C. Google recommended Labwork on Infrstructure Core Services**
-- [] IAM
-- [] Cloud Storage
-- [] Cloud SQL
-- [] Billing Data and BigQuery  
-- [] Resource Monitoring  
-- [] Error Reporting and Debugging  
+- [X] IAM
+- [X] Cloud Storage
+- [X] Cloud SQL
+- [X] Billing Data and BigQuery  
+- [X] Resource Monitoring  
+- [X] Error Reporting and Debugging  
   
 **D. Google recommended Labwork on Scaling and Automation**  
 - [X] Cloud HA VPN  
