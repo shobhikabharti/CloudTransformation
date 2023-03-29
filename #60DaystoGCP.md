@@ -173,6 +173,13 @@ Get your hands dirty https://console.cloud.google.com/
   
 **E. Google recommended Labwork on GKE**  
 
+**Extra : From APIGEE Training**
+
+1. https://docs.apigee.com/hybrid/logging  
+2. https://docs.apigee.com/hybrid/ts-cassandra  
+3. https://docs.apigee.com/hybrid/ts-message-processor  
+4. https://kubernetes.io/docs/tasks/debug-application-cluster  
+
 **Prep material**:
 1. Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate (Coursera)  
 2. Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate (Google Cloud SkillBoost)  
