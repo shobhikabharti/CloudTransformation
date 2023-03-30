@@ -150,17 +150,17 @@ Get your hands dirty https://console.cloud.google.com/
   
 **B. Google recommended Labwork on Infrastructure Foundation**  
 - [X] Google cloud console and cloud shell  
-- [] Infrastructure Preview   
-- [] VPC networking  
+- [X] Infrastructure Preview   
+- [X] VPC networking -> create VPC, VM instances, firewall, subnets ( on UI and **shell**)  
 - [] Private Google Access and Cloud NAT  
   
 **C. Google recommended Labwork on Infrstructure Core Services**
-- [X] IAM
-- [X] Cloud Storage
-- [X] Cloud SQL
-- [X] Billing Data and BigQuery  
-- [X] Resource Monitoring  
-- [X] Error Reporting and Debugging  
+- [X] IAM -> Policy on the folder or service  
+- [X] Cloud Storage -> bucket creation and accessing on private and public addresses   
+- [X] Cloud SQL -> Connecting to MySQL on GCP for CDN such as Wordpress and working on the blog  
+- [X] Billing Data and BigQuery -> We can see all data using BigQuery  
+- [X] Resource Monitoring -> for spikes on server, create dahsboards  
+- [X] Error Reporting and Debugging -> create alerts on six different mediums for notifications   
   
 **D. Google recommended Labwork on Scaling and Automation**  
 - [X] Cloud HA VPN  
