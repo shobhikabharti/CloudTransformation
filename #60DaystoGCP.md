@@ -159,7 +159,7 @@ Get your hands dirty https://console.cloud.google.com/
 - [X] Cloud Storage -> bucket creation and accessing on private and public addresses   
 - [X] Cloud SQL -> Connecting to MySQL on GCP for CDN such as Wordpress and working on the blog  
 - [X] Billing Data and BigQuery -> We can see all data using BigQuery  
-- [X] Resource Monitoring -> for spikes on server, create dahsboards  
+- [X] Resource Monitoring -> for spikes on server, create dashboards  
 - [X] Error Reporting and Debugging -> create alerts on six different mediums for notifications   
   
 **D. Google recommended Labwork on Scaling and Automation**  
