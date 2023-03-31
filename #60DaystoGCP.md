@@ -152,7 +152,9 @@ Get your hands dirty https://console.cloud.google.com/
 - [X] Google cloud console and cloud shell  
 - [X] Infrastructure Preview   
 - [X] VPC networking -> create VPC, VM instances, firewall, subnets ( on UI and **shell**)  
-- [] Private Google Access and Cloud NAT  
+- [X] Implement Private Google Access and Cloud NAT  -> VPC N/Ws with firewall, VM instances, tunnel through iap, and bucket, nat gateway and nat router, stackdriver logging with transalation & errors
+- [X] Creating virtual machines ->  
+- [X] Working with virtual machines ->   
   
 **C. Google recommended Labwork on Infrstructure Core Services**
 - [X] IAM -> Policy on the folder or service  
