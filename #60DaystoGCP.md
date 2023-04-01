@@ -174,6 +174,8 @@ Get your hands dirty https://console.cloud.google.com/
   1. https://www.cloudskillsboost.google/focuses/2794?parent=catalog  
   
 **E. Google recommended Labwork on GKE**  
+- [X] Working with Cloud Build  
+- [X] Deploying to Google Kuberenetes Engine  
 
 **Extra : From APIGEE Training**
 
