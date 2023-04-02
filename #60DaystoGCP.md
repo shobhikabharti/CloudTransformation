@@ -146,7 +146,11 @@ Get your hands dirty https://console.cloud.google.com/
 - [X] CLoud Storage and Cloud SQL  
 - [X] Cloud Marketplace  
 - [X] VPC networking and Compute Engine  
-- [] Getting started with GKE  
+- [X] Getting started with Cloud Storage and Cloud SQL  
+- [X] Getting started with GKE  
+- [X] Hello Cloud Run  
+- [X] Automating the deployment of Infrastructure using Terraform   
+- [X] Logging and Monitoring in the cloud  
   
 **B. Google recommended Labwork on Infrastructure Foundation**  
 - [X] Google cloud console and cloud shell  
