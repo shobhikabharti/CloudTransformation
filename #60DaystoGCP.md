@@ -167,8 +167,8 @@ Get your hands dirty https://console.cloud.google.com/
 **D. Google recommended Labwork on Scaling and Automation**  
 - [X] Cloud HA VPN  
 - [X] Autoscaling and Loadbalancing -> Create firewall rule, nat gateway, vm instances, start apache server, create mig for europe and us with health check, configure load balancer, perform stress test on IPv4    
-- [X] Configuring Load balancer ->   
-- [X] Automating the infrastructure of netwroks using Terraform  
+- [X] Configuring Load balancer -> firewall rule, cloud NAT, two VM instances, two MIGs, TCP Load Balancing for internal load balncing with front end and back end configurations against MIGs and health check    
+- [X] Automating the infrastructure of networks using Terraform  
 - 
   Further Reading 
   1. https://www.cloudskillsboost.google/focuses/2794?parent=catalog  
@@ -176,6 +176,13 @@ Get your hands dirty https://console.cloud.google.com/
 **E. Google recommended Labwork on GKE**  
 - [X] Working with Cloud Build  
 - [X] Deploying to Google Kuberenetes Engine  
+
+
+**Next Steps**
+
+1. Labwork  
+2. Commands -> gsutil, gscloud, curl, terrafomr, apache, apt-get and so on  
+3. Configurations  
 
 **Extra : From APIGEE Training**
 
