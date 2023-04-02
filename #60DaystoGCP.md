@@ -166,8 +166,8 @@ Get your hands dirty https://console.cloud.google.com/
   
 **D. Google recommended Labwork on Scaling and Automation**  
 - [X] Cloud HA VPN  
-- [X] Autoscaling and Loadbalancing   
-- [X] Configuring Load balancer  
+- [X] Autoscaling and Loadbalancing -> Create firewall rule, nat gateway, vm instances, start apache server, create mig for europe and us with health check, configure load balancer, perform stress test on IPv4    
+- [X] Configuring Load balancer ->   
 - [X] Automating the infrastructure of netwroks using Terraform  
 - 
   Further Reading 
