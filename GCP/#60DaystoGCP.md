@@ -22,7 +22,7 @@ However, if you're on a Beast Mode, 30 days of self study + 10 days of questionn
         1. **Introduction to VPC & Subnets** https://cloud.google.com/vpc/docs/overview  
         2. **IP & CIDR**  
         3. **Regions & Zones (World)** https://cloud.google.com/compute/docs/regions-zones  
-        4. **VPC Peering** https://cloud.google.com/vpc/docs/vpc-peering  
+        4. **VPC Peering** https://cloud.google.com/vpc/docs/vpc-peering, https://cloud.google.com/vpc/docs/quota  
         5. **Load Balancing & Auto Scaling** https://cloud.google.com/load-balancing/docs/load-balancing-overview , https://cloud.google.com/load-balancing/docs     
 - [ ] 2 MAR 2023 > GCP Partner training update: Came across a new feature Security Hardening https://cloud.google.com/managed-microsoft-ad/docs/hardening  
         1. **VP Networks lab**  https://partner.cloudskillsboost.google/course_templates/479?catalog_rank={%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue}&search_id=22588454  
@@ -33,13 +33,13 @@ However, if you're on a Beast Mode, 30 days of self study + 10 days of questionn
         6. **NAT Gateway & Bastion Host** https://cloud.google.com/nat/docs/overview  
         7. **Cloud Storage** : https://cloud.google.com/products/storage  
         8. **Other Recommendation** :
-        Recommendation for ACE and PCA 
+        Recommendation for ACE and PCA    
             a. **Basic of Networking**   https://www.youtube.com/watch?v=EuSFNggRCH8&t=1306s   
             b. https://www.computernetworkingnotes.com/ccna-study-guide/subnetting-tricks-subnetting-made-easy-with-examples.html  
             c. **Basic of Linux Server** https://www.elithecomputerguy.com/linux-new/  
             d. **Basic Database** https://www.elithecomputerguy.com/mysql-introduction-2019/  
             e. **Basic of Storage** https://www.youtube.com/watch?v=1Dqsi2M2tgM  
-            f. **Basic Virtualization** https://www.youtube.com/watch?v=FZR0rG3HKIk  
+            f. **Basic Virtualization** https://www.youtube.com/watch?v=FZR0rG3HKIk   
             g. **Basic of Scripting (Powershell, JSON scripting , Python scripting)** https://www.youtube.com/watch?v=kpuAr6hbRuk  
             h. **Basic of Windows Server** https://www.elithecomputerguy.com/windows-server-2012/  
 
