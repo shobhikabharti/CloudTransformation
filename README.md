@@ -1,10 +1,10 @@
 # Cloud Transformation
 <p align="center">
-  <img src="Banner.jpg">
+  <img src="/Content/Banner.jpg">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+  <img src="/Content/rainbow.png">
 </p>
 
 ## The Journey
@@ -33,7 +33,7 @@ Further, Google launched beginner library on Coursera, if required, please go th
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+  <img src="/Content/rainbow.png">
 </p>
 
 ## Stepping out the door, publishing my cloud memoir
@@ -139,7 +139,7 @@ Ge your hands dirty https://console.cloud.google.com/
 ## Into the sky to touch the cloud!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+  <img src="/Content/rainbow.png">
 </p>
 
 ## Reference Material :books:  
