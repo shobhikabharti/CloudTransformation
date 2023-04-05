@@ -1,7 +1,7 @@
 # Project Management Professional (PMP)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+  <img src="/Content/rainbow.png">
 </p>
 
 - [ ] 31 JAN 2022 > Well, I completed my PMP two times in the last quarter of 2022, and now, I have to start my prep. Somebody suggested me the YouTube link for revision https://www.youtube.com/playlist?list=PLEWFSKHjyrwz_UKPl-jeSan5NU7RH3KRD. Very good content here, hopefully, my PMP is over in 120 days with case studies. Changed the target from 100 to 120 as life never happens in isolation. Also, we should study at our own pace, not too delayed, not too much in a hurry. If we want to learn something, do that study with use cases and a lot of examples to understand what 40+ years old person went through. I'm also younger in that comparison, but PMBOK concepts are tried, tested & implemented, why reinvent the wheel? So, let's start the countdown...   
