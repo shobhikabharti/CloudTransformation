@@ -49,7 +49,13 @@ However, if you're on a Beast Mode, 30 days of self study + 10 days of questionn
             f. **Basic Virtualization** https://www.youtube.com/watch?v=FZR0rG3HKIk   
             g. **Basic of Scripting (Powershell, JSON scripting , Python scripting)** https://www.youtube.com/watch?v=kpuAr6hbRuk  
             h. **Basic of Windows Server** https://www.elithecomputerguy.com/windows-server-2012/  
-
+  
+<p>
+  <img src="/Content/hfw3-2.svg" width="500" align="top"/>
+  <img width="100"/>
+  <img src="/Content/firewall.jpg" width="400" align="top"/>
+</p>
+  
 - [ ] 3 MAR 2023 >  In Depth understanding of the cloud setup for the basic application     
         1. **Storage & Databases (Object, File, Relational, Non-realtional, Warehouse)** : https://cloud.google.com/products/storage, https://cloud.google.com/products/databases  
         2. **Shared Responsibility Model**: https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate  
