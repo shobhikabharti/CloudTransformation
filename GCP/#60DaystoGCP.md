@@ -72,6 +72,10 @@ However, if you're on a Beast Mode, 30 days of self study + 10 days of questionn
         13. **GCP Services** : https://cloud.google.com/terms/services  
         14. **Scaling Application** : https://cloud.google.com/community/tutorials/horizontally-scale-mysql-database-backend-with-google-cloud-sql-and-proxysql, https://cloud.google.com/architecture/elastically-scaling-your-mysql-environment  
         15. **Create Read Replicas** : https://cloud.google.com/sql/docs/postgres/replication/create-replica, https://cloud.google.com/sql/docs/mysql/replication     
+<p>
+   <img src="/Content/Storage-to-Use.jpeg">
+</p>
+
 - [ ] 6 MAR 2023 > Storage Options (BigQuery -> Dataflow -> Dataprep -> Dataproc -> Result)    
         1. **Bigquery** : https://cloud.google.com/bigquery  
         2. **Cloud Spanner** : https://cloud.google.com/spanner  
@@ -146,8 +150,12 @@ However, if you're on a Beast Mode, 30 days of self study + 10 days of questionn
         18. **Transfer Appliance** : https://cloud.google.com/transfer-appliance/docs/4.0/overview  
   
 - [ ] 14 MAR 2023 > ************************************************************SELF STUDY STARTS NOW**************************************************************
-- [ ] 20 MAR 2023 > Test day next month, wish me luck!:crossed_fingers:  
-   
+- [ ] 20 MAR 2023 > Test day next month, wish me luck!:crossed_fingers: Example pipeline below  
+
+<p align="center">
+   <img src="/Content/gco-cloud-network.png" width="700px" alt="https://cloudplatform.googleblog.com/2018/06/Behind-the-scenes-with-the-Dragon-Ball-Legends-GCP-backend.html">
+</p>
+
 First 3 things  
 .  
 https://cloud.google.com/docs/get-started  
