@@ -8,7 +8,7 @@
 
 However, if you're on a Beast Mode, 30 days of self study + 10 days of questionnaire, but for how many exams can we be on a beast mode, hence, I enjoyed food too, instead of following a strict diet during exam time. :D         
 
-
+Images Source: https://github.com/priyankavergadia, https://cloud.google.com/blog/topics/developers-practitioners/network-application-security-google-cloud/    
    
 - [ ] Feb 1 2023 > Went through the GCP Engineer starter introduction on YouTube https://www.youtube.com/watch?v=RbIbS0YMFs4&t=1395&ab_channel=GoogleCloud    
 - [ ] Feb 13 2023 > Went through the IAM & GCP marketplace to understand LAMP deployment in the GCP Engineer coursework https://cloud.google.com/marketplace/docs/  
@@ -117,6 +117,14 @@ However, if you're on a Beast Mode, 30 days of self study + 10 days of questionn
         14. **Resource Hierarchy** : https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy  
         15. **Book on Google Cloud Security Foundations (120 pages)** : https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf  
         16. **Financial Governance on the Cloud** : https://cloud.google.com/files/guide-to-financial-governance.pdf  
+
+<p>
+   <img src="/Content/network_n_security.jpg"/>
+</p>
+<p>
+   <img src="/Content/cloud_armor.jpg"/>
+</p>
+
 - [ ] 9 MAR 2023 > CI/CD and DevOps Automation    
         1. **DevOps & SRE** : https://sre.google/, https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out, https://thenewstack.io/google-reveals-the-secrets-of-devops/  
         2. **Continuous Integration** : https://cloud.google.com/solutions/continuous-integration  
@@ -125,6 +133,14 @@ However, if you're on a Beast Mode, 30 days of self study + 10 days of questionn
         5. **Application Architecture: Monolithic vs SOA vs Microservices** : https://www.coforge.com/blog/application-architecture-monolithic-vs-soa-vs-microservices  
         6. **MIGs** : https://cloud.google.com/compute/docs/instance-groups#managed_instance_groups, https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances   
         7. **OSI Model (Extra)** : https://www.elithecomputerguy.com/2010/07/osi-model-demystified/  
+
+<p>
+   <img src="/Content/api_management.jpg"/>
+</p>
+<p>
+   <img src="/Content/api_security.png"/>
+</p>
+
 - [ ] 10 MAR 2023 > Lab Today  
         1. **Networking lab**  
         2. **VM Instance lab**   
