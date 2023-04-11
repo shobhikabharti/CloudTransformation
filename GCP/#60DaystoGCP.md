@@ -173,6 +173,11 @@ Images Source: https://github.com/priyankavergadia, https://cloud.google.com/blo
         17. **Configuring multidimensional Pod autoscaling** : https://cloud.google.com/kubernetes-engine/docs/how-to/multidimensional-pod-autoscaling  
         18. **Transfer Appliance** : https://cloud.google.com/transfer-appliance/docs/4.0/overview  
   
+<p align="center">
+   <img src="/Content/gke-architecture.svg"/>
+</p>
+  
+  
 - [ ] 14 MAR 2023 > ************************************************************SELF STUDY STARTS NOW**************************************************************
 - [ ] 20 MAR 2023 > Test day next month, wish me luck!:crossed_fingers: Example pipeline below  
 
