@@ -92,6 +92,14 @@ However, if you're on a Beast Mode, 30 days of self study + 10 days of questionn
         13. **GDPR** : https://cloud.google.com/privacy/gdpr  
         14. **Private Google Access** : https://cloud.google.com/vpc/docs/private-google-access   
         15. **Pricing (dual region vs single region)** : https://cloud.google.com/products/calculator , https://cloud.google.com/storage/docs/locations  
+
+<p>
+   <img src="/Content/Which-GCP-Database.jpg"/>
+</p>
+<p>
+   <img src="/Content/big_table.png"/>
+</p>
+
 - [ ] 7 MAR 2023 > Security Contd.  Deployments -> Rolling, Blue green, canary  
         1. **Security** : https://cloud.google.com/security-command-center, https://partner.cloudskillsboost.google/course_templates/88?catalog_rank={%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue}&search_id=22645730   
         2. **DDoS Attack** : https://cloud.google.com/armor, https://cloud.google.com/blog/products/identity-security/how-google-cloud-blocked-largest-layer-7-ddos-attack-at-46-million-rps  
