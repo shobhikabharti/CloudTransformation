@@ -26,10 +26,12 @@ However, if you're on a Beast Mode, 30 days of self study + 10 days of questionn
         3. **Regions & Zones (World)** https://cloud.google.com/compute/docs/regions-zones  
         4. **VPC Peering** https://cloud.google.com/vpc/docs/vpc-peering, https://cloud.google.com/vpc/docs/quota  
         5. **Load Balancing & Auto Scaling** https://cloud.google.com/load-balancing/docs/load-balancing-overview , https://cloud.google.com/load-balancing/docs    
+
 <p>
    <img src="/Content/choose-lb.svg">
-</p> 
-- [ ] 2 MAR 2023 > GCP Partner training update: Came across a new feature Security Hardening https://cloud.google.com/managed-microsoft-ad/docs/hardening  
+</p>
+
+- [ ] 2 MAR 2023 > GCP Partner training update: Came across a new feature Security Hardening https://cloud.google.com/managed-microsoft-ad/docs/hardening   
         1. **VP Networks lab**  https://partner.cloudskillsboost.google/course_templates/479?catalog_rank={%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue}&search_id=22588454  
         2. **Firewall (Ingress & Egress) i.e. incoming & outgoing** https://cloud.google.com/vpc/docs/about-firewalls, https://cloud.google.com/vpc/docs/firewalls    
         3. **Routes** https://cloud.google.com/vpc/docs/routes  
