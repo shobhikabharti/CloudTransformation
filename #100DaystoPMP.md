@@ -24,5 +24,3 @@ Also, another link to the cheat sheet https://github.com/cheat-sheets/project-ma
 ->->->->->->->->->->9. Project procurement management.  
 ->->->->->->->->->->10. Project stakeholder management.  
 - [ ] 16 MARCH 2023 > Completed my GCP Training yesterday, preparing for certification now. Meanwhile, since I am losing track of time on PMP, registered myself for 18 days training session in the month of April again. My plan is take mock exam, then take date for the PMP somewhere in June, let's see. Original date was May 11th, but even a manager has to reschedule a lot of things because of the market disruption. I will update on daily basis starting next month. Till then, have fun.  
-- [ ] 10 APRIL 2023 > Started with Simplilearn PMP classes today, it will run for 35 hours hours as needed on PMP Exam  
-- [ ] 11 APRIL 2023 > My classes will end on May 03, completing 35 hours, self-study starts from May 12 as I have to submit my Cloud coursework last assignment and wrpa up few things at office, hopefully, no roadblocks thereafter  
