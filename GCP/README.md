@@ -23,14 +23,15 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
 - [ ] Feb 28 2023 > Cheatsheet and cloud comparison https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison, https://googlecloudcheatsheet.withgoogle.com/ 
 - [ ] 1 MAR 2023 > Working with the flash cards for the D-Day revision, back to school methods @35 :D.   
         1. **Introduction to VPC & Subnets** https://cloud.google.com/vpc/docs/overview  
-        2. **IP & CIDR**  
-        3. **Regions & Zones (World)** https://cloud.google.com/compute/docs/regions-zones  
-        4. **VPC Peering** https://cloud.google.com/vpc/docs/vpc-peering, https://cloud.google.com/vpc/docs/quota  
-        5. **Load Balancing & Auto Scaling** https://cloud.google.com/load-balancing/docs/load-balancing-overview , https://cloud.google.com/load-balancing/docs  
-        6. **VPC Network** https://cloud.google.com/vpc/docs/vpc   
-        7. **VPC Flow Logs** https://cloud.google.com/vpc/docs/flow-logs   
-        8. **Health Checks** https://cloud.google.com/load-balancing/docs/health-check-concepts  
-        9. **Billing** https://cloud.google.com/billing/docs/concepts  
+        2. **IAM basics** https://cloud.google.com/iam/docs/understanding-roles, https://cloud.google.com/iam/docs/permissions-reference     
+        3. **IP & CIDR**  
+        4. **Regions & Zones (World)** https://cloud.google.com/compute/docs/regions-zones  
+        5. **VPC Peering** https://cloud.google.com/vpc/docs/vpc-peering, https://cloud.google.com/vpc/docs/quota  
+        6. **Load Balancing & Auto Scaling** https://cloud.google.com/load-balancing/docs/load-balancing-overview , https://cloud.google.com/load-balancing/docs  
+        7. **VPC Network** https://cloud.google.com/vpc/docs/vpc   
+        8. **VPC Flow Logs** https://cloud.google.com/vpc/docs/flow-logs   
+        9. **Health Checks** https://cloud.google.com/load-balancing/docs/health-check-concepts  
+        10. **Billing** https://cloud.google.com/billing/docs/concepts  
 
 <p>
    <img src="/Content/choose-lb.svg">
