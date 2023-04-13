@@ -167,7 +167,9 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         2. **VM Instance lab**   
         3. **MIG Lab, predictive autoscaling**   
         4. **Cloud balancing** : https://cloudsolutions.academy/solution/what-is-anycast-ip-address-and-how-does-google-cloud-load-balancer-works/  
+        5. **Resource hierarchy** : https://cloud.google.com/iam/docs/overview, https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy  
         
+
 **Resource hierarchy**  
 Google Cloud resources are organized hierarchically:
 
@@ -179,7 +181,7 @@ Google Cloud resources are organized hierarchically:
 
 The following diagram is an example of a Google Cloud resource hierarchy.
 
-<p>
+<p align="center">
    <img src="/Content/policy-inheritance.svg"/>
 </p>
 
@@ -187,7 +189,7 @@ The following diagram is an example of a Google Cloud resource hierarchy.
 
 The Google Workspace or Cloud Identity account represents a company and is a prerequisite to have access to the organization resource. In the Google Cloud context, it provides identity management, recovery mechanism, ownership and lifecycle management. The picture below shows the link between the Google Workspace account, Cloud Identity, and the Google Cloud resource hierarchy.
 
-<p>
+<p align="center">
    <img src="/Content/cloud-hierarchy-workspace.svg"/>
 </p>
 
@@ -199,7 +201,7 @@ You can set an IAM policy at the organization level, the folder level, the proje
 
 The effective policy for a resource is the union of the policy set on the resource and the policy inherited from its ancestors. This inheritance is transitive. In other words, resources inherit policies from the project, which inherit policies from the organization resource. Therefore, the organization-level policies also apply at the resource level.
 
-<p>
+<p align="center">
    <img src="/Content/cloud-hierarchy.svg"/>
 </p>
 
