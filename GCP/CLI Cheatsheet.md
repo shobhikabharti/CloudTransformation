@@ -1,4 +1,4 @@
-Reference here: https://cloud.google.com/sdk/gcloud/reference/compute  
+Reference here: https://cloud.google.com/sdk/gcloud/reference/compute, https://mishnit.github.io/cheatsheet-gcp-A4.pdf, https://cloud.in28minutes.com/gcp-certification-cloud-storage, https://linuxopsys.com/topics/linux-commands-cheat-sheet        
 
 **Authentication and Configuration**  
 gcloud init: Initialize the gcloud configuration and setup a new configuration or switch to an existing one.  
