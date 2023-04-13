@@ -56,7 +56,10 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
             &emsp;&emsp;&emsp;&emsp;h. **Basic of Windows Server** https://www.elithecomputerguy.com/windows-server-2012/   
         10. **Dynamic Routing** https://cloud.google.com/network-connectivity/docs/router/how-to/configuring-routing-mode  
         11. **Cloud Router** https://cloud.google.com/network-connectivity/docs/router/concepts/overview   
-        12. **BGP Peering** https://cloud.google.com/network-connectivity/docs/router/how-to/configuring-bgp  <br/><br/>
+        12. **BGP Peering** https://cloud.google.com/network-connectivity/docs/router/how-to/configuring-bgp  
+        13. **VPN Tunnel** https://cloud.google.com/network-connectivity/docs/vpn/how-to/adding-a-tunnel  
+        14. **Cloud VPN** https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview  
+        15. **Cloud Interconnect** https://cloud.google.com/network-connectivity/docs/interconnect/concepts/overview   <br/><br/>
   
 <p>
   <img src="/Content/hfw3-2.svg" width="500" align="top"/>
@@ -263,4 +266,6 @@ Get your hands dirty https://console.cloud.google.com/
 2. Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate (Google Cloud SkillBoost)   
 3. https://research.google/teams/network-systems/, https://research.google/teams/cloud-networking/
 4. https://docs.gcp.databricks.com/data-governance/best-practices.html, Use case on Unity https://docs.gcp.databricks.com/data-governance/unity-catalog/get-started.html  
+5. https://cloud.google.com/network-intelligence-center/docs/network-topology/concepts/overview
+6. https://cloud.google.com/architecture/hybrid-and-multi-cloud-network-topologies 
         
