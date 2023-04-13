@@ -93,7 +93,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
    <img src="/Content/Storage-to-Use.jpeg">
 </p>
 
-- [ ] 6 MAR 2023 > Storage Options (BigQuery -> Dataflow -> Dataprep -> Dataproc -> Result)    
+- [ ] 6 MAR 2023 > Storage Options (BigQuery -> Dataflow -> Dataprep -> Dataproc -> Result)   
         1. **Bigquery** : https://cloud.google.com/bigquery  
         2. **Cloud Spanner** : https://cloud.google.com/spanner  
         3. **Firestore** : https://cloud.google.com/firestore  
@@ -116,6 +116,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
 <p>
    <img src="/Content/big_table.png"/>
 </p>
+
 
 - [ ] 7 MAR 2023 > Security Contd.  Deployments -> Rolling, Blue green, canary  
         1. **Security** : https://cloud.google.com/security-command-center, https://partner.cloudskillsboost.google/course_templates/88?catalog_rank={%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue}&search_id=22645730   
@@ -200,8 +201,14 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
 - [ ] 14 MAR 2023 > ************************************************************SELF STUDY STARTS NOW**************************************************************
 - [ ] 20 MAR 2023 > Test day next month, wish me luck!:crossed_fingers: Example pipeline below  
 
+### GKE learning pipeline
 <p align="center">
    <img src="/Content/gco-cloud-network.png" width="700px" alt="https://cloudplatform.googleblog.com/2018/06/Behind-the-scenes-with-the-Dragon-Ball-Legends-GCP-backend.html">
+</p>
+
+### Machine learning pipeline
+<p>
+  <img src="/Content/BigQuery.webp"/>
 </p>
 
 First 3 things  
