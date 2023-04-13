@@ -84,7 +84,8 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         12. **ACID Properties** : https://www.bmc.com/blogs/acid-atomic-consistent-isolated-durable/  
         13. **GCP Services** : https://cloud.google.com/terms/services  
         14. **Scaling Application** : https://cloud.google.com/community/tutorials/horizontally-scale-mysql-database-backend-with-google-cloud-sql-and-proxysql, https://cloud.google.com/architecture/elastically-scaling-your-mysql-environment  
-        15. **Create Read Replicas** : https://cloud.google.com/sql/docs/postgres/replication/create-replica, https://cloud.google.com/sql/docs/mysql/replication     
+        15. **Create Read Replicas** : https://cloud.google.com/sql/docs/postgres/replication/create-replica, https://cloud.google.com/sql/docs/mysql/replication   
+        16. **Transfer Cloud Storage to Cloud Storage use cases** https://cloud.google.com/storage-transfer/docs/cloud-storage-to-cloud-storage  
 <p>
    <img src="/Content/Storage-to-Use.jpeg">
 </p>
