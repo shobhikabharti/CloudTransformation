@@ -115,7 +115,9 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
 **BigTable** is a managed NoSQL DB service designed for handling and processing large amounts of data.  
 **BigQuery** is a relational database service, hence cannot be used to store non-relational data.  
 **Datastore** is NoSQL managed DB service but the amount of data we are looking at is quite big for Datastore to efficiently process.  
-**GCS** is only used for storing files. It does not support relational or non-relational data.  <br/>
+**GCS** is only used for storing files. It does not support relational or non-relational data.  
+**CloudSQL** provides database migration service as well as MySQL managed DB service.   
+<br/><br/>
 <p>
    <img src="/Content/Which-GCP-Database.jpg"/>
 </p>
