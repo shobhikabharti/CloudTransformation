@@ -46,7 +46,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         4. **Routes** https://cloud.google.com/vpc/docs/routes  
         5. **Compute Engine & Options** https://cloud.google.com/compute   
         6. **Cluster Security & Security Hardening** https://cloud.google.com/kubernetes-engine/docs/concepts/security-overview, https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster     
-        7. **NAT Gateway & Bastion Host** https://cloud.google.com/nat/docs/overview  
+        7. **NAT Gateway & Bastion Host** Cloud NAT enables you to provision your application instances without public IP addresses while also allowing them to access the internet for updates, patching, config management, and more in a controlled and efficient manner. https://cloud.google.com/nat/docs/overview  
         8. **Cloud Storage** : https://cloud.google.com/products/storage  
         9. **Other Recommendation** :
         Recommendation for ACE and PCA  
@@ -60,12 +60,14 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
             &emsp;&emsp;&emsp;&emsp;g. **Basic of Scripting (Powershell, JSON scripting , Python scripting)** https://www.youtube.com/watch?v=kpuAr6hbRuk  
             &emsp;&emsp;&emsp;&emsp;h. **Basic of Windows Server** https://www.elithecomputerguy.com/windows-server-2012/   
         10. **Dynamic Routing** https://cloud.google.com/network-connectivity/docs/router/how-to/configuring-routing-mode  
-        11. **Cloud Router** https://cloud.google.com/network-connectivity/docs/router/concepts/overview   
+        11. **Cloud Router** Google Cloud Router enables you to dynamically exchange routes between your Virtual Private Cloud (VPC) and on-premises networks by using Border Gateway Protocol (BGP). The Cloud Router automatically learns new subnets in your VPC network and announces them to your on-premises network. https://cloud.google.com/network-connectivity/docs/router/concepts/overview   
         12. **BGP Peering** https://cloud.google.com/network-connectivity/docs/router/how-to/configuring-bgp  
         13. **VPN Tunnel** https://cloud.google.com/network-connectivity/docs/vpn/how-to/adding-a-tunnel  
         14. **Cloud VPN** https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview  
         15. **Cloud Interconnect** https://cloud.google.com/network-connectivity/docs/interconnect/concepts/overview   
         16. **Stackdriver Logging** https://cloud.google.com/migrate/compute-engine/docs/4.8/how-to/monitoring/using-stackdriver-monitoring   
+        17. **Cloud CDN** leverages Google’s globally distributed edge points of presence to accelerate content delivery for websites and applications served out of Google Compute Engine and Google Cloud Storage. Cloud CDN lowers network latency, offloads origins, and reduces serving costs. https://cloud.google.com/cdn/docs/overview    
+        18. **Cloud Run** is a managed compute platform that automatically scales your stateless containers. https://cloud.google.com/run, https://cloud.google.com/run/docs/apis    
         <br/><br/>
   
 <p>
@@ -116,7 +118,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
 **BigQuery** is a relational database service, hence cannot be used to store non-relational data. BigQuery is also a regional service and cannot be scaled horizontally.   
 **Datastore** is NoSQL managed DB service but the amount of data we are looking at is quite big for Datastore to efficiently process. Datastore also supports ACID transactions but is not horizontally scalable and is a NoSQL database.  
 **GCS** is only used for storing files. It does not support relational or non-relational data.  
-**CloudSQL** provides database migration service as well as MySQL managed DB service. CloudSQL supports ACID transactions but supports only vertical scaling.    
+**CloudSQL** provides database migration service as well as MySQL managed DB service. CloudSQL supports ACID transactions but supports only vertical scaling. CloudSQL only supports MySQL, SQL Server and Postgres. Therefore, it does not fit our requirement. For Oracle and DB2, the only option is to install both of them on a VM.   
 **Cloud Spanner** is a global SQL database service that can scale across the globe horizontally and even supports ACID transactions.  
 
 <br/><br/>
@@ -158,7 +160,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         1. **DevOps & SRE** : https://sre.google/, https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out, https://thenewstack.io/google-reveals-the-secrets-of-devops/  
         2. **Continuous Integration** : https://cloud.google.com/solutions/continuous-integration  
         3. **GKE** : https://cloud.google.com/kubernetes-engine, https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview    
-        4. **App Engine** : Each project has 1 app engine, cannot have more than that https://cloud.google.com/appengine  
+        4. **App Engine** : Each project has 1 app engine, cannot have more than that https://cloud.google.com/appengine Google App Engine is only used to deploy applications.  
         5. **Application Architecture: Monolithic vs SOA vs Microservices** : https://www.coforge.com/blog/application-architecture-monolithic-vs-soa-vs-microservices  
         6. **MIGs** : https://cloud.google.com/compute/docs/instance-groups#managed_instance_groups, https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances   
         7. **OSI Model (Extra)** : https://www.elithecomputerguy.com/2010/07/osi-model-demystified/  
