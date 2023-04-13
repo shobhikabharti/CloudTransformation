@@ -59,7 +59,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         12. **BGP Peering** https://cloud.google.com/network-connectivity/docs/router/how-to/configuring-bgp  
         13. **VPN Tunnel** https://cloud.google.com/network-connectivity/docs/vpn/how-to/adding-a-tunnel  
         14. **Cloud VPN** https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview  
-        15. **Cloud Interconnect** https://cloud.google.com/network-connectivity/docs/interconnect/concepts/overview
+        15. **Cloud Interconnect** https://cloud.google.com/network-connectivity/docs/interconnect/concepts/overview   
         16. **Stackdriver Logging** https://cloud.google.com/migrate/compute-engine/docs/4.8/how-to/monitoring/using-stackdriver-monitoring   
         <br/><br/>
   
