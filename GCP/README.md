@@ -113,10 +113,12 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         15. **Pricing (dual region vs single region)** : https://cloud.google.com/products/calculator , https://cloud.google.com/storage/docs/locations  
 
 **BigTable** is a managed NoSQL DB service designed for handling and processing large amounts of data.  
-**BigQuery** is a relational database service, hence cannot be used to store non-relational data.  
-**Datastore** is NoSQL managed DB service but the amount of data we are looking at is quite big for Datastore to efficiently process.  
+**BigQuery** is a relational database service, hence cannot be used to store non-relational data. BigQuery is also a regional service and cannot be scaled horizontally.   
+**Datastore** is NoSQL managed DB service but the amount of data we are looking at is quite big for Datastore to efficiently process. Datastore also supports ACID transactions but is not horizontally scalable and is a NoSQL database.  
 **GCS** is only used for storing files. It does not support relational or non-relational data.  
-**CloudSQL** provides database migration service as well as MySQL managed DB service.   
+**CloudSQL** provides database migration service as well as MySQL managed DB service. CloudSQL supports ACID transactions but supports only vertical scaling.    
+**Cloud Spanner** is a global SQL database service that can scale across the globe horizontally and even supports ACID transactions.  
+
 <br/><br/>
 <p>
    <img src="/Content/Which-GCP-Database.jpg"/>
