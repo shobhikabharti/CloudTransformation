@@ -111,7 +111,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         13. **GDPR** : https://cloud.google.com/privacy/gdpr  
         14. **Private Google Access** : https://cloud.google.com/vpc/docs/private-google-access   
         15. **Pricing (dual region vs single region)** : https://cloud.google.com/products/calculator , https://cloud.google.com/storage/docs/locations  
-<br/>
+
 **BigTable** is a managed NoSQL DB service designed for handling and processing large amounts of data.  
 **BigQuery** is a relational database service, hence cannot be used to store non-relational data.  
 **Datastore** is NoSQL managed DB service but the amount of data we are looking at is quite big for Datastore to efficiently process.  
