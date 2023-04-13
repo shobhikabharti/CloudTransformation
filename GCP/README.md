@@ -33,13 +33,16 @@ Images Source: https://github.com/priyankavergadia, https://cloud.google.com/blo
 
 - [ ] 2 MAR 2023 > GCP Partner training update: Came across a new feature Security Hardening https://cloud.google.com/managed-microsoft-ad/docs/hardening   
         1. **VP Networks lab**  https://partner.cloudskillsboost.google/course_templates/479?catalog_rank={%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue}&search_id=22588454  
-        2. **Firewall (Ingress & Egress) i.e. incoming & outgoing** https://cloud.google.com/vpc/docs/about-firewalls, https://cloud.google.com/vpc/docs/firewalls    
-        3. **Routes** https://cloud.google.com/vpc/docs/routes  
-        4. **Compute Engine & Options** https://cloud.google.com/compute   
-        5. **Cluster Security & Security Hardening** https://cloud.google.com/kubernetes-engine/docs/concepts/security-overview, https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster     
-        6. **NAT Gateway & Bastion Host** https://cloud.google.com/nat/docs/overview  
-        7. **Cloud Storage** : https://cloud.google.com/products/storage  
-        8. **Other Recommendation** :
+        2. **Firewall (Ingress & Egress) i.e. incoming & outgoing** https://cloud.google.com/vpc/docs/about-firewalls, https://cloud.google.com/vpc/docs/firewalls  
+            a. **Hierarchical firewall policy** https://cloud.google.com/vpc/docs/firewall-policies-examples  
+            b. **Global firewall policy** https://cloud.google.com/vpc/docs/use-network-firewall-policies   
+            c. **Regional firewall policy** https://cloud.google.com/vpc/docs/use-regional-firewall-policies  
+        4. **Routes** https://cloud.google.com/vpc/docs/routes  
+        5. **Compute Engine & Options** https://cloud.google.com/compute   
+        6. **Cluster Security & Security Hardening** https://cloud.google.com/kubernetes-engine/docs/concepts/security-overview, https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster     
+        7. **NAT Gateway & Bastion Host** https://cloud.google.com/nat/docs/overview  
+        8. **Cloud Storage** : https://cloud.google.com/products/storage  
+        9. **Other Recommendation** :
         Recommendation for ACE and PCA    
             a. **Basic of Networking**   https://www.youtube.com/watch?v=EuSFNggRCH8&t=1306s   
             b. https://www.computernetworkingnotes.com/ccna-study-guide/subnetting-tricks-subnetting-made-easy-with-examples.html  
@@ -226,7 +229,7 @@ Get your hands dirty https://console.cloud.google.com/
 - [X] Configuring Load balancer -> firewall rule, cloud NAT, two VM instances, two MIGs, TCP Load Balancing for internal load balncing with front end and back end configurations against MIGs and health check    
 - [X] Automating the infrastructure of networks using Terraform  
 - 
-  Further Reading 
+  **Further Reading** 
   1. https://www.cloudskillsboost.google/focuses/2794?parent=catalog  
   2. https://cloud.google.com/sre, https://cloud.google.com/blog/products/devops-sre/  
   3. https://cloud.google.com/blog/products/devops-sre/devsecops-and-cicd-using-google-cloud-built-in-services  
