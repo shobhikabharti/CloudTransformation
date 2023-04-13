@@ -30,6 +30,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         6. **VPC Network** https://cloud.google.com/vpc/docs/vpc   
         7. **VPC Flow Logs** https://cloud.google.com/vpc/docs/flow-logs   
         8. **Health Checks** https://cloud.google.com/load-balancing/docs/health-check-concepts  
+        9. **Billing** https://cloud.google.com/billing/docs/concepts  
 
 <p>
    <img src="/Content/choose-lb.svg">
@@ -135,6 +136,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         14. **Resource Hierarchy** : https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy  
         15. **Book on Google Cloud Security Foundations (120 pages)** : https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf  
         16. **Financial Governance on the Cloud** : https://cloud.google.com/files/guide-to-financial-governance.pdf  
+        17. **Troubleshooting** : https://cloud.google.com/storage/docs/troubleshooting, https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-rdp   
 
 <p>
    <img src="/Content/network_n_security.jpg"/>
