@@ -1,3 +1,5 @@
+Example here -> https://cloud.google.com/sdk/gcloud/reference/compute/instances/describe, https://cloud.google.com/sdk/gcloud/reference/compute/instances/create  
+
 **gcloud format**
 
 gcloud + release level (optional) + component + entity + operation + positional args + flags  
