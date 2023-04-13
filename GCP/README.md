@@ -228,6 +228,9 @@ Get your hands dirty https://console.cloud.google.com/
 - 
   Further Reading 
   1. https://www.cloudskillsboost.google/focuses/2794?parent=catalog  
+  2. https://cloud.google.com/sre, https://cloud.google.com/blog/products/devops-sre/  
+  3. https://cloud.google.com/blog/products/devops-sre/devsecops-and-cicd-using-google-cloud-built-in-services  
+  4. https://cloud.google.com/blog/  
   
 **E. Google recommended Labwork on GKE**  
 - [X] Working with Cloud Build  
@@ -237,7 +240,7 @@ Get your hands dirty https://console.cloud.google.com/
 **Next Steps**
 
 1. Labwork  
-2. Commands -> gsutil, gscloud, curl, terrafomr, apache, apt-get and so on  
+2. Commands -> gsutil, gscloud, curl, terraform, apache, apt-get and so on  
 3. Configurations  
 
 **Extra : From APIGEE Training**
