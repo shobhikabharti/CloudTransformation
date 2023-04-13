@@ -52,7 +52,10 @@ Images Source: https://github.com/priyankavergadia, https://cloud.google.com/blo
             &emsp;&emsp;&emsp;&emsp;e. **Basic of Storage** https://www.youtube.com/watch?v=1Dqsi2M2tgM  
             &emsp;&emsp;&emsp;&emsp;f. **Basic Virtualization** https://www.youtube.com/watch?v=FZR0rG3HKIk   
             &emsp;&emsp;&emsp;&emsp;g. **Basic of Scripting (Powershell, JSON scripting , Python scripting)** https://www.youtube.com/watch?v=kpuAr6hbRuk  
-            &emsp;&emsp;&emsp;&emsp;h. **Basic of Windows Server** https://www.elithecomputerguy.com/windows-server-2012/   <br/><br/>
+            &emsp;&emsp;&emsp;&emsp;h. **Basic of Windows Server** https://www.elithecomputerguy.com/windows-server-2012/   
+        10. **Dynamic Routing** https://cloud.google.com/network-connectivity/docs/router/how-to/configuring-routing-mode  
+        11. **Cloud Router** https://cloud.google.com/network-connectivity/docs/router/concepts/overview   
+        12. **BGP Peering** https://cloud.google.com/network-connectivity/docs/router/how-to/configuring-bgp  <br/><br/>
   
 <p>
   <img src="/Content/hfw3-2.svg" width="500" align="top"/>
