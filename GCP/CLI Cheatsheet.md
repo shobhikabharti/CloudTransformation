@@ -1,3 +1,5 @@
+Reference here: https://cloud.google.com/sdk/gcloud/reference/compute  
+
 **Authentication and Configuration**  
 gcloud init: Initialize the gcloud configuration and setup a new configuration or switch to an existing one.  
 gcloud auth login: Log in to your Google Cloud Platform account and authorize the gcloud tool to access your resources.  
