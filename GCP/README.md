@@ -166,7 +166,44 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         1. **Networking lab**  
         2. **VM Instance lab**   
         3. **MIG Lab, predictive autoscaling**   
-        4. **Cloud balancing** : https://cloudsolutions.academy/solution/what-is-anycast-ip-address-and-how-does-google-cloud-load-balancer-works/
+        4. **Cloud balancing** : https://cloudsolutions.academy/solution/what-is-anycast-ip-address-and-how-does-google-cloud-load-balancer-works/  
+        
+**Resource hierarchy**  
+Google Cloud resources are organized hierarchically:
+
+-The organization is the root node in the hierarchy.  
+-Folders are children of the organization.  
+-Projects are children of the organization, or of a folder.  
+-Resources for each service are descendants of projects.  
+-Each resource has exactly one parent. For more information, see the Resource Manager resource hierarchy.  
+
+The following diagram is an example of a Google Cloud resource hierarchy.
+
+<p>
+   <img src="/Content/policy-inheritance.svg"/>
+</p>
+
+**Link with Google Workspace or Cloud Identity accounts**  
+
+The Google Workspace or Cloud Identity account represents a company and is a prerequisite to have access to the organization resource. In the Google Cloud context, it provides identity management, recovery mechanism, ownership and lifecycle management. The picture below shows the link between the Google Workspace account, Cloud Identity, and the Google Cloud resource hierarchy.
+
+<p>
+   <img src="/Content/cloud-hierarchy-workspace.svg"/>
+</p>
+
+**IAM policy inheritance**  
+
+Google Cloud offers IAM, which lets you assign granular access to specific Google Cloud resources and prevents unwanted access to other resources. IAM lets you control who (users) has what access (roles) to which resources by setting IAM policies on the resources.
+
+You can set an IAM policy at the organization level, the folder level, the project level, or (in some cases) the resource level. Resources inherit the policies of the parent resource. If you set a policy at the organization level, it is inherited by all its child folder and project resources, and if you set a policy at the project level, it is inherited by all its child resources.
+
+The effective policy for a resource is the union of the policy set on the resource and the policy inherited from its ancestors. This inheritance is transitive. In other words, resources inherit policies from the project, which inherit policies from the organization resource. Therefore, the organization-level policies also apply at the resource level.
+
+<p>
+   <img src="/Content/cloud-hierarchy.svg"/>
+</p>
+
+
 - [ ] 13 MAR 2023 > Hybrid networking, Pub/Sub, Cloud Functions, Cloud Run  
         1. **Serverless** : https://cloud.google.com/serverless  
         2. **YouTube Library on Pub/Sub** :   
