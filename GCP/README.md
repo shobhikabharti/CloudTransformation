@@ -26,7 +26,10 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         2. **IP & CIDR**  
         3. **Regions & Zones (World)** https://cloud.google.com/compute/docs/regions-zones  
         4. **VPC Peering** https://cloud.google.com/vpc/docs/vpc-peering, https://cloud.google.com/vpc/docs/quota  
-        5. **Load Balancing & Auto Scaling** https://cloud.google.com/load-balancing/docs/load-balancing-overview , https://cloud.google.com/load-balancing/docs    
+        5. **Load Balancing & Auto Scaling** https://cloud.google.com/load-balancing/docs/load-balancing-overview , https://cloud.google.com/load-balancing/docs  
+        6. **VPC Network** https://cloud.google.com/vpc/docs/vpc   
+        7. **VPC Flow Logs** https://cloud.google.com/vpc/docs/flow-logs   
+        8. **Health Checks** https://cloud.google.com/load-balancing/docs/health-check-concepts  
 
 <p>
    <img src="/Content/choose-lb.svg">
