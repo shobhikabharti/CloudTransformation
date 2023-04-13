@@ -33,17 +33,18 @@ Images Source: https://github.com/priyankavergadia, https://cloud.google.com/blo
 
 - [ ] 2 MAR 2023 > GCP Partner training update: Came across a new feature Security Hardening https://cloud.google.com/managed-microsoft-ad/docs/hardening   
         1. **VP Networks lab**  https://partner.cloudskillsboost.google/course_templates/479?catalog_rank={%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue}&search_id=22588454  
-        2. **Firewall (Ingress & Egress) i.e. incoming & outgoing** https://cloud.google.com/vpc/docs/about-firewalls, https://cloud.google.com/vpc/docs/firewalls  
-            a. **Hierarchical firewall policy** https://cloud.google.com/vpc/docs/firewall-policies-examples  
-            b. **Global firewall policy** https://cloud.google.com/vpc/docs/use-network-firewall-policies   
-            c. **Regional firewall policy** https://cloud.google.com/vpc/docs/use-regional-firewall-policies  
+        2. **Firewall (Ingress & Egress) i.e. incoming & outgoing** https://cloud.google.com/vpc/docs/about-firewalls, https://cloud.google.com/vpc/docs/firewalls <br/><br/> 
+            a. **Hierarchical firewall policy** In this policy, you create and enforce a consistent firewall policy across your organization. You can assign hierarchical firewall policies to the organization as a whole or to individual folders. These policies contain rules that can explicitly deny or allow connections. In addition, hierarchical firewall policy rules can delegate evaluation to lower-level policies or VPC network firewall rules with a goto_next action. Lower-level rules cannot override a rule from a higher place in the resource hierarchy. This lets organization-wide admins manage critical firewall rules in one place. https://cloud.google.com/vpc/docs/firewall-policies-examples  
+            b. **Global firewall policy** Global network firewall policies enable you to batch update all firewall rules by grouping them into a single policy object https://cloud.google.com/vpc/docs/use-network-firewall-policies   
+            c. **Regional firewall policy** Regional network firewall policies let you create and enforce a consistent firewall policy across all subnetworks within a region in your VPC network. These policies contain rules that can explicitly deny or allow connections, or go to the next level of the hierarchy https://cloud.google.com/vpc/docs/use-regional-firewall-policies   <br/><br/>
         4. **Routes** https://cloud.google.com/vpc/docs/routes  
         5. **Compute Engine & Options** https://cloud.google.com/compute   
         6. **Cluster Security & Security Hardening** https://cloud.google.com/kubernetes-engine/docs/concepts/security-overview, https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster     
         7. **NAT Gateway & Bastion Host** https://cloud.google.com/nat/docs/overview  
         8. **Cloud Storage** : https://cloud.google.com/products/storage  
         9. **Other Recommendation** :
-        Recommendation for ACE and PCA    
+        Recommendation for ACE and PCA  
+        <br/><br/>
             a. **Basic of Networking**   https://www.youtube.com/watch?v=EuSFNggRCH8&t=1306s   
             b. https://www.computernetworkingnotes.com/ccna-study-guide/subnetting-tricks-subnetting-made-easy-with-examples.html  
             c. **Basic of Linux Server** https://www.elithecomputerguy.com/linux-new/  
@@ -51,7 +52,7 @@ Images Source: https://github.com/priyankavergadia, https://cloud.google.com/blo
             e. **Basic of Storage** https://www.youtube.com/watch?v=1Dqsi2M2tgM  
             f. **Basic Virtualization** https://www.youtube.com/watch?v=FZR0rG3HKIk   
             g. **Basic of Scripting (Powershell, JSON scripting , Python scripting)** https://www.youtube.com/watch?v=kpuAr6hbRuk  
-            h. **Basic of Windows Server** https://www.elithecomputerguy.com/windows-server-2012/  
+            h. **Basic of Windows Server** https://www.elithecomputerguy.com/windows-server-2012/   <br/><br/>
   
 <p>
   <img src="/Content/hfw3-2.svg" width="500" align="top"/>
