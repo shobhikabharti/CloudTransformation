@@ -1,4 +1,4 @@
-Example here -> https://cloud.google.com/sdk/gcloud/reference/compute/instances/describe, https://cloud.google.com/sdk/gcloud/reference/compute/instances/create  
+Example here -> https://cloud.google.com/sdk/gcloud/reference/compute/instances/describe, https://cloud.google.com/sdk/gcloud/reference/compute/instances/create, https://kubernetes.io/docs/reference/kubectl/cheatsheet/  
 
 **gcloud format**
 
