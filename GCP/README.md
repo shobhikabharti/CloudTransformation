@@ -9,6 +9,7 @@
 However, if you're on a Beast Mode, 30 days of self study + 10 days of questionnaire, but for how many exams can we be on a beast mode, hence, I enjoyed food too, instead of following a strict diet during exam time. :D         
 
 Images Source: https://github.com/priyankavergadia, https://cloud.google.com/blog/topics/developers-practitioners/network-application-security-google-cloud/    
+Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-services-ef8264cfa5a8  
    
 - [ ] Feb 1 2023 > Went through the GCP Engineer starter introduction on YouTube https://www.youtube.com/watch?v=RbIbS0YMFs4&t=1395&ab_channel=GoogleCloud    
 - [ ] Feb 13 2023 > Went through the IAM & GCP marketplace to understand LAMP deployment in the GCP Engineer coursework https://cloud.google.com/marketplace/docs/  
@@ -238,7 +239,7 @@ Get your hands dirty https://console.cloud.google.com/
   2. https://cloud.google.com/sre, https://cloud.google.com/blog/products/devops-sre/  
   3. https://cloud.google.com/blog/products/devops-sre/devsecops-and-cicd-using-google-cloud-built-in-services  
   4. https://cloud.google.com/blog/  
-  
+ 
 **E. Google recommended Labwork on GKE**  
 - [X] Working with Cloud Build  
 - [X] Deploying to Google Kuberenetes Engine  
@@ -259,4 +260,7 @@ Get your hands dirty https://console.cloud.google.com/
 
 **Prep material**:
 1. Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate (Coursera)  
-2. Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate (Google Cloud SkillBoost)  
+2. Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate (Google Cloud SkillBoost)   
+3. https://research.google/teams/network-systems/, https://research.google/teams/cloud-networking/
+4. https://docs.gcp.databricks.com/data-governance/best-practices.html, Use case on Unity https://docs.gcp.databricks.com/data-governance/unity-catalog/get-started.html  
+        
