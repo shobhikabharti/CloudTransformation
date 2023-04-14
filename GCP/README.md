@@ -31,7 +31,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         7. **VPC Network** https://cloud.google.com/vpc/docs/vpc   
         8. **VPC Flow Logs** https://cloud.google.com/vpc/docs/flow-logs   
         9. **Health Checks** https://cloud.google.com/load-balancing/docs/health-check-concepts  
-        10. **Billing** https://cloud.google.com/billing/docs/concepts  
+        10. **Billing** When billing costs exceed a percentage of your budget, based on the rules you set, alert notifications are sent to billing administrators and billing account users. GCP will not stop services and will not delete anything https://cloud.google.com/billing/docs/concepts, https://cloud.google.com/billing/docs/how-to/budgets  
 
 <p>
    <img src="/Content/choose-lb.svg">
