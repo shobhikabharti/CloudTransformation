@@ -108,6 +108,17 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         14. **Scaling Application** : https://cloud.google.com/community/tutorials/horizontally-scale-mysql-database-backend-with-google-cloud-sql-and-proxysql, https://cloud.google.com/architecture/elastically-scaling-your-mysql-environment  
         15. **Create Read Replicas** : https://cloud.google.com/sql/docs/postgres/replication/create-replica, https://cloud.google.com/sql/docs/mysql/replication   
         16. **Transfer Cloud Storage to Cloud Storage use cases** https://cloud.google.com/storage-transfer/docs/cloud-storage-to-cloud-storage  
+<br/>
+
+| Storage Options | Description |
+| --- | --- |
+| **Google Storage Standard (None)** | Google Storage Standard is not a cheap option for storing archive data. There are other options to store archive data cheaper |
+| **Google Storage Nearline (30 days)** | Nearline is to plan archive data accessed **at most once a month** |
+| **Google Storage Coldline (90 days)** | Google Cloud Storage Coldline is a low-cost, highly durable storage service for storing infrequently accessed data. Coldline Storage is ideal for data you plan to read or modify on average **once a quarter or less.** |
+| **Google Archive (365 days)** | Google Cloud Storage Coldline is a low-cost, highly durable storage service for storing infrequently accessed data. Coldline Storage is ideal for data you plan to read or modify on average **once a quarter or less.** |
+| **BigQuery** | BigQuery does not have cheaper cost for storing data than Nearline for the first 90 days until it’s moved to long-term storage | 
+<br/>
+
 <p>
    <img src="/Content/Storage-to-Use.jpeg">
 </p>
