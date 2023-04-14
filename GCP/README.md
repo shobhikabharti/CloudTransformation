@@ -292,9 +292,9 @@ The effective policy for a resource is the union of the policy set on the resour
         5. **Kubernetes Cheatsheet** : https://kubernetes.io/docs/reference/kubectl/cheatsheet/  
         6. **gcloud cheatsheet** : https://cloud.google.com/sdk/docs/cheatsheet, https://cloud.google.com/static/sdk/docs/images/gcloud-cheat-sheet.pdf, https://googlecloudcheatsheet.withgoogle.com/  
         7. **GKE Documentation** : https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview   
-        8. **Services** : https://cloud.google.com/kubernetes-engine/docs/concepts/service   
-        9. **Another overview** : https://kubernetes.io/docs/concepts/services-networking/service/   
-        10. **Exposing applications using services (includes add, edit and remove)** : https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps   
+        8. **Services** : https://cloud.google.com/kubernetes-engine/docs/concepts/service    
+        9. **Another overview** : https://kubernetes.io/docs/concepts/services-networking/service/    
+        10. **Exposing applications using services (includes add, edit and remove)** : https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps    
         11. **Deployments** : https://kubernetes.io/docs/concepts/workloads/controllers/deployment/   
         12. **Suggested Lab: Running a MongoDB Database in Kubernetes with StatefulSets**: https://partner.cloudskillsboost.google/focuses/14656?parent=catalog  
         13. **Lab 2** : https://partner.cloudskillsboost.google/course_templates/2   
@@ -303,6 +303,22 @@ The effective policy for a resource is the union of the policy set on the resour
         16. **Kubernetes Workloads** : https://storage.googleapis.com/cloud-training/T-KUBGKE-I/v1.7/Student%20PDFs/%5BT-KUBGKE-B%5D%20%20M4_%20Introduction%20to%20Kubernetes%20Workloads%20v1.7.pdf   
         17. **Configuring multidimensional Pod autoscaling** : https://cloud.google.com/kubernetes-engine/docs/how-to/multidimensional-pod-autoscaling  
         18. **Transfer Appliance** : https://cloud.google.com/transfer-appliance/docs/4.0/overview  
+        19. **Where to run my stuff** : https://cloud.google.com/blog/topics/developers-practitioners/where-should-i-run-my-stuff-choosing-google-cloud-compute-option  
+<br/>
+
+| Engine | Description |
+| --- | --- |
+| **App Engine** | A fully managed serverless platform for complete web applications. App Engine handles the networking, application scaling, and database scaling. You write a web application in one of the supported languages, deploy to App Engine, and it handles scaling, updating versions, and so on |
+| **Compute Engine** | Virtual machines. You reserve a configuration of CPU, memory, disk, and GPUs, and decide what OS and additional software to run |
+| **Cloud Run** | A fully managed serverless platform that runs individual containers. You give code or a container to Cloud Run, and it hosts and auto scales as needed to respond to web and other events |
+| **Cloud Functions**| Event-driven serverless functions. You write individual function code and Cloud Functions calls your function when events happen (for example, HTTP, Pub/Sub, and Cloud Storage changes, among others) |
+| **GKE** | Managed Kubernetes clusters. Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications. You create a cluster and configure which containers to run; Kubernetes keeps them running and manages scaling, updates and connectivity |
+
+<br/>
+<p>
+  <img src="/Content/Engine.jpg"/>
+</p>
+<br/>
   
  
 - [ ] 14 MAR 2023 > ************************************************************SELF STUDY STARTS NOW**************************************************************
