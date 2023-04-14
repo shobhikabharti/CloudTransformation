@@ -12,3 +12,8 @@
 - Second is reserved for the default gateway
 - Second-to-last is reserved for future use
 - Last address is the broadcast address
+
+<p align="center">
+  <img src="/Content/Classes.gif" />
+
+</p>
