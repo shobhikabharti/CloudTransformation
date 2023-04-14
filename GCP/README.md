@@ -190,11 +190,11 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
 **Resource hierarchy**  
 Google Cloud resources are organized hierarchically:
 
--The organization is the root node in the hierarchy.  
--Folders are children of the organization.  
--Projects are children of the organization, or of a folder.  
--Resources for each service are descendants of projects.  
--Each resource has exactly one parent. For more information, see the Resource Manager resource hierarchy.  
+&emsp; &emsp;- The organization is the root node in the hierarchy.  
+&emsp; &emsp;- Folders are children of the organization.  
+&emsp; &emsp;- Projects are children of the organization, or of a folder.  
+&emsp; &emsp;- Resources for each service are descendants of projects.  
+&emsp; &emsp;- Each resource has exactly one parent. For more information, see the Resource Manager resource hierarchy.  
 
 The following diagram is an example of a Google Cloud resource hierarchy.
 
