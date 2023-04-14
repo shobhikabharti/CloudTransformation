@@ -127,7 +127,8 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         12. **Compliance** : https://cloud.google.com/security/compliance  ..look PCI DSS standard   
         13. **GDPR** : https://cloud.google.com/privacy/gdpr  
         14. **Private Google Access** : https://cloud.google.com/vpc/docs/private-google-access   
-        15. **Pricing (dual region vs single region)** : https://cloud.google.com/products/calculator , https://cloud.google.com/storage/docs/locations  
+        15. **Pricing (dual region vs single region)** : https://cloud.google.com/products/calculator , https://cloud.google.com/storage/docs/locations, https://cloud.google.com/bigquery/pricing    
+        16. In BigQuery, by limiting the number of columns to required ones you will be able to reduce the amount of data processed by BigQuery thus saving cost. Grouping query result does not help in reducing cost. It just groups result depending on the column specified. Then, Composite key will not help in reducing cost. This is only used to create unique records in a table. Also, JOINS are used when you are querying data from more than one table, this will not help.  
 
 <br/>
 
