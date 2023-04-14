@@ -72,7 +72,8 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         20. **Stackdriver or Google Cloud Operations Suite** https://cloud.google.com/products/operations, https://cloud.google.com/stackdriver/docs  
         21. **Cloud Functions** https://cloud.google.com/functions/docs  
         22. **API Engine** https://cloud.google.com/appengine/docs/the-appengine-environments  
-        23. **Cloud Run** https://cloud.google.com/run/docs/overview/what-is-cloud-run  
+        23. **What is a Cloud Run** https://cloud.google.com/run/docs/overview/what-is-cloud-run  
+        24. **ACL** https://cloud.google.com/storage/docs/access-control/lists  
         <br/>
         <br/>
         
