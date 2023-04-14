@@ -129,6 +129,8 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         14. **Private Google Access** : https://cloud.google.com/vpc/docs/private-google-access   
         15. **Pricing (dual region vs single region)** : https://cloud.google.com/products/calculator , https://cloud.google.com/storage/docs/locations  
 
+<br/>
+
 | Service | Description |
 | --- | --- |
 | **BigTable** | BigTable is a managed NoSQL DB service designed for handling and processing large amounts of data |  
@@ -137,7 +139,11 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
 | **Google Cloud Storage** | GCS is only used for storing files. It does not support relational or non-relational data |
 | **CloudSQL** | CloudSQL provides database migration service as well as MySQL managed DB service. CloudSQL supports ACID transactions but supports only vertical scaling. CloudSQL only supports MySQL, SQL Server and Postgres. Therefore, it does not fit our requirement. For Oracle and DB2, the only option is to install both of them on a VM |  
 | **Cloud Spanner** | Cloud Spanner is a global SQL database service that can scale across the globe horizontally and even supports ACID transactions | 
+| **Cloud Dataproc** | Cloud Dataproc is a fast, easy-to-use, fully managed cloud service for running Apache Spark and Apache Hadoop clusters in a simpler, more cost-efficient way |
+| **Cloud Dataflow** | Cloud Dataflow is a fully-managed service for transforming and enriching data in stream (real time) and batch (historical) modes with equal reliability and expressiveness |
+| **Cloud Composer** | Cloud Composer is a fully managed workflow orchestration service that empowers you to author, schedule, and monitor pipelines that span across clouds and on-premises data centers. It is built on the popular Apache Airflow open source project |
 
+<br/>
 <br/><br/>
 <p>
    <img src="/Content/Which-GCP-Database.jpg"/>
@@ -165,7 +171,18 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         15. **Book on Google Cloud Security Foundations (120 pages)** : https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf  
         16. **Financial Governance on the Cloud** : https://cloud.google.com/files/guide-to-financial-governance.pdf  
         17. **Troubleshooting** : https://cloud.google.com/storage/docs/troubleshooting, https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-rdp   
+<br/>
 
+
+| Service | Description |
+| --- | --- |
+| **Stackdriver Trace** | Stackdriver Trace is a distributed tracing system that collects latency data from your applications and displays it in the Google Cloud Platform Console. You can track how requests propagate through your application and receive detailed near real-time performance insights |
+| **Profiler** | Profiler helps you continuously monitor CPU and heap profiling |
+| **Stackdriver Monitoring** | Stackdriver Monitoring provides visibility into the performance, uptime, and overall health of cloud-powered applications |
+| **Activity Logs** | Activity logs record API activities such as launching of instance, creating firewall, attaching it to instance, creating bucket, etc. Activity logs records each and every activity performed by a user or resources like creating, deleting a VM |
+| **Flow Logs** | Flow logs capture each and every packet flowing within your network. It will record details like source IP, destination IP, source port, destination port, timestamp, etc. |
+
+<br/>
 <p>
    <img src="/Content/network_n_security.jpg"/>
 </p>
