@@ -145,6 +145,14 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
 | **Cloud Composer** | Cloud Composer is a fully managed workflow orchestration service that empowers you to author, schedule, and monitor pipelines that span across clouds and on-premises data centers. It is built on the popular Apache Airflow open source project |
 
 <br/>
+
+| Role | Description |
+| --- | --- |
+| **Cloud SQL Editor** | SQL Editor allows users to Manage specific instances. No ability to see or modify permissions, nor modify users or SSL certs. No ability to import data or restore from a backup, nor clone, delete, or promote instances |
+| **Cloud SQL Admin** | Full control for all Cloud SQL resources |
+| **Cloud SQL Viewer** | Read-only access to all Cloud SQL resources |
+| **Cloud SQL Client** | Connectivity access to Cloud SQL instances from App Engine and the Cloud SQL Proxy. Not required for accessing an instance using IP addresses | 
+
 <br/><br/>
 <p>
    <img src="/Content/Which-GCP-Database.jpg"/>
