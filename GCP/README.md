@@ -95,19 +95,20 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         1. **Storage & Databases (Object, File, Relational, Non-realtional, Warehouse)** : https://cloud.google.com/products/storage, https://cloud.google.com/products/databases  
         2. **Shared Responsibility Model**: https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate  
         3. **Storage Types** : Storage -> Nearline (1 Month) -> Coldline (3 Month) -> Archive (1 Year) (arranged as per frequecy usage/ data retrieval)  
-        4. **Pricing** : https://cloud.google.com/storage/pricing  
-        5. **Object Lifecycle Management** : If you want to delete the data but want to contain the snapshot of the data for few days before deleting it. https://cloud.google.com/storage/docs/lifecycle  
-        6. **Object Immutability** : https://cloud.google.com/storage/docs/objects  
-        7. **Object Versioning** : Maintaining multiple version on the object or maintaining the history https://cloud.google.com/storage/docs/object-versioning  
-        8. **Delete Policy** : https://cloud.google.com/iam/docs/reference/rest/v2beta/policies/delete   
-        9. **Filestore** : https://cloud.google.com/filestore  
-        10. **Netapp** : https://cloud.google.com/architecture/partners/netapp-cloud-volumes  
-        11. **Azure-AWS-GCP Comparison** : https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison  
-        12. **ACID Properties** : https://www.bmc.com/blogs/acid-atomic-consistent-isolated-durable/  
-        13. **GCP Services** : https://cloud.google.com/terms/services  
-        14. **Scaling Application** : https://cloud.google.com/community/tutorials/horizontally-scale-mysql-database-backend-with-google-cloud-sql-and-proxysql, https://cloud.google.com/architecture/elastically-scaling-your-mysql-environment  
-        15. **Create Read Replicas** : https://cloud.google.com/sql/docs/postgres/replication/create-replica, https://cloud.google.com/sql/docs/mysql/replication   
-        16. **Transfer Cloud Storage to Cloud Storage use cases** https://cloud.google.com/storage-transfer/docs/cloud-storage-to-cloud-storage  
+        4. **Storage Options** : Region, Dual-region, Multi-region https://cloud.google.com/storage/docs/storage-classes, https://cloud.google.com/storage/docs/locations    
+        5. **Pricing** : https://cloud.google.com/storage/pricing  
+        6. **Object Lifecycle Management** : If you want to delete the data but want to contain the snapshot of the data for few days before deleting it. https://cloud.google.com/storage/docs/lifecycle  
+        7. **Object Immutability** : https://cloud.google.com/storage/docs/objects  
+        8. **Object Versioning** : Maintaining multiple version on the object or maintaining the history https://cloud.google.com/storage/docs/object-versioning  
+        9. **Delete Policy** : https://cloud.google.com/iam/docs/reference/rest/v2beta/policies/delete   
+        10. **Filestore** : https://cloud.google.com/filestore  
+        11. **Netapp** : https://cloud.google.com/architecture/partners/netapp-cloud-volumes  
+        12. **Azure-AWS-GCP Comparison** : https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison  
+        13. **ACID Properties** : https://www.bmc.com/blogs/acid-atomic-consistent-isolated-durable/  
+        14. **GCP Services** : https://cloud.google.com/terms/services  
+        15. **Scaling Application** : https://cloud.google.com/community/tutorials/horizontally-scale-mysql-database-backend-with-google-cloud-sql-and-proxysql, https://cloud.google.com/architecture/elastically-scaling-your-mysql-environment  
+        16. **Create Read Replicas** : https://cloud.google.com/sql/docs/postgres/replication/create-replica, https://cloud.google.com/sql/docs/mysql/replication   
+        17. **Transfer Cloud Storage to Cloud Storage use cases** https://cloud.google.com/storage-transfer/docs/cloud-storage-to-cloud-storage  
 <br/>
 
 | Storage Options | Description |
