@@ -73,8 +73,17 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         21. **Cloud Functions** https://cloud.google.com/functions/docs  
         22. **API Engine** https://cloud.google.com/appengine/docs/the-appengine-environments  
         23. **Cloud Run** https://cloud.google.com/run/docs/overview/what-is-cloud-run  
-        <br/><br/>
-  
+        <br/>
+        <br/>
+        
+| Service | Description (Migration) |
+| ------ | ------ |
+| **Google Cloud Router** | Google Cloud Router enables you to dynamically exchange routes between your Virtual Private Cloud (VPC) and on-premises networks by using Border Gateway Protocol (BGP). The Cloud Router automatically learns new subnets in your VPC network and announces them to your on-premises network. |
+| **Cloud CDN** | Cloud CDN leverages Google’s globally distributed edge points of presence to accelerate content delivery for websites and applications served out of Google Compute Engine and Google Cloud Storage. Cloud CDN lowers network latency, offloads origins, and reduces serving costs. |
+| **Cloud NAT** | Cloud NAT enables you to provision your application instances without public IP addresses while also allowing them to access the internet for updates, patching, config management, and more in a controlled and efficient manner. |
+| **Cloud Run** | Cloud Run is a managed compute platform that automatically scales your stateless containers. | 
+
+<br/>  
 <p>
   <img src="/Content/hfw3-2.svg" width="500" align="top"/>
   <img width="100"/>
