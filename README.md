@@ -22,6 +22,7 @@
 2. Development Library :	https://bit.ly/3K92GXO  
 3. Digital Product Library :	https://bit.ly/3pAquKA  
 4. DevOps Training: https://www.edureka.co/devops-certification-training  
+5. Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
 
 
 Further, Google launched beginner library on Coursera, if required, please go through these basic courses to refresh/upscale on product development and management for DevOps work. However, if you're from other applied areas, you might need to come up with different learning library  
