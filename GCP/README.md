@@ -68,6 +68,11 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         16. **Stackdriver Logging** https://cloud.google.com/migrate/compute-engine/docs/4.8/how-to/monitoring/using-stackdriver-monitoring   
         17. **Cloud CDN** leverages Google’s globally distributed edge points of presence to accelerate content delivery for websites and applications served out of Google Compute Engine and Google Cloud Storage. Cloud CDN lowers network latency, offloads origins, and reduces serving costs. https://cloud.google.com/cdn/docs/overview    
         18. **Cloud Run** is a managed compute platform that automatically scales your stateless containers. https://cloud.google.com/run, https://cloud.google.com/run/docs/apis    
+        19. **API Gateway** https://cloud.google.com/api-gateway  
+        20. **Stackdriver or Google Cloud Operations Suite** https://cloud.google.com/products/operations, https://cloud.google.com/stackdriver/docs  
+        21. **Cloud Functions** https://cloud.google.com/functions/docs  
+        22. **API Engine** https://cloud.google.com/appengine/docs/the-appengine-environments  
+        23. **Cloud Run** https://cloud.google.com/run/docs/overview/what-is-cloud-run  
         <br/><br/>
   
 <p>
