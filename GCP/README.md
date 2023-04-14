@@ -32,7 +32,15 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         8. **VPC Flow Logs** https://cloud.google.com/vpc/docs/flow-logs   
         9. **Health Checks** https://cloud.google.com/load-balancing/docs/health-check-concepts  
         10. **Billing** When billing costs exceed a percentage of your budget, based on the rules you set, alert notifications are sent to billing administrators and billing account users. GCP will not stop services and will not delete anything https://cloud.google.com/billing/docs/concepts, https://cloud.google.com/billing/docs/how-to/budgets  
+<br/>
 
+| Name | Title | Permissions |
+| --- | --- | --- |
+| **roles/viewer** | Viewer	| Permissions for read-only actions that do not affect state, such as viewing (but not modifying) existing resources or data |
+| **roles/editor** | Editor | All viewer permissions, plus permissions for actions that modify state, such as changing existing resources |
+| **roles/owner** |	Owner |	All Editor permissions and permissions for the following actions: Manage roles and permissions for a project and all resources within the project & Set up billing for a project |
+
+<br/>
 <p>
    <img src="/Content/choose-lb.svg">
 </p>
