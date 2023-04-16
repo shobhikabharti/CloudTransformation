@@ -3,7 +3,15 @@
 
 #### Jenkins
 
-#### Docker
+#### Docker  
+
+brew install --cask docker virtualbox  
+brew install docker-machine  
+docker-machine create --driver virtualbox default  
+docker-machine restart  
+eval "$(docker-machine env default)" # This might throw an TSI connection error. In that case run docker-machine regenerate-certs default  
+(docker-machine restart) # maybe needed  
+docker run hello-world  
 
 #### Kubernetes
 
