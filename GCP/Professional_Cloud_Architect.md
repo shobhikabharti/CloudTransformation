@@ -36,5 +36,6 @@ The Professional Cloud Architect certification exam assesses your ability to :
   VPC Flow logs https://cloud.google.com/vpc/docs/flow-logs  
   Firewall Rule https://cloud.google.com/vpc/docs/firewalls  
   Firewall Policies https://cloud.google.com/vpc/docs/firewall-policies-overview  
+  Security Whitepaper https://cloud.google.com/docs/security  
  
 
