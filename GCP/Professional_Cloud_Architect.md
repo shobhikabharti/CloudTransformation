@@ -4,5 +4,37 @@
   <img src ="/Content/rainbow.png" />
 </p>
 
-- [ ] APR 17 2023 > Training starts today, prerequisites hands-on on ACE https://github.com/shobhikabharti/CloudTransformation/blob/main/GCP/README.md  
-- [ ] 
+- [ ] APR 17 2023 > 15 days PCA Training starts today, prerequisites hands-on on ACE https://github.com/shobhikabharti/CloudTransformation/blob/main/GCP/README.md  
+The Professional Cloud Architect certification exam assesses your ability to : 
+
+   1. Design and plan a cloud solution architecture 
+   2. Manage and provision the cloud solution infrastructure 
+   3. Design for security and compliance  
+   4. Analyze and optimize technical and business processes  
+   5. Manage implementations of cloud architecture  
+   6. Ensure solution and operations reliability  
+
+  Before marching on the journey, start with the Sketch Note by Priyanka Vergadia and keep it handy before exam https://github.com/priyankavergadia/GCPSketchnote  
+  
+  #### Compute Engine 
+
+  Machine types https://cloud.google.com/compute/docs/machine-resource  
+  Images https://cloud.google.com/compute/docs/images   
+  Pricing https://cloud.google.com/compute/all-pricing  
+  Storage Options https://cloud.google.com/compute/docs/disks  
+  Snapshot https://cloud.google.com/compute/docs/disks/snapshots  
+  Migration https://cloud.google.com/migrate/virtual-machines  
+  
+  #### VPC 
+  
+  VPC https://cloud.google.com/vpc/docs/vpc  
+  Regions & Zones https://cloud.google.com/compute/docs/regions-zones  
+  Subnets https://cloud.google.com/vpc/docs/subnets   
+  Routes https://cloud.google.com/vpc/docs/routes  
+  IP Addresses https://cloud.google.com/vpc/docs/ip-addresses  
+  Connect https://cloud.google.com/vpc/docs/private-service-connect  
+  VPC Flow logs https://cloud.google.com/vpc/docs/flow-logs  
+  Firewall Rule https://cloud.google.com/vpc/docs/firewalls  
+  Firewall Policies https://cloud.google.com/vpc/docs/firewall-policies-overview  
+ 
+
