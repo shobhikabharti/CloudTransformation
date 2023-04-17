@@ -6,7 +6,7 @@
 
 ## Day 1
 #### APR 17 2023 > 15 days PCA Training starts today, prerequisites hands-on on ACE https://github.com/shobhikabharti/CloudTransformation/blob/main/GCP/README.md  
-The Professional Cloud Architect certification exam assesses your ability to : 
+The [Professional Cloud Architect](https://cloud.google.com/architecture) certification exam assesses your ability to : 
 
    1. Design and plan a cloud solution architecture 
    2. Manage and provision the cloud solution infrastructure 
