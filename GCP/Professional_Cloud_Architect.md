@@ -4,7 +4,8 @@
   <img src ="/Content/rainbow.png" />
 </p>
 
-- [ ] APR 17 2023 > 15 days PCA Training starts today, prerequisites hands-on on ACE https://github.com/shobhikabharti/CloudTransformation/blob/main/GCP/README.md  
+## Day 1
+#### APR 17 2023 > 15 days PCA Training starts today, prerequisites hands-on on ACE https://github.com/shobhikabharti/CloudTransformation/blob/main/GCP/README.md  
 The Professional Cloud Architect certification exam assesses your ability to : 
 
    1. Design and plan a cloud solution architecture 
@@ -38,4 +39,32 @@ The Professional Cloud Architect certification exam assesses your ability to :
   Firewall Policies https://cloud.google.com/vpc/docs/firewall-policies-overview  
   Security Whitepaper https://cloud.google.com/docs/security  
  
+## Day 2
+#### 18 APR 2023   
 
+## Day 3
+#### 19 APR 2023  
+## Day 4
+#### 20 APR 2023  
+## Day 5
+#### 21 APR 2023  
+## Day 6
+#### 24 APR 2023  
+## Day 7
+#### 25 APR 2023  
+## Day 8
+#### 26 APR 2023  
+## Day 9
+#### 27 APR 2023  
+## Day 10
+#### 28 APR 2023  
+## Day 11
+#### 1 MAY 2023  
+## Day 12
+#### 2 MAY 2023  
+## Day 13
+#### 3 MAY 2023  
+## Day 14
+#### 4 MAY 2023  
+## Day 15
+#### 5 MAY 2023  
