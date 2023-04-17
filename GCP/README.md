@@ -32,6 +32,9 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         8. **VPC Flow Logs** https://cloud.google.com/vpc/docs/flow-logs   
         9. **Health Checks** https://cloud.google.com/load-balancing/docs/health-check-concepts  
         10. **Billing** When billing costs exceed a percentage of your budget, based on the rules you set, alert notifications are sent to billing administrators and billing account users. GCP will not stop services and will not delete anything https://cloud.google.com/billing/docs/concepts, https://cloud.google.com/billing/docs/how-to/budgets  
+        11. **Resource Manager** https://cloud.google.com/resource-manager  
+        12. **Restructing Resource** (Org): https://cloud.google.com/resource-manager/docs/organization-policy/defining-locations  
+        13. **Cloud Identity** https://cloud.google.com/identity, https://cloud.google.com/identity/docs/overview  
 <br/>
 
 | Name | Title | Permissions |
