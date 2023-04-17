@@ -64,7 +64,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
             &emsp;&emsp;&emsp;&emsp;b. **Global firewall policy** Global network firewall policies enable you to batch update all firewall rules by grouping them into a single policy object https://cloud.google.com/vpc/docs/use-network-firewall-policies   
             &emsp;&emsp;&emsp;&emsp;c. **Regional firewall policy** Regional network firewall policies let you create and enforce a consistent firewall policy across all subnetworks within a region in your VPC network. These policies contain rules that can explicitly deny or allow connections, or go to the next level of the hierarchy https://cloud.google.com/vpc/docs/use-regional-firewall-policies   <br/><br/>
         4. **Routes** https://cloud.google.com/vpc/docs/routes  
-        5. **Compute Engine & Options** https://cloud.google.com/compute   
+        5. **Compute Engine & Options** https://cloud.google.com/compute, Create a persistent disk from a data source  https://cloud.google.com/compute/docs/disks/create-disk-from-source     
         6. **Cluster Security & Security Hardening** https://cloud.google.com/kubernetes-engine/docs/concepts/security-overview, https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster     
         7. **NAT Gateway & Bastion Host** Cloud NAT enables you to provision your application instances without public IP addresses while also allowing them to access the internet for updates, patching, config management, and more in a controlled and efficient manner. https://cloud.google.com/nat/docs/overview  
         8. **Cloud Storage** : https://cloud.google.com/products/storage, https://cloud.google.com/storage/docs/access-control/making-data-public    
