@@ -35,6 +35,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         11. **Resource Manager** https://cloud.google.com/resource-manager  
         12. **Restricting Resources** (Org) https://cloud.google.com/resource-manager/docs/organization-policy/defining-locations  
         13. **Cloud Identity** https://cloud.google.com/identity, https://cloud.google.com/identity/docs/overview  
+        14. **gcloud configurations** https://cloud.google.com/sdk/docs/configurations  
 <br/>
 
 | Name | Title | Permissions |
