@@ -29,7 +29,7 @@ The Professional Cloud Architect certification exam assesses your ability to :
   
   VPC https://cloud.google.com/vpc/docs/vpc  
   Regions & Zones https://cloud.google.com/compute/docs/regions-zones  
-  Subnets https://cloud.google.com/vpc/docs/subnets   
+  Subnets https://cloud.google.com/vpc/docs/subnets, three types of subnets https://k21academy.com/google-cloud/google-cloud-vpc/     
   Routes https://cloud.google.com/vpc/docs/routes  
   IP Addresses https://cloud.google.com/vpc/docs/ip-addresses  
   Connect https://cloud.google.com/vpc/docs/private-service-connect  
