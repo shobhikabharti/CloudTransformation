@@ -36,6 +36,14 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         12. **Restricting Resources** (Org) https://cloud.google.com/resource-manager/docs/organization-policy/defining-locations  
         13. **Cloud Identity** https://cloud.google.com/identity, https://cloud.google.com/identity/docs/overview  
         14. **gcloud configurations** https://cloud.google.com/sdk/docs/configurations  
+        15. **Authorize the gcloud CLI** https://cloud.google.com/sdk/docs/authorizing  
+<br/> 
+
+| Command |	Description |
+| --- | --- |
+| gcloud init |	Authorizes access and performs other common setup steps |
+| gcloud auth login |	Authorizes access only |
+
 <br/>
 
 | Name | Title | Permissions |
@@ -59,7 +67,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         5. **Compute Engine & Options** https://cloud.google.com/compute   
         6. **Cluster Security & Security Hardening** https://cloud.google.com/kubernetes-engine/docs/concepts/security-overview, https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster     
         7. **NAT Gateway & Bastion Host** Cloud NAT enables you to provision your application instances without public IP addresses while also allowing them to access the internet for updates, patching, config management, and more in a controlled and efficient manner. https://cloud.google.com/nat/docs/overview  
-        8. **Cloud Storage** : https://cloud.google.com/products/storage  
+        8. **Cloud Storage** : https://cloud.google.com/products/storage, https://cloud.google.com/storage/docs/access-control/making-data-public    
         9. **Other Recommendation** :
         Recommendation for ACE and PCA  
         <br/><br/>
@@ -137,7 +145,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
 </p>
 
 - [ ] 6 MAR 2023 > Storage Options (BigQuery -> Dataflow -> Dataprep -> Dataproc -> Result)   
-        1. **Bigquery** : https://cloud.google.com/bigquery  
+        1. **Bigquery** : https://cloud.google.com/bigquery, https://cloud.google.com/bigquery/docs/batch-loading-data    
         2. **Cloud Spanner** : https://cloud.google.com/spanner  
         3. **Firestore** : https://cloud.google.com/firestore  
         4. **Cloud Bigtable** : https://cloud.google.com/bigtable  
@@ -245,6 +253,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         3. **MIG Lab, predictive autoscaling**   
         4. **Cloud balancing** : https://cloudsolutions.academy/solution/what-is-anycast-ip-address-and-how-does-google-cloud-load-balancer-works/  
         5. **Resource hierarchy** : https://cloud.google.com/iam/docs/overview, https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy  
+        6. **External HTTP(S) load balancer overview** : https://cloud.google.com/load-balancing/docs/https  
         
 
 **Resource hierarchy**  
