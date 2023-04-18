@@ -42,6 +42,8 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
 ## Day 2
 #### 18 APR 2023   
 
+Public IPs are not attached to NICs.
+
 ## Day 3
 #### 19 APR 2023  
 ## Day 4
