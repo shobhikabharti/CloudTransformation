@@ -25,6 +25,8 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
   Storage Options https://cloud.google.com/compute/docs/disks  
   Snapshot https://cloud.google.com/compute/docs/disks/snapshots  
   Migration https://cloud.google.com/migrate/virtual-machines  
+  Shielded VMs https://cloud.google.com/compute/shielded-vm/docs/shielded-vm  
+  Sole Tenant Node Type https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes, https://cloud.google.com/blog/products/gcp/introducing-sole-tenant-nodes-for-google-compute-engine  
   
   #### VPC 
   
@@ -42,7 +44,16 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
 ## Day 2
 #### 18 APR 2023   
 
+#### VPC (Contd.)  
+#### Cloud NAT   
+Multiple VPC Networks  
+https://docs.google.com/document/d/1Pjvk8I4pQj8gmg5NqwoaVJyFufYaOx8fLiCj5wK8YrI/edit  
 Public IPs are not attached to NICs.
+<br/>
+<p>
+  <img src="/Content/compute.svg"/>
+</p>
+<br/>
 
 ## Day 3
 #### 19 APR 2023  
