@@ -30,6 +30,7 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
   Smart Analytics https://cloud.google.com/solutions/smart-analytics/  
   Industry Solutions https://cloud.google.com/solutions/#industry-solutions  
   Cloud Solutions (Small Businesses) https://cloud.google.com/solutions/#role-based-solutions-smb  
+  Compliance as Code https://cloud.google.com/solutions/risk-and-compliance-as-code  
   
   #### Compute Engine 
 
