@@ -37,6 +37,10 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         13. **Cloud Identity** https://cloud.google.com/identity, https://cloud.google.com/identity/docs/overview  
         14. **gcloud configurations** https://cloud.google.com/sdk/docs/configurations  
         15. **Authorize the gcloud CLI** https://cloud.google.com/sdk/docs/authorizing  
+        
+Internal IPs = private   
+External IPs = public   
+
 <br/> 
 
 | Command |	Description |
