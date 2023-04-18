@@ -33,6 +33,7 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
   
   #### Compute Engine 
 
+  Virtual Machine Instances https://cloud.google.com/compute/docs/instances  
   Machine types https://cloud.google.com/compute/docs/machine-resource  
   Images https://cloud.google.com/compute/docs/images   
   Pricing https://cloud.google.com/compute/all-pricing  
@@ -58,6 +59,7 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
   Hierarchical Firewall Policies https://cloud.google.com/vpc/docs/firewall-policies  
   Security Whitepaper https://cloud.google.com/docs/security  
   Multiple interfaces https://cloud.google.com/vpc/docs/multiple-interfaces-concepts, https://cloud.google.com/vpc/docs/create-use-multiple-interfaces  
+  Network Pricing https://cloud.google.com/vpc/network-pricing  
 
 
 | Internal IP | External IP |
