@@ -4,8 +4,8 @@
   <img src ="/Content/rainbow.png" />
 </p>
 
-## Day 1
-#### APR 17 2023 > 15 days PCA Training starts today, prerequisites hands-on on ACE https://github.com/shobhikabharti/CloudTransformation/blob/main/GCP/README.md  
+## Day 1 & Day 2
+#### APR 17 2023, APR 18, 2023 > 15 days PCA Training starts today, prerequisites hands-on on ACE https://github.com/shobhikabharti/CloudTransformation/blob/main/GCP/README.md  
 The [Professional Cloud Architect](https://cloud.google.com/architecture) certification exam assesses your ability to : 
 
    1. Design and plan a cloud solution architecture 
@@ -16,6 +16,7 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
    6. Ensure solution and operations reliability  
 
   Before marching on the journey, start with the Sketch Note by Priyanka Vergadia and keep it handy before exam https://github.com/priyankavergadia/GCPSketchnote  
+  If confused, check recommendations on Google Cloud   
   
   #### Compute Engine 
 
@@ -27,6 +28,7 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
   Migration https://cloud.google.com/migrate/virtual-machines  
   Shielded VMs https://cloud.google.com/compute/shielded-vm/docs/shielded-vm  
   Sole Tenant Node Type https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes, https://cloud.google.com/blog/products/gcp/introducing-sole-tenant-nodes-for-google-compute-engine  
+  Plan for the Bare Metal Solution https://cloud.google.com/bare-metal/docs/bms-planning   
   
   #### VPC 
   
@@ -40,14 +42,12 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
   Firewall Rule https://cloud.google.com/vpc/docs/firewalls  
   Firewall Policies https://cloud.google.com/vpc/docs/firewall-policies-overview  
   Security Whitepaper https://cloud.google.com/docs/security  
- 
-## Day 2
-#### 18 APR 2023   
 
-#### VPC (Contd.)  
 #### Cloud NAT   
 Multiple VPC Networks  
 https://docs.google.com/document/d/1Pjvk8I4pQj8gmg5NqwoaVJyFufYaOx8fLiCj5wK8YrI/edit  
+
+
 Public IPs are not attached to NICs.
 <br/>
 <p>
