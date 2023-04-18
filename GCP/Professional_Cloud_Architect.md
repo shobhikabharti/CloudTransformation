@@ -18,6 +18,19 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
   Before marching on the journey, start with the Sketch Note by Priyanka Vergadia and keep it handy before exam https://github.com/priyankavergadia/GCPSketchnote  
   If confused, check recommendations on Google Cloud   
   
+  Quickstart https://cloud.google.com/docs/get-started/  
+  Google Cloud Architecture Framework https://cloud.google.com/architecture/framework   
+  Cloud Architecture Center https://cloud.google.com/architecture/  
+  Infrastructure Modernization https://cloud.google.com/solutions/infrastructure-modernization/  
+  Application Modernization https://cloud.google.com/solutions/application-modernization/  
+  DevOps https://cloud.google.com/devops  
+  Security https://cloud.google.com/solutions/security/  
+  Databases https://cloud.google.com/solutions/databases/  
+  Artificial Intelligence https://cloud.google.com/solutions/ai/  
+  Smart Analytics https://cloud.google.com/solutions/smart-analytics/  
+  Industry Solutions https://cloud.google.com/solutions/#industry-solutions  
+  Cloud Solutions (Small Businesses) https://cloud.google.com/solutions/#role-based-solutions-smb  
+  
   #### Compute Engine 
 
   Machine types https://cloud.google.com/compute/docs/machine-resource  
@@ -32,6 +45,7 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
   
   #### VPC 
   
+  Best practices and reference architectures for VPC design https://cloud.google.com/architecture/best-practices-vpc-design  
   VPC https://cloud.google.com/vpc/docs/vpc  
   Regions & Zones https://cloud.google.com/compute/docs/regions-zones  
   Subnets https://cloud.google.com/vpc/docs/subnets, three types of subnets https://k21academy.com/google-cloud/google-cloud-vpc/     
@@ -41,19 +55,30 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
   VPC Flow logs https://cloud.google.com/vpc/docs/flow-logs  
   Firewall Rule https://cloud.google.com/vpc/docs/firewalls  
   Firewall Policies https://cloud.google.com/vpc/docs/firewall-policies-overview  
+  Hierarchical Firewall Policies https://cloud.google.com/vpc/docs/firewall-policies  
   Security Whitepaper https://cloud.google.com/docs/security  
+  Multiple interfaces https://cloud.google.com/vpc/docs/multiple-interfaces-concepts, https://cloud.google.com/vpc/docs/create-use-multiple-interfaces  
+
+
+| Internal IP | External IP |
+| --- | --- |
+| Allocated from subnet range to VMs by DHCP | Bring your own IP address (BYOIP). Assigned from pool (ephemeral) |
+| Alternatively, can reserve (static) internal IP address | Alternatively, can reserve (static) external IP address |
 
 #### Cloud NAT   
 Multiple VPC Networks  
 https://docs.google.com/document/d/1Pjvk8I4pQj8gmg5NqwoaVJyFufYaOx8fLiCj5wK8YrI/edit  
 
 
-Public IPs are not attached to NICs.
+Public IPs are not attached to NICs.  
+
 <br/>
 <p>
   <img src="/Content/compute.svg"/>
 </p>
 <br/>
+
+Vertex AI Product Example https://cloud.google.com/vertex-ai/docs   
 
 ## Day 3
 #### 19 APR 2023  
