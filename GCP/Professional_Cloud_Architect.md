@@ -87,6 +87,11 @@ Vertex AI Product Example https://cloud.google.com/vertex-ai/docs
 
 ## Day 3
 #### 19 APR 2023  
+
+Horizontal vs Vertical scaling https://www.geeksforgeeks.org/horizontal-and-vertical-scaling-in-databases/, https://openmetal.io/docs/edu/openstack/horizontal-scaling-vs-vertical-scaling/   
+
+
+
 ## Day 4
 #### 20 APR 2023  
 ## Day 5
