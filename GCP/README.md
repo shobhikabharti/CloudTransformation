@@ -9,7 +9,7 @@
 However, if you're on a Beast Mode, 30 days of self study + 7 days of questionnaire + 3 days relax before exam, but how many exams can we be on a beast mode, hence, I enjoyed work-life balance and nutrition with proper exam management here. We have to take exam prep seriously once we graduate and studying on our own. Meanwhile, have fun, if you're from Computer branch like me, probably you'll enjoy the cloud platform solutions like I do. It's relaxing to see everything under one place. Journey is harder than I thought, but once attained a level in any cloud program, you'll be satisfied with your time investment. It'll be a win-win situation.     
 
 Source: https://github.com/priyankavergadia, https://cloud.google.com/blog/topics/developers-practitioners/network-application-security-google-cloud/    
-Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-services-ef8264cfa5a8, https://cloud.google.com/learn/certification/guides/cloud-engineer, https://sre.google/sre-book/introduction/    
+Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-services-ef8264cfa5a8, https://cloud.google.com/learn/certification/guides/cloud-engineer, https://sre.google/sre-book/introduction/, https://youtu.be/P6pHRiWVSBI      
    
 - [ ] Feb 1 2023 > Went through the GCP Engineer starter introduction on YouTube https://www.youtube.com/watch?v=RbIbS0YMFs4&t=1395&ab_channel=GoogleCloud    
 - [ ] Feb 13 2023 > Went through the IAM & GCP marketplace to understand LAMP deployment in the GCP Engineer coursework https://cloud.google.com/marketplace/docs/  
