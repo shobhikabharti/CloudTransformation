@@ -89,6 +89,59 @@ Vertex AI Product Example https://cloud.google.com/vertex-ai/docs
 #### 19 APR 2023  
 
 Horizontal vs Vertical scaling https://www.geeksforgeeks.org/horizontal-and-vertical-scaling-in-databases/, https://openmetal.io/docs/edu/openstack/horizontal-scaling-vs-vertical-scaling/   
+Compute Engine Disk Snapshots (Create) https://cloud.google.com/compute/docs/disks/create-snapshots, https://cloud.google.com/compute/docs/disks/scheduled-snapshots    
+Delete a Snapshot https://cloud.google.com/sdk/gcloud/reference/compute/snapshots/delete, https://cloud.google.com/sdk/gcloud/reference/compute/snapshots/delete  
+Migrate VMs https://cloud.google.com/architecture/migrating-vms-migrate-for-compute-engine-getting-started  
+Migrate Containers https://cloud.google.com/architecture/migrating-vms-to-containers-with-migrate-for-anthos  
+Migrate kubernetes to GKE https://cloud.google.com/architecture/migrating-containers-kubernetes-gke  
+Migrate monolithic to microservices https://cloud.google.com/architecture/migrating-a-monolithic-app-to-microservices-gke  
+Migration in Real Environment https://cloud.google.com/architecture/migrating-containers-multi-cluster-gke-ingress-services  
+
+Components in question GKE, Compute Engine for GKE worker nodes, Cloud Load Balancing, Virtual Private Cloud external static IP addresses, Multi Cluster Ingress, Cloud DNS, Cloud Storage  
+
+- Provision a GKE cluster to simulate the source environment  
+- Provision multiple GKE clusters to simulate the target environment  
+- Deploy the example workloads that are provided in this tutorial  
+- Configure Multi Cluster Service Discovery and Multi Cluster Ingress  
+- Expose the example workloads with Multi Cluster Ingress  
+- Deploy and use Multi Cluster Service Discovery  
+- Switch traffic to the target environment   
+- Decommission the source environment  
+
+A Google Cloud organization in which you have the following Identity and Access Management (IAM) roles:
+- Project Creator role (roles/resourcemanager.projectCreator)  
+- Billing Account Administrator role (roles/billing.admin)  
+- An active billing account  
+
+Classful network https://en.wikipedia.org/wiki/Classful_network  
+Classless network https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing    
+Create custom image https://cloud.google.com/compute/docs/images/create-custom   
+Base images https://cloud.google.com/software-supply-chain-security/docs/base-images  
+Extra https://killercoda.com/   
+Cloud block storage options cheat sheet https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-block-storage-options-cheat-sheet  
+Youtube link (Strorage & Workloads) https://www.youtube.com/watch?v=-Fkgp0pkSdc  
+**Persistent Disk** https://cloud.google.com/compute/docs/disks  
+Backup VMs/Machine Images https://cloud.google.com/compute/docs/machine-images  
+Backup Disks/Snapshots https://cloud.google.com/compute/docs/disks/snapshots, https://cloud.google.com/compute/docs/disks/create-snapshots  
+Sole tenant nodes https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes, https://cloud.google.com/blog/products/gcp/introducing-sole-tenant-nodes-for-google-compute-engine  
+Shared resources (VPC, Disks) https://cloud.google.com/vpc/docs/shared-vpc, https://cloud.google.com/vpc/docs/provisioning-shared-vpc, https://cloud.google.com/compute/docs/disks/sharing-disks-between-vms  
+Caching https://cloud.google.com/storage/docs/caching, https://cloud.google.com/memorystore  
+Filestore https://cloud.google.com/filestore, https://cloud.google.com/filestore/docs/overview, https://cloud.google.com/filestore/docs/networking   
+Workloads https://cloud.google.com/compute/docs/tutorials/basic-webserver-apache, https://cloud.google.com/compute/docs/instances/sql-server/setup-mysql, https://cloud.google.com/compute/docs/containers   
+Load Testing https://cloud.google.com/architecture/distributed-load-testing-using-gke   
+Monitor (View Logs) https://cloud.google.com/compute/docs/logging/audit-logging, https://cloud.google.com/compute/docs/logging/usage-export  
+VM Operations List -- gcloud compute operations list --filter="zone:(us-central1-c)"  
+Monitor https://cloud.google.com/compute/docs/disks/monitor-regional-persistent-disk-replica-state  
+Autoscale https://cloud.google.com/compute/docs/autoscaler  
+Load Balancing https://cloud.google.com/compute/docs/instance-groups/adding-an-instance-group-to-a-load-balancer  
+Optimize VMs https://cloud.google.com/compute/docs/instances/apply-machine-type-recommendations-for-instances  
+Optimize MIGs https://cloud.google.com/compute/docs/instance-groups/apply-machine-type-recommendations-managed-instance-groups  
+Workload Performance https://cloud.google.com/compute/docs/instances/set-threads-per-core  
+Network Bandwidth https://cloud.google.com/compute/docs/networking/configure-vm-with-high-bandwidth-configuration  
+
+*An ephemeral IP address is an IP address that doesn't persist beyond the life of the resource. For example, when you create an instance or forwarding rule without specifying an IP address, Google Cloud automatically assigns the resource an ephemeral IP address. In general, the ephemeral IP address is released if you stop or delete the resource. Reserving a static IP address assigns the address to your project until you explicitly release it. This is useful if you are dependent on a specific IP address for your service and need to prevent another resource from being able to use the address. Static addresses are useful if you need to move an IP address from one Google Cloud resource to another. Internal and external IP addresses can be ephemeral or static, with the following exceptions: - Regional internal IPv6 addresses are ephemeral only. Static regional external IPv6 addresses are available in Preview only.*
+
+
 
 
 
