@@ -99,6 +99,7 @@ Migration in Real Environment https://cloud.google.com/architecture/migrating-co
 
 Components in question GKE, Compute Engine for GKE worker nodes, Cloud Load Balancing, Virtual Private Cloud external static IP addresses, Multi Cluster Ingress, Cloud DNS, Cloud Storage  
 
+Steps in Migration:  
 - Provision a GKE cluster to simulate the source environment  
 - Provision multiple GKE clusters to simulate the target environment  
 - Deploy the example workloads that are provided in this tutorial  
@@ -108,7 +109,7 @@ Components in question GKE, Compute Engine for GKE worker nodes, Cloud Load Bala
 - Switch traffic to the target environment   
 - Decommission the source environment  
 
-A Google Cloud organization in which you have the following Identity and Access Management (IAM) roles:
+Before you begin, a Google Cloud organization in which you have the following Identity and Access Management (IAM) roles:
 - Project Creator role (roles/resourcemanager.projectCreator)  
 - Billing Account Administrator role (roles/billing.admin)  
 - An active billing account  
