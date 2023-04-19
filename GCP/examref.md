@@ -13,8 +13,11 @@
 10. **Sole-tenant nodes** : keep your VMs physically separated from VMs in other projects, or to group your VMs together on the same host hardware  
 11. **Persistent Disk** : PD volumes provide high-performance and redundant network storage. By default, VMs use zonal persistent disks, and store your data on volumes located within a single zone, such as us-west1-c  
 12. **Hyperdisk** : Designed for the most demanding mission-critical applications, max. 8 Hyperdisk volumes per VM instance. It  is priced by provisioned capacity and IOPS  
-13. **Local SSDs** : Unlike Persistent Disks, Local SSDs are physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to persistent disks ... fixed 375 GB capacity for each device that you attach to the instance .. RAID on Linux  
-14. **Containers** : Both managed Cloud Run services and GKE clusters can be created and managed completely from the console as well as from the command line.   
+13. **Object storage-Standard buckets, Nearline (30), Coldline (90), and Archive (365)**. Widely used for disaster recovery because it takes practically no time to switch to a backup bucket to recover from a disaster.   
+14. **Block storage—Persistent Disk and Local SSD**  
+15. **File storage—Filestore** provides a cloud-based shared file system for unstructured data. It offers really low latency and provides concurrent access to tens of thousands of clients with scalable and predictable performance up to hundreds of thousands of IOPS, tens of GB/s of throughput, and hundreds of TBs. You can scale capacity up and down on-demand.   
+16. **Local SSDs** : Unlike Persistent Disks, Local SSDs are physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to persistent disks ... fixed 375 GB capacity for each device that you attach to the instance .. RAID on Linux  
+17. **Containers** : Both managed Cloud Run services and GKE clusters can be created and managed completely from the console as well as from the command line.   
 
 - To get the information of source disk for each snapshot  
 gcloud compute snapshots describe   
