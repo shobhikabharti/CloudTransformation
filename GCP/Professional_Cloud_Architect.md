@@ -39,6 +39,8 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
   Images https://cloud.google.com/compute/docs/images   
   Pricing https://cloud.google.com/compute/all-pricing  
   Storage Options https://cloud.google.com/compute/docs/disks  
+  Spot https://cloud.google.com/compute/docs/instances/spot  
+  Preemptible https://cloud.google.com/compute/docs/instances/preemptible  
   Snapshot https://cloud.google.com/compute/docs/disks/snapshots  
   Migration https://cloud.google.com/migrate/virtual-machines  
   Shielded VMs https://cloud.google.com/compute/shielded-vm/docs/shielded-vm  
