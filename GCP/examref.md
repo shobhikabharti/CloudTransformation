@@ -18,6 +18,14 @@
 15. **File storage—Filestore** provides a cloud-based shared file system for unstructured data. It offers really low latency and provides concurrent access to tens of thousands of clients with scalable and predictable performance up to hundreds of thousands of IOPS, tens of GB/s of throughput, and hundreds of TBs. You can scale capacity up and down on-demand.   
 16. **Local SSDs** : Unlike Persistent Disks, Local SSDs are physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to persistent disks ... fixed 375 GB capacity for each device that you attach to the instance .. RAID on Linux  
 17. **Containers** : Both managed Cloud Run services and GKE clusters can be created and managed completely from the console as well as from the command line.   
+18. **Shared VPC vs. VPC Peering** 2 peered VPC can not share the same subnet ranges, while VPC sharing is sharing the same subnets  
+19. **Shared VPC** allows an organization to connect resources from multiple projects to a VPC  
+20. **VPC Network Peering** connects two Virtual Private Cloud (VPC) networks so that resources in each network can communicate with each other  
+21. **Cloud VPN** securely connects your peer network to your Virtual Private Cloud (VPC) network through an **IPsec** VPN connection.  Traffic traveling between the two networks is encrypted by one VPN gateway and then decrypted by the other VPN gateway. Each Cloud VPN tunnel can support up to 3 gigabits per second (Gbps) for the sum of ingress and egress traffic  
+22. **VPNs deal with workflow security problems, VPCs deal with the workload**  
+23. **Classic VPN and HA VPN** gateways use external (internet routable) IPv4 addresses. Only ESP, UDP 500, and UDP 4500 traffic is permitted to these addresses. Classic VPN gateways have a single interface, a single external IP address, and support tunnels that use static routing (policy-based or route-based) while HA VPN has dynamic routing  
+24. **Dedicated Interconnect** provides a direct physical connection between your on-premises network and Google's network  
+25. **Partner Interconnect** provides connectivity between your on-premises and VPC networks through a supported service provider  
 
 - To get the information of source disk for each snapshot  
 gcloud compute snapshots describe   
