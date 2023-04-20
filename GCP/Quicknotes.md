@@ -73,4 +73,67 @@ Refer https://cloud.google.com/vpc/docs/firewalls
 | Instances with more than 8 vCPUs | 1,040,000 (130,000×8) connections total |
 <br/>
 
+**Setting up a cloud solution environment**   
+&emsp;&emsp; IAM, Cloud Identity, Resource hierarchy and policies, billing   
+**Planning and configuring a cloud solution**  
+&emsp;&emsp; Compute Services -> Compute Engine, Google Kubernetes Engine, Cloud Run, Cloud Functions  
+&emsp;&emsp; Storage Service -> Cloud SQL, BigQuery, Firestore, Cloud Spanner, Cloud Bigtable  
+&emsp;&emsp; Storage Options -> Zonal persistent disk, Regional balanced persistent disk, Standard, Nearline, Coldline, Archive  
+&emsp;&emsp; Load balancing  
+&emsp;&emsp; Cloud DNS  
+**Deploying and implementing a cloud solution**  
+&emsp;&emsp; Google Cloud events (e.g., Pub/Sub events, Cloud Storage object change notification events)  
+&emsp;&emsp; Develop data solutions (e.g., Cloud SQL, Firestore, BigQuery, Cloud Spanner, Pub/Sub, Cloud Bigtable, Dataproc, Dataflow, Cloud Storage)  
+&emsp;&emsp; Loading data (e.g., command line upload, API transfer, import/export, load data from Cloud Storage, streaming data to Pub/Sub)&emsp;&emsp;   
+&emsp;&emsp; Creating a VPC with subnets (e.g., custom-mode VPC, shared VPC)  
+&emsp;&emsp; Network configuration (e.g., internal-only IP address, Google private access, static external and private IP address, network tags)  
+&emsp;&emsp; Firewall rules for a VPC (e.g., IP subnets, network tags, service accounts)  
+**Ensuring successful operation of a cloud solution**  
+&emsp;&emsp; Working with snapshots (e.g., create a snapshot from a VM, view snapshots, delete a snapshot)  
+&emsp;&emsp; Working with images (e.g., create an image from a VM or a snapshot, view images, delete an image)  
+&emsp;&emsp; Working with instance groups (e.g., set autoscaling parameters, assign instance template, create an instance template, remove instance group)  
+&emsp;&emsp; Working with management interfaces (e.g., Google Cloud console, Cloud Shell, Cloud SDK)  
+&emsp;&emsp; Managing GKE resources   
+&emsp;&emsp; &emsp;&emsp; Viewing current running cluster inventory (nodes, pods, services)  
+&emsp;&emsp; &emsp;&emsp; Browsing Docker images and viewing their details in the Artifact Registry  
+&emsp;&emsp; &emsp;&emsp; Working with node pools (e.g., add, edit, or remove a node pool)  
+&emsp;&emsp; &emsp;&emsp; Working with pods (e.g., add, edit, or remove pods)  
+&emsp;&emsp; &emsp;&emsp; Working with services (e.g., add, edit, or remove a service)  
+&emsp;&emsp; &emsp;&emsp; Working with stateful applications (e.g. persistent volumes, stateful sets)  
+&emsp;&emsp; &emsp;&emsp; Managing Horizontal and Vertical autoscaling configurations  
+&emsp;&emsp; &emsp;&emsp; Working with management interfaces (e.g., Google Cloud console, Cloud Shell, Cloud SDK, kubectl)  
+&emsp;&emsp; Managing Cloud Run resources  
+&emsp;&emsp; &emsp;&emsp; Adjusting traffic-splitting parameters  
+&emsp;&emsp; &emsp;&emsp; Setting scaling parameters for autoscaling instances  
+&emsp;&emsp; &emsp;&emsp; Determining whether to run Cloud Run (fully managed) or Cloud Run for Anthos  
+&emsp;&emsp; Managing storage and database solutions  
+&emsp;&emsp; &emsp;&emsp; Securing objects  
+&emsp;&emsp; &emsp;&emsp; Setting object life cycle management policies for Cloud Storage buckets  
+&emsp;&emsp; &emsp;&emsp; Executing queries to retrieve data from data instances (e.g., Cloud SQL, BigQuery, Cloud Spanner, Datastore, Cloud Bigtable)  
+&emsp;&emsp; &emsp;&emsp; Estimating costs of data storage resources  
+&emsp;&emsp; &emsp;&emsp; Backing up and restoring database instances (e.g., Cloud SQL, Datastore)  
+&emsp;&emsp; &emsp;&emsp; Reviewing job status in Dataproc, Dataflow, or BigQuery  
+&emsp;&emsp; Managing networking resources  
+&emsp;&emsp; &emsp;&emsp; Adding a subnet to an existing VPC  
+&emsp;&emsp; &emsp;&emsp; Expanding a subnet to have more IP addresses  
+&emsp;&emsp; &emsp;&emsp; Reserving static external or internal IP addresses  
+&emsp;&emsp; &emsp;&emsp; Working with CloudDNS, CloudNAT, Load Balancers and firewall rules  
+&emsp;&emsp; Monitoring and logging  
+&emsp;&emsp; &emsp;&emsp; Creating Cloud Monitoring alerts based on resource metrics  
+&emsp;&emsp; &emsp;&emsp; Creating and ingesting Cloud Monitoring custom metrics (e.g., from applications or logs)  
+&emsp;&emsp; &emsp;&emsp; Configuring log sinks to export logs to external systems (e.g., on-premises or BigQuery)  
+&emsp;&emsp; &emsp;&emsp; Configuring log routers  
+&emsp;&emsp; &emsp;&emsp; Viewing and filtering logs in Cloud Logging  
+&emsp;&emsp; &emsp;&emsp; Viewing specific log message details in Cloud Logging  
+&emsp;&emsp; &emsp;&emsp; Using cloud diagnostics to research an application issue (e.g., viewing Cloud Trace data, using Cloud Debug to view an application point-in-time)  
+&emsp;&emsp; &emsp;&emsp; Viewing Google Cloud status  
+**Configuring access and security**  
+&emsp;&emsp;  Defining custom IAM roles (e.g., primitive, predefined and custom)  
+&emsp;&emsp;  Managing service accounts. Tasks include:  
+&emsp;&emsp;  &emsp;&emsp; Creating service accounts  
+&emsp;&emsp;  &emsp;&emsp; Using service accounts in IAM policies with minimum permissions  
+&emsp;&emsp;  &emsp;&emsp; Assigning service accounts to resources  
+&emsp;&emsp;  &emsp;&emsp; Managing IAM of a service account  
+&emsp;&emsp;  &emsp;&emsp; Managing service account impersonation  
+&emsp;&emsp;  &emsp;&emsp; Creating and managing short-lived service account credentials  
 
