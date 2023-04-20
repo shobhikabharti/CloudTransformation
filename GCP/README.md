@@ -152,7 +152,7 @@ External IPs = public
 </p>
 
 - [ ] 6 MAR 2023 > Storage Options (BigQuery -> Dataflow -> Dataprep -> Dataproc -> Result)   
-        1. **Bigquery** : https://cloud.google.com/bigquery, https://cloud.google.com/bigquery/docs/batch-loading-data    
+        1. **Bigquery** : https://cloud.google.com/bigquery, https://cloud.google.com/bigquery/docs/batch-loading-data, https://cloud.google.com/bigquery/docs/reference/bq-cli-reference, https://cloud.google.com/sdk/gcloud/reference/config/set    
         2. **Cloud Spanner** : https://cloud.google.com/spanner  
         3. **Firestore** : https://cloud.google.com/firestore  
         4. **Cloud Bigtable** : https://cloud.google.com/bigtable  
