@@ -160,6 +160,7 @@ Memorystore (In memory data / caching) https://cloud.google.com/memorystore/docs
 Host a static website https://cloud.google.com/storage/docs/hosting-static-website  
 Object lifecycle management https://cloud.google.com/storage/docs/lifecycle  
 ACL https://cloud.google.com/storage/docs/access-control/lists, https://cloud.google.com/storage/docs/access-control/create-manage-lists  
+Retention Policy https://cloud.google.com/storage/docs/bucket-lock  
 
 
 *Hot data is for analysts who need their data to be subsecond/ high concurrency to help them answer real-time questions. Cold data commonly sits in your data warehouse and is used for reporting and planning. And warm data is a balance between the two*
