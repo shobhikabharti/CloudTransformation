@@ -163,7 +163,7 @@ ACL https://cloud.google.com/storage/docs/access-control/lists, https://cloud.go
 Retention Policy https://cloud.google.com/storage/docs/bucket-lock  
 Cloud Key Management Service https://cloud.google.com/kms/docs/cmek  
 Encryption https://cloud.google.com/docs/security/encryption/customer-supplied-encryption-keys  
-
+Cloud SQL read replicas https://cloud.google.com/sql/docs/postgres/replication/create-replica  
 
 *Hot data is for analysts who need their data to be subsecond/ high concurrency to help them answer real-time questions. Cold data commonly sits in your data warehouse and is used for reporting and planning. And warm data is a balance between the two*
 
