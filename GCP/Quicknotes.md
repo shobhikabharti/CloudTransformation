@@ -34,20 +34,31 @@
 31. Bigtable does not support SQL. Cloud SQL and Cloud Spanner support SQL but are designed for transaction processing, not analytical applications like data warehouses.**Bigquery** is developed for that purpose
 32. Bigtable is a NoSQL wide-column database optimized for heavy reads and writes. On the other hand, BigQuery is an enterprise data warehouse for large amounts of relational structured data 
 33. **Cloud Pub/Sub** is a queuing service that is used to ingest data and store it until it can be processed  
-34. **URL maps** specify direct requests to particular services  
-35. **Routes** are used to specify paths to destination IP addresses outside a subnet  
-36. **Firewall rules** control the flow of traffic on a network  
-37. **Traces** are used to understand performance characteristics of services in a distributed system  
-38. **Internal TCP/UDP Load Balancing** is used for internal traffic, that is not from the internet  
-39. **SSL Proxy, TCP Proxy, and Network TCP/UDP load balancing** are used with external traffic  
-40. The correct way to enable Cloud Operations for GKE is to use the parameters --logging and --monitoring  
-41. Kubernete Engine collects log data written to standard output (STDOUT) and standard error (STDERR)  
-42. 
+34. **Cloud Data Fusion** is a managed service that is designed for building data transformation pipelines  
+35. **Compute Engine** is not a managed service  
+36. **Cloud Dataprep** is used to prepare data for analytics and machine learning   
+37. **Cloud Build** is a service for creating container images  
+38. **URL maps** specify direct requests to particular services  
+39. **Routes** are used to specify paths to destination IP addresses outside a subnet  
+40. **Firewall rules** control the flow of traffic on a network  
+41. **Traces** are used to understand performance characteristics of services in a distributed system  
+42. **Internal TCP/UDP Load Balancing** is used for internal traffic, that is not from the internet  
+43. **SSL Proxy, TCP Proxy, and Network TCP/UDP load balancing** are used with external traffic  
+44. The correct way to enable Cloud Operations for GKE is to use the parameters --logging and --monitoring  
+45. Kubernete Engine collects log data written to standard output (STDOUT) and standard error (STDERR)  
+46. ***A shared VPC allows projects to share a common VPC network. VPNs are used to link VPCs to on premises networks. Routes and firewall rules are not sufficient for implementing a common VPC***
+47. ***If the connected networks are in different organizations, they must use VPC Network Peering. VPC sharing is only available within a single organization. Firewall rule changes may be needed, but that is not sufficient. VPNs are used to connect GCP networks with on premises networks***
+48. Types of IP addresses : Regional and Global for both Internal and External IPs  
 
 **GCP NoSQL Databases  
 Keymemory store - Cloud Memorystore  
 Document store - Cloud Firestore  
 Wide-column store - Cloud Bigtable**
+
+**Shared VPC - common VPC n/w, single organization
+VPN - On premises n/w
+Peering - n/w between diff organizations**
+
 
 - To get the information of source disk for each snapshot  
 gcloud compute snapshots describe   
