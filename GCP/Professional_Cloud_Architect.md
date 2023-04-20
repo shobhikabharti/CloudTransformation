@@ -161,6 +161,8 @@ Host a static website https://cloud.google.com/storage/docs/hosting-static-websi
 Object lifecycle management https://cloud.google.com/storage/docs/lifecycle  
 ACL https://cloud.google.com/storage/docs/access-control/lists, https://cloud.google.com/storage/docs/access-control/create-manage-lists  
 Retention Policy https://cloud.google.com/storage/docs/bucket-lock  
+Cloud Key Management Service https://cloud.google.com/kms/docs/cmek  
+Encryption https://cloud.google.com/docs/security/encryption/customer-supplied-encryption-keys  
 
 
 *Hot data is for analysts who need their data to be subsecond/ high concurrency to help them answer real-time questions. Cold data commonly sits in your data warehouse and is used for reporting and planning. And warm data is a balance between the two*
