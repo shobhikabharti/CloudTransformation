@@ -176,6 +176,23 @@ Lab : https://partner.cloudskillsboost.google/focuses/13477?parent=catalog
 
 ## Day 5
 #### 21 APR 2023  
+
+#### IAM
+
+IAM FAQs https://cloud.google.com/iam/docs/faq    
+Understanding Roles https://cloud.google.com/iam/docs/understanding-roles   
+Predefined Roles https://cloud.google.com/iam/docs/understanding-roles#predefined_roles  
+Basic Roles https://cloud.google.com/iam/docs/understanding-roles#basic  
+Convenience Values https://cloud.google.com/storage/docs/access-control/iam#convenience-values  
+IAM reference https://cloud.google.com/storage/docs/access-control/best-practices-access-control  
+Using IAM permissions https://cloud.google.com/storage/docs/access-control/using-iam-permissions  
+Granting & revoking https://cloud.google.com/iam/docs/granting-changing-revoking-access  
+Using IAM permissions https://cloud.google.com/storage/docs/access-control/using-iam-permissions  
+Recommendation for buckets https://cloud.google.com/policy-intelligence/docs/review-apply-role-recommendations-buckets  
+Policy Intelligence https://cloud.google.com/policy-intelligence/docs/tools-overview  
+Policy Simulator https://cloud.google.com/policy-intelligence/docs/iam-simulator-overview  
+Recommender https://cloud.google.com/recommender/docs/overview    
+
 ## Day 6
 #### 24 APR 2023  
 ## Day 7
