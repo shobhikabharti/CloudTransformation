@@ -73,6 +73,37 @@ Refer https://cloud.google.com/vpc/docs/firewalls
 | Instances with more than 8 vCPUs | 1,040,000 (130,000×8) connections total |
 <br/>
 
+#### Terraform files
+
+main.tf start every module  
+network.tf, instances.tf, or loadbalancer.tf logical groupings of resources with their own files  
+variables.tf declare all variables  
+output.tf organize all outputs  
+data.tf data sources (optional)  
+dns.tf group resources by their shared purpose  
+
+-- SERVICE-DIRECTORY/  
+&emsp; -- OWNERS   
+&emsp; -- modules/  
+&emsp;&emsp; -- <service-name>/  
+&emsp;&emsp; &emsp;&emsp; -- main.tf  
+&emsp;&emsp; &emsp;&emsp; -- variables.tf  
+&emsp;&emsp; &emsp;&emsp; -- outputs.tf  
+&emsp;&emsp; &emsp;&emsp; -- provider.tf  
+&emsp;&emsp; &emsp;&emsp; -- README   
+&emsp;&emsp; -- ...other…  
+&emsp; -- environments/  
+&emsp;&emsp; -- dev/   
+&emsp;&emsp; &emsp;&emsp; -- backend.tf  
+&emsp;&emsp; &emsp;&emsp; -- main.tf  
+&emsp;&emsp; -- qa/  
+&emsp;&emsp; &emsp;&emsp; -- backend.tf  
+&emsp;&emsp; &emsp;&emsp; -- main.tf  
+&emsp;&emsp; -- prod/  
+&emsp;&emsp; &emsp;&emsp; -- backend.tf  
+&emsp;&emsp; &emsp;&emsp; -- main.tf  
+  </br>
+
 ## Topics on GCPE
 
 **Setting up a cloud solution environment**   
