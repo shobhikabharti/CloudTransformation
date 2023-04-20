@@ -142,12 +142,25 @@ Network Bandwidth https://cloud.google.com/compute/docs/networking/configure-vm-
 
 *An ephemeral IP address is an IP address that doesn't persist beyond the life of the resource. For example, when you create an instance or forwarding rule without specifying an IP address, Google Cloud automatically assigns the resource an ephemeral IP address. In general, the ephemeral IP address is released if you stop or delete the resource. Reserving a static IP address assigns the address to your project until you explicitly release it. This is useful if you are dependent on a specific IP address for your service and need to prevent another resource from being able to use the address. Static addresses are useful if you need to move an IP address from one Google Cloud resource to another. Internal and external IP addresses can be ephemeral or static, with the following exceptions: - Regional internal IPv6 addresses are ephemeral only. Static regional external IPv6 addresses are available in Preview only.*
 
-
-
-
-
 ## Day 4
 #### 20 APR 2023  
+
+#### Cloud Storage 
+
+Object Store vs. Block Store In Object stoarge, Indexing rigourously neeeded, metadata indexes on object id everything to expedite the search whereas block store is needed in ... Object (Standard, Nearline, Coldline, Archive)  
+Introduction https://cloud.google.com/storage/docs/introduction  
+Storage Transfer Options https://cloud.google.com/storage-transfer/docs/transfer-options  
+Filestore https://cloud.google.com/filestore/docs/overview  
+Cloud SQL https://cloud.google.com/sql/docs/introduction  
+Spanner https://cloud.google.com/spanner/docs/sql-best-practices  
+Firestore https://cloud.google.com/firestore/docs/reference/rest  
+Bigtable https://cloud.google.com/bigtable/docs/overview  
+Bigquery https://cloud.google.com/bigtable/docs/overview  
+Memorystore (In memory data / caching) https://cloud.google.com/memorystore/docs/redis/redis-overview, https://cloud.google.com/blog/products/databases/memorystore-for-redis  
+Host a static website https://cloud.google.com/storage/docs/hosting-static-website  
+
+*Hot data is for analysts who need their data to be subsecond/ high concurrency to help them answer real-time questions. Cold data commonly sits in your data warehouse and is used for reporting and planning. And warm data is a balance between the two*
+
 ## Day 5
 #### 21 APR 2023  
 ## Day 6
