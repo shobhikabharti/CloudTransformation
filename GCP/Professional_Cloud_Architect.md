@@ -165,6 +165,11 @@ Cloud Key Management Service https://cloud.google.com/kms/docs/cmek
 Encryption https://cloud.google.com/docs/security/encryption/customer-supplied-encryption-keys  
 Cloud SQL read replicas https://cloud.google.com/sql/docs/postgres/replication/create-replica  
 
+#### GCP NoSQL Databases
+**Keymemory store - Cloud Memorystore   
+Document store - Cloud Firestore  
+Wide-column store - Cloud Bigtable**  
+
 *Hot data is for analysts who need their data to be subsecond/ high concurrency to help them answer real-time questions. Cold data commonly sits in your data warehouse and is used for reporting and planning. And warm data is a balance between the two*
 
 ## Day 5
