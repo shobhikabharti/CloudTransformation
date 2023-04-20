@@ -73,6 +73,8 @@ Refer https://cloud.google.com/vpc/docs/firewalls
 | Instances with more than 8 vCPUs | 1,040,000 (130,000×8) connections total |
 <br/>
 
+## Topics on GCPE
+
 **Setting up a cloud solution environment**   
 &emsp;&emsp; IAM, Cloud Identity, Resource hierarchy and policies, billing   
 **Planning and configuring a cloud solution**  
