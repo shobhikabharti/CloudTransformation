@@ -172,6 +172,8 @@ Wide-column store - Cloud Bigtable**
 
 *Hot data is for analysts who need their data to be subsecond/ high concurrency to help them answer real-time questions. Cold data commonly sits in your data warehouse and is used for reporting and planning. And warm data is a balance between the two*
 
+Lab : https://partner.cloudskillsboost.google/focuses/13477?parent=catalog  
+
 ## Day 5
 #### 21 APR 2023  
 ## Day 6
