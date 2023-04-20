@@ -18,7 +18,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
 - [ ] Feb 18 2023 > Found this GitHub cheatsheet link on GCP https://github.com/priyankavergadia/google-cloud-4-words#the-google-cloud-developers-cheat-sheet   
 - [ ] Feb 19 2023 > Revisited few basics of GCP on Coursera, pay attention to **pricing model**  
 - [ ] Feb 23 2023 > Going through Essential Cloud Infrastructure: Foundation  
-- [ ] Feb 26 2023 > Going through Sample GCP questions today on https://www.whizlabs.com/blog/gcp-associate-cloud-engineer-questions/  
+- [ ] Feb 26 2023 > Going through Sample GCP questions today on https://www.whizlabs.com/blog/gcp-associate-cloud-engineer-questions/ , https://gcp-examquestions.com/gcp-associate-cloud-engineer-practice-exam-part-1/   
 - [ ] Feb 27 2023 > GCP Partner training started in my office. For the next 15 days, I will be religiously pursuing that material  
 - [ ] Feb 28 2023 > Cheatsheet and cloud comparison https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison, https://googlecloudcheatsheet.withgoogle.com/ 
 - [ ] 1 MAR 2023 > Working with the flash cards for the D-Day revision, back to school methods @35 :D.   
