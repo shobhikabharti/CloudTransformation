@@ -81,6 +81,8 @@ gcloud compute disks snapshot: Create snapshot of persistent disks.
 gcloud compute snapshots describe: Display a snapshot's details.  
 gcloud compute snapshots delete: Delete a snapshot.  
 gcloud compute ssh: Connect to a VM instance by using SSH.  
+gcloud compute project-info describe --project PROJECT_ID :  see what your default region and zone settings.  
+-> https://cloud.google.com/compute/docs/gcloud-compute#set_default_zone_and_region_in_your_local_client  
 
 **Cloud Storage**  
 gcloud storage buckets create: Create a new Cloud Storage bucket.  
