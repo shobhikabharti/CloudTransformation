@@ -26,6 +26,18 @@
 23. **Classic VPN and HA VPN** gateways use external (internet routable) IPv4 addresses. Only ESP, UDP 500, and UDP 4500 traffic is permitted to these addresses. Classic VPN gateways have a single interface, a single external IP address, and support tunnels that use static routing (policy-based or route-based) while HA VPN has dynamic routing  
 24. **Dedicated Interconnect** provides a direct physical connection between your on-premises network and Google's network  
 25. **Partner Interconnect** provides connectivity between your on-premises and VPC networks through a supported service provider  
+26. **Bigquery** is used for data warehouse migration   
+27. **Bigtable** is NoSQL based service  
+28. **Cloud SQL** is a managed relational database service suitable for ***regionally*** used applications
+29. **Cloud Spanner** is also a managed relational database, but it is designed for ***multi-region and global applications***  
+30. **Cloud Dataproc** is a managed Spark/Hadoop service, not a relational database  
+31. Bigtable does not support SQL. Cloud SQL and Cloud Spanner support SQL but are designed for transaction processing, not analytical applications like data warehouses.**Bigquery** is developed for that purpose
+32. Bigtable is a NoSQL wide-column database optimized for heavy reads and writes. On the other hand, BigQuery is an enterprise data warehouse for large amounts of relational structured data 
+
+**GCP NoSQL Databases  
+Keymemory store - Cloud Memorystore  
+Document store - Cloud Firestore  
+Wide-column store - Cloud Bigtable**
 
 - To get the information of source disk for each snapshot  
 gcloud compute snapshots describe   
