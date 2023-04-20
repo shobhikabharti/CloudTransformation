@@ -332,6 +332,7 @@ The effective policy for a resource is the union of the policy set on the resour
         17. **Configuring multidimensional Pod autoscaling** : https://cloud.google.com/kubernetes-engine/docs/how-to/multidimensional-pod-autoscaling  
         18. **Transfer Appliance** : https://cloud.google.com/transfer-appliance/docs/4.0/overview  
         19. **Where to run my stuff** : https://cloud.google.com/blog/topics/developers-practitioners/where-should-i-run-my-stuff-choosing-google-cloud-compute-option  
+        20. Terraform : https://cloud.google.com/docs/terraform, https://cloud.google.com/docs/terraform/basic-commands, https://cloud.google.com/docs/terraform/samples, https://cloud.google.com/docs/terraform/best-practices-for-terraform  
 <br/>
 
 | Engine | Description |
