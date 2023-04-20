@@ -38,6 +38,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
         14. **gcloud configurations** https://cloud.google.com/sdk/docs/configurations  
         15. **Authorize the gcloud CLI** https://cloud.google.com/sdk/docs/authorizing  
         16. **Bring Your Own IP (BYOIP)** https://cloud.google.com/vpc/docs/bring-your-own-ip  
+        17. **Migration** https://cloud.google.com/blog/topics/developers-practitioners/how-migrate-premises-data-warehouse-bigquery-google-cloud  
         
 Internal IPs = private   
 External IPs = public   
@@ -99,6 +100,7 @@ External IPs = public
         22. **API Engine** https://cloud.google.com/appengine/docs/the-appengine-environments  
         23. **What is a Cloud Run** https://cloud.google.com/run/docs/overview/what-is-cloud-run  
         24. **ACL** https://cloud.google.com/storage/docs/access-control/lists  
+      
         <br/>
         <br/>
         
