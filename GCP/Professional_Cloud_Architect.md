@@ -199,6 +199,7 @@ Recommendation for buckets https://cloud.google.com/policy-intelligence/docs/rev
 Policy Intelligence https://cloud.google.com/policy-intelligence/docs/tools-overview  
 Policy Simulator https://cloud.google.com/policy-intelligence/docs/iam-simulator-overview  
 Recommender https://cloud.google.com/recommender/docs/overview    
+Summary https://cloud.in28minutes.com/gcp-certification-google-cloud-iam, https://tutorialsdojo.com/google-cloud-identity-and-access-management-iam/  
 
 ## Day 6
 #### 24 APR 2023  
