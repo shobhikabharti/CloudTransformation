@@ -179,6 +179,13 @@ Lab : https://partner.cloudskillsboost.google/focuses/13477?parent=catalog
 
 #### IAM
 
+Three kind of roles : Basic, predefined, custom 
+
+Google Cloud Directory Sync https://support.google.com/a/answer/106368?hl=en, https://tools.google.com/dlpage/dirsync/, 
+https://cloud.google.com/architecture/identity/federating-gcp-with-active-directory-synchronizing-user-accounts  
+Cloud Identity https://cloud.google.com/identity/docs/overview  
+Deny Policies https://cloud.google.com/iam/docs/deny-overview  
+Service Account https://cloud.google.com/iam/docs/service-account-overview  
 IAM FAQs https://cloud.google.com/iam/docs/faq    
 Understanding Roles https://cloud.google.com/iam/docs/understanding-roles   
 Predefined Roles https://cloud.google.com/iam/docs/understanding-roles#predefined_roles  
