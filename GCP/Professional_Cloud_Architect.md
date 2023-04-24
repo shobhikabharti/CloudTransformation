@@ -274,7 +274,7 @@ Cloud DNS https://cloud.google.com/dns, https://cloud.google.com/dns/docs/overvi
 
 <br/>
 <p>
- <img src="/Content/clb_cover.png"/>
+ <img src="/Content/clb_cover.jpeg"/>
 </p> 
 <br/>
 
