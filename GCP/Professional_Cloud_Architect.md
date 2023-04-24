@@ -246,8 +246,8 @@ Multiple Policies https://cloud.google.com/compute/docs/autoscaler/multiple-poli
 Autohealing https://cloud.google.com/compute/docs/instance-groups/autohealing-instances-in-migs  
 <br/> 
 
-| Stateless | Stateful |
-| ---- | ---- |
+|  | Stateless | Stateful |
+| ---- |---- | ---- |
 | Autoscaling | YES  | NO |
 | Disk preservation | NO | YES |
 | Auto-healing | YES | YES |
