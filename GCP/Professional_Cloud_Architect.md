@@ -243,6 +243,17 @@ Scale In Policy https://cloud.google.com/compute/docs/load-balancing-and-autosca
 Further Autoscaler Options https://cloud.google.com/compute/docs/autoscaler/understanding-autoscaler-decisions  
 Multiple Policies https://cloud.google.com/compute/docs/autoscaler/multiple-policies  
 Autohealing https://cloud.google.com/compute/docs/instance-groups/autohealing-instances-in-migs  
+<br/> 
+
+| Stateless | Stateful |
+| ---- | ---- |
+| Autoscaling | YES  | NO |
+| Disk preservation | NO | YES |
+| Auto-healing | YES | YES |
+| Auto-updating | YES | YES |
+| Load balancing | YES | YES |
+| Multi-zone deployment | YES | YES | 
+<br/>
 
 ## Day 7
 #### 25 APR 2023  
