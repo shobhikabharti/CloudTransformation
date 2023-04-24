@@ -255,8 +255,36 @@ Autohealing https://cloud.google.com/compute/docs/instance-groups/autohealing-in
 | Multi-zone deployment | YES | YES | 
 <br/>
 
+#### Cloud Load Balancing 
+
+What is Cloud Load Balancing https://cloud.google.com/blog/topics/developers-practitioners/what-cloud-load-balancing, https://cloud.google.com/load-balancing  
+Video https://www.youtube.com/watch?v=h8EqM6Xt3MA, https://www.youtube.com/watch?v=0fQr7TRhnnU&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd     
+Corresponding blog https://cloud.google.com/blog/topics/developers-practitioners/what-cloud-load-balancing  
+Backend Service https://cloud.google.com/load-balancing/docs/backend-service  
+Instance group backend services https://cloud.google.com/load-balancing/docs/backend-service#instance_groups  
+Health checks https://cloud.google.com/load-balancing/docs/backend-service#health-checks  
+URL maps overview https://cloud.google.com/load-balancing/docs/url-map-concepts  
+Premium Tier https://cloud.google.com/network-tiers/docs/overview#premium_tier  
+Standard Tier https://cloud.google.com/network-tiers/docs/overview#standard_tier  
+Network Service Tiers https://cloud.google.com/network-tiers
+Network Service Tiers overview https://cloud.google.com/network-tiers/docs/overview  
+Google Cloud networking in depth: Understanding Network Service Tiers (May 15, 2019) https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depthunderstanding-network-service-tiers  
+Google Cloud Armor https://cloud.google.com/armor  
+Cloud DNS https://cloud.google.com/dns, https://cloud.google.com/dns/docs/overview  
+
+<br/>
+<p>
+ <img src="/Content/clb_cover.png"/>
+</p> 
+<br/>
+
 ## Day 7
 #### 25 APR 2023  
+
+#### Cloud CDN 
+
+
+
 ## Day 8
 #### 26 APR 2023  
 ## Day 9
