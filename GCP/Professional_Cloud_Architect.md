@@ -31,6 +31,7 @@ The [Professional Cloud Architect](https://cloud.google.com/architecture) certif
   Industry Solutions https://cloud.google.com/solutions/#industry-solutions  
   Cloud Solutions (Small Businesses) https://cloud.google.com/solutions/#role-based-solutions-smb  
   Compliance as Code https://cloud.google.com/solutions/risk-and-compliance-as-code  
+  Test Prep https://www.examtopics.com/exams/google/professional-cloud-architect/view/  
   
   #### Compute Engine 
 
