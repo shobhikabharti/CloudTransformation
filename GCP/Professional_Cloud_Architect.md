@@ -203,6 +203,34 @@ Summary https://cloud.in28minutes.com/gcp-certification-google-cloud-iam, https:
 
 ## Day 6
 #### 24 APR 2023  
+
+#### Firewall 
+
+About Firewalls https://cloud.google.com/firewall/docs/about-firewalls  
+VPC Firewall https://cloud.google.com/firewall/docs/firewalls    
+Network Tags https://cloud.google.com/firewall/docs/tags-firewalls-overview  
+IAM Recommender https://cloud.google.com/policy-intelligence/docs/role-recommendations-overview  
+Separation of Duties https://cloud.google.com/binary-authorization/docs/reference/organizational-and-iam-roles  
+Principle of least privilege https://cloud.google.com/blog/products/application-development/least-privilege-for-cloud-functions-using-cloud-iam, https://cloud.google.com/blog/products/identity-security/dont-get-pwned-practicing-the-principle-of-least-privilege    
+IAM best practices https://cloud.google.com/binary-authorization/docs/reference/organizational-and-iam-roles   
+
+Best practce is to attach network tags to service accounts.   
+Tags can be runnign when VM is running. Vm can be havign mutiple VMs.  
+CIS Benchmarks for CPU Hardening or Cloud Hardening -> https://www.cisecurity.org/cis-benchmarks   
+
+#### Hybrid Connectivity
+
+Hybrid Connectivity https://cloud.google.com/network-connectivity/docs/how-to/choose-product, https://cloud.google.com/load-balancing/docs/negs/hybrid-neg-concept  
+Cloud VPN https://cloud.google.com/network-connectivity/docs/vpn  
+Cloud Interconnect https://cloud.google.com/network-connectivity/docs/interconnect  
+Direct or Carrier Peering https://cloud.google.com/network-connectivity/docs/direct-peering, https://cloud.google.com/network-connectivity/docs/carrier-peering  
+Cloud Router https://cloud.google.com/network-connectivity/docs/router/concepts/overview, https://cloud.google.com/network-connectivity/docs/router/pricing    
+HA VPN https://cloud.google.com/load-balancing/docs/negs/hybrid-neg-concepts, https://cloud.google.com/network-connectivity/docs/vpn/how-to/creating-ha-vpn  
+Dedicated Interconnect overview https://cloud.google.com/network-connectivity/docs/interconnect/concepts/dedicatedoverview  
+Partner Interconnect overview https://cloud.google.com/network-connectivity/docs/interconnect/concepts/partner-overview  
+Cloud Interconnect FAQ https://cloud.google.com/network-connectivity/docs/interconnect/support/faq 
+
+
 ## Day 7
 #### 25 APR 2023  
 ## Day 8
