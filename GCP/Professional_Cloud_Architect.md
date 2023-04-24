@@ -230,6 +230,19 @@ Dedicated Interconnect overview https://cloud.google.com/network-connectivity/do
 Partner Interconnect overview https://cloud.google.com/network-connectivity/docs/interconnect/concepts/partner-overview  
 Cloud Interconnect FAQ https://cloud.google.com/network-connectivity/docs/interconnect/support/faq 
 
+#### Instance Groups 
+
+Instance Groups https://cloud.google.com/compute/docs/instance-groups   
+Instance Templates https://cloud.google.com/compute/docs/instance-templates  
+Two Types -> Managed Instance groups (MIGs) or Unmanaged Instance groups  
+MIGs https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances, https://cloud.google.com/compute/docs/instance-groups  
+Stateful vs Stateless MIGs https://cloud.google.com/compute/docs/instance-groups/stateful-migs  
+Unmanaged Instance groups https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-unmanaged-instances, https://cloud.google.com/compute/docs/instance-groups  
+Autoscaler https://cloud.google.com/compute/docs/autoscaler  
+Scale In Policy https://cloud.google.com/compute/docs/load-balancing-and-autoscaling  
+Further Autoscaler Options https://cloud.google.com/compute/docs/autoscaler/understanding-autoscaler-decisions  
+Multiple Policies https://cloud.google.com/compute/docs/autoscaler/multiple-policies  
+Autohealing https://cloud.google.com/compute/docs/instance-groups/autohealing-instances-in-migs  
 
 ## Day 7
 #### 25 APR 2023  
