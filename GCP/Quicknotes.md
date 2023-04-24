@@ -49,6 +49,9 @@
 46. ***A shared VPC allows projects to share a common VPC network. VPNs are used to link VPCs to on premises networks. Routes and firewall rules are not sufficient for implementing a common VPC***
 47. ***If the connected networks are in different organizations, they must use VPC Network Peering. VPC sharing is only available within a single organization. Firewall rule changes may be needed, but that is not sufficient. VPNs are used to connect GCP networks with on premises networks***
 48. Types of IP addresses : Regional and Global for both Internal and External IPs  
+49. Session stickiness, also known as session persistence, refers to the process by which a load balancer establishes an affinity between a client and a specific network server for the duration of a session.  
+50. Cookies are files created by websites that you go to. They save browsing information to make your online experience easier. With cookies, sites can keep you signed in, remember your site preferences, and give you locally relevant content.  
+51. Signed cookies are an alternative to signed URLs. Signed cookies protect access when separately signing tens or hundreds of URLs for each user isn't feasible in your application. https://cloud.google.com/cdn/docs/overview   
 
 **GCP NoSQL Databases  
 Keymemory store - Cloud Memorystore  
