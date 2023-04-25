@@ -285,8 +285,10 @@ DDoS Attack Protection -> Identity Aware Proxy (IAP) vs Cloud Armor
 
 #### Cloud CDN 
 
-Lab : https://partner.cloudskillsboost.google/focuses/11633?parent=catalog, https://partner.cloudskillsboost.google/focuses/57169?parent=catalog  
+Lab : https://partner.cloudskillsboost.google/focuses/11633?parent=catalog, https://partner.cloudskillsboost.google/focuses/57169?parent=catalog, https://partner.cloudskillsboost.google/focuses/13312?parent=catalog   
+
 Cloud Pub/Sub https://cloud.google.com/pubsub/docs/overview, https://cloud.google.com/pubsub  
+
 BigQuery is part of Google Cloud’s comprehensive data analytics platform that covers the analytics value chain from Ingest >> process >> store >> advanced analytics and collaboration. BigQuery is deeply integrated with the GCP’s analytical and data processing offering, allowing customers to build an enterprise ready cloud native data warehouse.  
 1. Cloud Pub/sub - Scaled messaging platform  
 2. BigQuery Data Transfer Service - Ads data for marketing cloud   
