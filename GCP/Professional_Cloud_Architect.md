@@ -274,8 +274,6 @@ Google Cloud Armor https://cloud.google.com/armor
 Cloud DNS https://cloud.google.com/dns, https://cloud.google.com/dns/docs/overview  
 DDoS Attack Protection -> Identity Aware Proxy (IAP) vs Cloud Armor  
 
-Lab : https://partner.cloudskillsboost.google/focuses/11633?parent=catalog  
-
 <br/>
 <p>
  <img src="/Content/clb_cover.jpeg"/>
@@ -287,6 +285,7 @@ Lab : https://partner.cloudskillsboost.google/focuses/11633?parent=catalog
 
 #### Cloud CDN 
 
+Lab : https://partner.cloudskillsboost.google/focuses/11633?parent=catalog, https://partner.cloudskillsboost.google/focuses/57169?parent=catalog  
 
 
 ## Day 8
