@@ -362,7 +362,83 @@ BigQuery can make Create, Replace, Update, and Delete changes to databases, subj
 Protect sensitive data with Data Loss Prevention https://cloud.google.com/dlp, https://cloud.google.com/blog/products/identity-security/modern-dlp-for-cloud-data-discovery   
 Cloud Composer https://cloud.google.com/composer, https://cloud.google.com/composer/docs/concepts/overview, https://cloud.google.com/blog/topics/developers-practitioners/better-service-orchestration-workflows/  
 
+Cloud Adoption Framework https://services.google.com/fh/files/misc/google_cloud_adoption_framework_whitepaper.pdf  
 
+
+Containers https://www.docker.com, https://blog.purestorage.com/purely-informational/containerd-vs-docker-whats-the-difference   
+Cloud Build documentation https://cloud.google.com/build/docs  
+Cloud Build - Create a build configuration file (lots of good sections to review - look at the different topics on the left) https://cloud.google.com/build/docs/configuring-builds/create-basic-configuration  
+Cloud Build Youtube video https://www.youtube.com/watch?v=2TZXSnCTd7E&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd  
+Cloud Source Repositories https://cloud.google.com/source-repositories  
+Artifact Registry https://cloud.google.com/artifact-registry  
+Container Registry https://cloud.google.com/container-registry  
+Supported Build Steps https://cloud.google.com/build/docs/deploying-builds/deploy-cloud-run   
+Write your own build steps https://cloud.google.com/build/docs/configuring-builds/use-community-and-custom-builders  
+Continuous integration (CI) https://cloud.google.com/solutions/continuous-integration  
+Building an automated serverless deployment pipeline with Cloud Build https://cloud.google.com/blog/topics/developers-practitioners/building-automated-serverless-deployment-pipeline-cloud-build  
+What is Cloud Build? https://www.youtube.com/watch?v=Bvo6jzC3J_A  
+Cloud Build - Create a build configuration file https://cloud.google.com/build/docs/configuring-builds/create-basic-configuration  
+Cloud Run https://cloud.google.com/run/  
+Knative https://knative.dev/  
+Eventarc overview https://cloud.google.com/eventarc/docs/overview  
+
+Google Kubernetes Engine  
+Source: Kubernetes: Your Hybrid Cloud Strategy https://cloud.google.com/files/kubernetes-your-hybrid-cloud-strategy.pdf  
+Cluster nodes Auto-upgrading https://cloud.google.com/kubernetes-engine/docs/how-to/node-auto-upgrades  
+Cluster nodes Auto-repair https://cloud.google.com/kubernetes-engine/docs/how-to/node-auto-repair  
+Types of clusters (Standard vs Autopilot, Regional vs Zonal) https://cloud.google.com/kubernetes-engine/docs/concepts/types-of-cluster  
+AutoPilot https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview  
+Overview of deploying workloads https://cloud.google.com/kubernetes-engine/docs/how-to/deploying-workloads-overview  
+gcloud container syntax https://cloud.google.com/sdk/gcloud/reference/container  
+kubectl Cheat Sheet https://kubernetes.io/docs/reference/kubectl/cheatsheet/  
+Services https://cloud.google.com/kubernetes-engine/docs/concepts/service  
+Another overview: https://kubernetes.io/docs/concepts/services-networking/service/  
+Exposing applications using services (includes add, edit and remove): https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps  
+GKE Services https://cloud.google.com/kubernetes-engine/docs/concepts/service  
+About node pools https://cloud.google.com/kubernetes-engine/docs/concepts/node-pools  
+Setting up a Private Kubernetes Cluster https://partner.cloudskillsboost.google/catalog_lab/908  
+Configuring multidimensional Pod autoscaling https://cloud.google.com/kubernetes-engine/docs/how-to/multidimensional-pod-autoscaling  
+Recommendations for planning, architecting, deploying, scaling, and operating large workloads on Google Kubernetes Engine (GKE) clusters https://cloud.google.com/kubernetes-engine/docs/best-practices/scalability  
+https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/  
+For more details on Requests and Limits, see: https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/  
+Cluster nodes scaling https://cloud.google.com/kubernetes-engine/docs/concepts/cluster-autoscaler  
+Using node auto-provisioning https://cloud.google.com/kubernetes-engine/docs/how-to/node-auto-provisioning  
+Enabling node auto-provisioning: https://cloud.google.com/kubernetes-engine/docs/how-to/node-auto-provisioning#enable  
+Horizontal pod scaling https://cloud.google.com/kubernetes-engine/docs/concepts/horizontalpodautoscaler  
+Custom and external metrics for Horizontal autoscaling workloads: https://cloud.google.com/kubernetes-engine/docs/concepts/custom-and-external-metrics  
+Vertical pod scaling https://cloud.google.com/kubernetes-engine/docs/concepts/verticalpodautoscaler  
+Youtube - Autoscaling with GKE https://www.youtube.com/watch?v=7naCIxIaV1M  
+To run or not to run a database on Kubernetes: What to consider  
+https://cloud.google.com/blog/products/databases/to-run-or-not-to-run-a-database-onkubernetes-what-to-consider  
+Suggested tutorial: https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/  
+Suggested Lab: Running a MongoDB Database in Kubernetes with StatefulSets https://partner.cloudskillsboost.google/catalog_lab/327  
+Binary authorization https://github.com/grafeas/kritis/blob/master/docs/binary-authorization.md, https://cloud.google.com/binary-authorization/docs/cloud-build, https://cloud.google.com/binary-authorization/docs/vulnerability-scanning  
+Anthos https://cloud.google.com/blog/topics/developers-practitioners/what-are-my-hybrid-and-multicloud-deployment-options-anthos   
+Anthos overview   
+Anthos blog https://cloud.google.com/blog/topics/developers-practitioners/how-does-anthos-simplify-hybrid-multicloud-deployments  
+Youtube https://www.youtube.com/watch?v=FfJNAjoX3Uc&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd  
+Anthos Config Management: https://cloud.google.com/anthos/config-management, https://cloud.google.com/anthos/docs/concepts/overview#centralized_config_management   	
+“What is Anthos” youtube video https://www.youtube.com/watch?v=Qtwt7QcW4J8&t=276s  
+Anthos 101 learning series - Service Mesh https://www.youtube.com/watch?v=EDcy3KwV22o&t=294s, https://cloud.google.com/anthos/docs/concepts/overview#service_mesh_dashboard  
+Deploying containers on VMs and MIGs https://cloud.google.com/compute/docs/containers/deploying-containers  
+Containers on Compute Engine https://cloud.google.com/compute/docs/containers  
+Limitation: only 1 container per VM: https://cloud.google.com/compute/docs/containers/deploying-containers#limitations  
+
+***To run more than one container per VM, use Google Kubernetes Engine***  https://cloud.google.com/blog/topics/developers-practitioners/where-should-i-run-my-stuff-choosing-google-cloud-compute-option  
+
+Cloud Functions https://cloud.google.com/functions  
+Cloud Functions Overview https://cloud.google.com/functions/docs/concepts/overview  
+Cloud Functions Lab https://partner.cloudskillsboost.google/catalog_lab/924  
+App Engine cheat sheet https://cloud.google.com/blog/topics/developers-practitioners/ultimate-app-engine-cheat-sheet  
+App Engine documentation https://cloud.google.com/appengine/docs/  
+App Engine Standard https://cloud.google.com/appengine/docs/standard/  
+App Engine Flexible https://cloud.google.com/appengine/docs/flexible/  
+When should you choose Standard vs Flexible? https://cloud.google.com/appengine/docs/the-appengine-environments  
+App Engine https://partner.cloudskillsboost.google/catalog_lab/1161  
+
+
+Nintendo: Build a new general-purpose game server using Google Kubernetes Engine, Cloud Spanner, etc. https://cloud.google.com/blog/ja/topics/customers/nintendo-new-game-servers-built-with-gke-cloud-spanner?hl=ja  
+Mahindra Reimagened https://cloud.google.com/blog/products/infrastructure/how-mahindra-reimagined-the-suv-buying-process-with-google-cloud
 
 ## Day 8
 #### 26 APR 2023  
