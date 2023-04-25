@@ -83,12 +83,12 @@ gcloud compute snapshots delete: Delete a snapshot.
 gcloud compute ssh: Connect to a VM instance by using SSH.  
 gcloud compute project-info describe --project PROJECT_ID :  see what your default region and zone settings.  
 -> https://cloud.google.com/compute/docs/gcloud-compute#set_default_zone_and_region_in_your_local_client  
-Health Check  
-gcloud compute firewall-rules create default-allow-health-check \
+#### Health Check example   
+***gcloud compute firewall-rules create default-allow-health-check \
 --direction=INGRESS --priority=1000 --network=default \
 --action=ALLOW --rules=tcp:80 \
 --source-ranges=130.211.0.0/22,35.191.0.0/16 \
---target-tags=allow-health-check
+--target-tags=allow-health-check***
 
 **Cloud Storage**  
 gcloud storage buckets create: Create a new Cloud Storage bucket.  
