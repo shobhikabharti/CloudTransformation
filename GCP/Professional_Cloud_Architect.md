@@ -286,6 +286,80 @@ DDoS Attack Protection -> Identity Aware Proxy (IAP) vs Cloud Armor
 #### Cloud CDN 
 
 Lab : https://partner.cloudskillsboost.google/focuses/11633?parent=catalog, https://partner.cloudskillsboost.google/focuses/57169?parent=catalog  
+Cloud Pub/Sub https://cloud.google.com/pubsub/docs/overview, https://cloud.google.com/pubsub  
+BigQuery is part of Google Cloud’s comprehensive data analytics platform that covers the analytics value chain from Ingest >> process >> store >> advanced analytics and collaboration. BigQuery is deeply integrated with the GCP’s analytical and data processing offering, allowing customers to build an enterprise ready cloud native data warehouse.  
+1. Cloud Pub/sub - Scaled messaging platform  
+2. BigQuery Data Transfer Service - Ads data for marketing cloud   
+3. Beam - Stream and batch processing with single programing model with Dataflow  
+4. Dataproc - Managed Hadoop and Spark platform  
+5. Dataprep - Analyst can now do data prep using visual tool  
+6. Data Fusion - Fully managed, code-free data integration service to manage ETL/ELT pipelines and also track lineage of that data  
+7. BigQuery cloud-native, highly scalable data warehouse  
+8. Cloud Storage as your data lake for structured and unstructured data  
+9. Vertex AI & Tensorflow for machine learning on top of data on BigQuery and Cloud Storage  
+10. Looker Studio and Sheet for your analysis  
+
+Google Cloud Big Data solutions are designed to help you transform your business and user experiences with meaningful data insights. It is an integrated, serverless platform. “Serverless” means you don’t have to provision compute instances to run your jobs. The services are fully managed, and you pay only for the resources you consume. The platform is “integrated” so Google Cloud data services work together to help you create custom solutions.  
+Pub/Sub is an important building block for applications where data arrives at high and unpredictable rates, like Internet of Things systems. If you’re analyzing streaming data, Dataflow is a natural pairing with Pub/Sub.  
+Pub/Sub also works well with applications built on Google Cloud’s compute platforms. You can configure your subscribers to receive messages on a “push” or a “pull” basis. In other words, subscribers can get notified when new messages arrive for them, or they can check for new messages at intervals.  
+Dataproc is managed Hadoop. Dataproc is a fast, easy, managed way to run Hadoop, Spark, Hive, and Pig on Google Cloud. All you have to do is to request a Hadoop cluster. It will be built for you in 90 seconds or less, on top of Compute Engine virtual machines whose number and type you can control. If you need more or less processing power while your cluster’s running, you can scale it up or down. You can use the default configuration for the Hadoop software in your cluster, or you can customize it. And you can monitor your cluster using Operations.  
+
+***HDFS***: Hadoop data file system. Cloud storage was originally named DFS (distributed file system)  
+***HBase***: open-source, NoSQL, distributed big data store. Runs on top of HDFS. The GC equivalent is Bigtable  
+***DFS*** - distributed file system = Cloud Storage  
+***HA Dataproc*** has 3 masters (one is a witness); With no HA , have 1 master, no failover. All are in the same zone Primary workers can use autoscaling. Secondary workers are MIGs but do not scale. However if you tell Google you want 4 workers, it will try to keep 4 workers at al times. These can be spot VMs  
+***HBASE*** - database that lives in HDFS. Equivalent to Cloud Bigtable  
+
+Dataflow is a unified programming model and a managed service for developing and executing a wide range of data processing patterns including ETL, batch computation, and continuous computation.   
+
+***ETL***: (extract/transform/load) pipelines to move, filter, enrich, shape data  
+***Data analysis***: batch computation or continuous computation using streaming  
+***Orchestration***: create pipelines that coordinate services, including external services  
+Integrates with Google Cloud services like Cloud Storage, Pub/Sub, BigQuery, and Cloud Bigtable  
+- Open source Java, Python SDKs  
+
+**Dataflow** frees you from operational tasks like resource management and performance optimization.  
+Dataflow features:   
+***Resource Management***: Dataflow fully automates management of required processing resources. No more spinning up instances by hand.  
+***On Demand***: All resources are provided on demand, enabling you to scale to meet your business needs. No need to buy reserved compute instances.  
+***Intelligent Work Scheduling***: Automated and optimized work partitioning which can dynamically rebalance lagging work. No more chasing down “hot keys” or pre-processing your input data.  
+***Auto Scaling***: Horizontal auto scaling of worker resources to meet optimum throughput requirements results in better overall price-to-performance.     
+***Unified Programming Model***: The Dataflow API enables you to express MapReduce like operations, powerful data windowing, and fine grained correctness control regardless of data source.    
+***Open Source***: Developers wishing to extend the Dataflow programming model can fork and or submit pull requests on the Java-based Dataflow SDK. Dataflow pipelines can also run on alternate runtimes like Spark and Flink.  
+***Monitoring***: Integrated into the Cloud Console, Dataflow provides statistics such as pipeline throughput and lag, as well as consolidated worker log inspection—all in near-real time.  
+***Integrated***: Integrates with Cloud Storage, Pub/Sub, Datastore, Cloud Bigtable, and BigQuery for seamless data processing. And can be extended to interact with others sources and sinks like Apache Kafka and HDFS.  
+***Reliable & Consistent Processing***: Dataflow provides built-in support for fault-tolerant execution that is consistent and correct regardless of data size, cluster size, processing pattern or pipeline complexity.  
+
+**Dataprep**  
+- Allows data analysts, business analysts, data engineers, and data scientists to visually explore, clean, and prepare big data  
+- Connects to BigQuery, Cloud Storage, Google Sheets, and hundreds of other cloud applications and traditional databases  
+- Build on top of Dataflow and BigQuery   
+- Data transformation and cleaning rules can easily translate into Dataflow jobs or BigQuery SQL statements  
+
+***BigQuery is a fully managed data warehouse***  
+- Provides near real-time interactive analysis of massive datasets (hundreds of TBs)  
+- Query using SQL syntax (ANSI SQL 2011)  
+- No cluster maintenance is required  
+- Compute and storage are separated with a terabit network in between  
+- You only pay for storage and processing used  
+- Automatic discount for long-term data storage  
+
+***BigQuery is NoOps***: there is no infrastructure to manage and you don't need a database administrator, so you can focus on analyzing data to find meaningful insights, use familiar SQL, and take advantage of our pay-as-you-go model. BigQuery is a powerful big data analytics platform used by all types of organizations, from startups to Fortune 500 companies.   
+BigQuery’s features:    
+***Flexible Data Ingestion***: Load your data from Cloud Storage or Datastore, or stream it into BigQuery at 100,000 rows per second to enable real-time analysis of your data.  
+***Global Availability***: You have the option to store your BigQuery data in European locations while continuing to benefit from a fully managed service, now with the option of geographic data control, without low-level cluster maintenance.  
+***Security and Permissions***: You have full control over who has access to the data stored in BigQuery. If you share datasets, doing so will not impact your cost or performance; those you share with pay for their own queries.  
+***Cost Controls***: BigQuery provides cost control mechanisms that enable you to cap your daily costs at an amount that you choose. For more information, see Cost Controls.  
+***Highly Available***: Transparent data replication in multiple geographies means that your data is available and durable even in the case of extreme failure modes.  
+***Super Fast Performance***: Run super-fast SQL queries against multiple terabytes of data in seconds, using the processing power of Google's infrastructure. Fully Integrated In addition to SQL queries, you can easily read and write data in BigQuery via Dataflow, Spark, and Hadoop.  
+***Connect with Google Products***: You can automatically export your data from Google Analytics Premium into BigQuery and analyze datasets stored in Google Cloud Storage, Google Drive, and Google Sheets.  
+BigQuery can make Create, Replace, Update, and Delete changes to databases, subject to some limitations and with certain known issues.   
+
+**Cloud Dataplex** is a fully managed and highly scalable data discovery and metadata management service  
+
+Protect sensitive data with Data Loss Prevention https://cloud.google.com/dlp, https://cloud.google.com/blog/products/identity-security/modern-dlp-for-cloud-data-discovery   
+Cloud Composer https://cloud.google.com/composer, https://cloud.google.com/composer/docs/concepts/overview, https://cloud.google.com/blog/topics/developers-practitioners/better-service-orchestration-workflows/  
+
 
 
 ## Day 8
