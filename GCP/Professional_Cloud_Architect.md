@@ -272,6 +272,9 @@ Network Service Tiers overview https://cloud.google.com/network-tiers/docs/overv
 Google Cloud networking in depth: Understanding Network Service Tiers (May 15, 2019) https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depthunderstanding-network-service-tiers  
 Google Cloud Armor https://cloud.google.com/armor  
 Cloud DNS https://cloud.google.com/dns, https://cloud.google.com/dns/docs/overview  
+DDoS Attack Protection -> Identity Aware Proxy (IAP) vs Cloud Armor  
+
+Lab : https://partner.cloudskillsboost.google/focuses/11633?parent=catalog  
 
 <br/>
 <p>
