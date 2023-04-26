@@ -442,6 +442,29 @@ Mahindra Reimagened https://cloud.google.com/blog/products/infrastructure/how-ma
 
 ## Day 8
 #### 26 APR 2023  
+
+Using Pub/Sub with Cloud Run tutorial https://cloud.google.com/run/docs/tutorials/pubsub#run_pubsub_server-java  
+Queue Tutorial https://cloud.google.com/tasks/docs/add-task-queue  
+Cloud Function timeout https://cloud.google.com/functions/docs/configuring/timeout  
+Kubernetes Quest https://www.cloudskillsboost.google/quests/29  
+
+Other Google Enterprise API  
+
+1. Cloud Build API - Continuously build, test, and deploy  
+2. Cloud DNS API - Highly Available Global DNS Network  
+3. Compute Engine API  
+4. Artifact Registry API - Highly Available APIs  
+5. Bare Metal Solution API - Provides ways to manage Bare Metal Solution hardware installed in a regional extension located near…  
+6. Kubernetes Engine API - Builds and manages container-based applications, powered by the open source Kubernetes technology  
+
+Node Pools https://cloud.google.com/kubernetes-engine/docs/concepts/node-pools  
+
+Autoscaling Strategies :   
+Horizontal Pod Autoscaler  https://cloud.google.com/kubernetes-engine/docs/concepts/horizontalpodautoscaler  
+Vertical Pod Autoscaler  https://cloud.google.com/kubernetes-engine/docs/concepts/verticalpodautoscaler  
+Cluster Autoscaler  https://cloud.google.com/kubernetes-engine/docs/concepts/cluster-autoscaler, https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-autoscaler    
+Node Auto Provisioning  https://cloud.google.com/kubernetes-engine/docs/how-to/node-auto-provisioning   
+
 ## Day 9
 #### 27 APR 2023  
 ## Day 10
