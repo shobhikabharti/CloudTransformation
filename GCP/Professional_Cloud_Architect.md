@@ -470,12 +470,7 @@ Node Auto Provisioning  https://cloud.google.com/kubernetes-engine/docs/how-to/n
 ## Day 10
 #### 28 APR 2023  
 ## Day 11
-#### 1 MAY 2023  
-## Day 12
-#### 2 MAY 2023  
-## Day 13
 #### 3 MAY 2023  
-## Day 14
-#### 4 MAY 2023  
-## Day 15
+## Day 12
 #### 5 MAY 2023  
+ 
