@@ -521,6 +521,96 @@ Your Hybrid Cloud Strategy https://cloud.google.com/files/kubernetes-your-hybrid
 
 ## Day 10
 #### 28 APR 2023  
+
+
+
+Identity Aware Proxy https://cloud.google.com/iap/docs/concepts-overview  
+Identity-Aware Proxy https://cloud.google.com/iap  
+IAP overview: https://cloud.google.com/iap/docs/concepts-overview  
+IAP Enabling external identities: https://cloud.google.com/iap/docs/enable-external-identities    
+Cloud IAP enables context-aware access to VMs via SSH and RDP without bastion hosts   https://cloud.google.com/blog/products/identity-security/cloud-iap-enables-context-aware-access-to-vms-via-ssh-and-rdp-without-bastion-hosts/   
+Youtube: Centralize access to your organization’s websites with Identity Aware Proxy (IAP) https://www.youtube.com/watch?v=xM9-FSU5MoY  
+
+Apigee https://docs.apigee.com/   
+Apigee Youtube: https://www.youtube.com/watch?v=58smxQu3P5k  
+Apigee Demo videos https://cloud.google.com/apigee/demo-ty  
+Cloud Endpoints https://cloud.google.com/endpoints  
+Encryption at rest in Google Cloud https://cloud.google.com/docs/security/encryption/default-encryption  
+Encryption in Transit in Google Cloud https://cloud.google.com/docs/security/encryption-in-transit  
+Customer-managed encryption keys (CMEK) https://cloud.google.com/kms/docs/cmek  
+Customer-Supplied Encryption Keys https://cloud.google.com/docs/security/encryption/customer-supplied-encryption-keys  
+Secret Manager https://cloud.google.com/secret-manager  
+Managing Cloud Run secrets securely https://www.youtube.com/watch?v=JIE89dneaGo  
+Cloud Data Loss Prevention https://cloud.google.com/dlp  
+Improving security, compliance, and governance with cloud-based DLP data discovery https://cloud.google.com/blog/products/identity-security/modern-dlp-for-cloud-data-discovery  
+VPC Service Controls https://cloud.google.com/vpc-service-controls/docs/overview  
+Private Google Access for on-premises hosts https://cloud.google.com/vpc/docs/private-google-access-hybrid  
+Centralize access to your organization’s websites with Identity Aware Proxy (IAP) Youtube link on slide: https://www.youtube.com/watch?v=xM9-FSU5MoY  
+Getting started with BeyondCorp: A deeper look into IAP Youtube: https://www.youtube.com/watch?v=goAWiQGRefw&t=341s  
+BeyondCorp Enterprise https://cloud.google.com/beyondcorp-enterprise  
+Cloud IAP for on prem apps overview https://cloud.google.com/iap/docs/cloud-iap-for-on-prem-apps-overview  
+Cloud IAP enables context-aware access to VMs via SSH and RDP without bastion hosts https://cloud.google.com/blog/products/identity-security/cloud-iap-enables-context-aware-access-to-vms-via-ssh-and-rdp-without-bastion-hosts/  
+Identity-Aware Proxy for TCP Forwarding: https://cloud.google.com/iap/docs/tcp-forwarding-overview  
+Using IAP for TCP forwarding https://cloud.google.com/iap/docs/using-tcp-forwarding  
+How Kitabisa re-structured its fundraising platform to drive "kindness at scale" on Google Cloud https://cloud.google.com/blog/products/application-development/how-kitabisa-uses-google-cloud-gke-cloud-sql-and-proxysql/  
+More about Kitabisa https://kitabisa.com/  
+Deployment Manager is Google Cloud’s IaC tool https://cloud.google.com/deployment-manager/docs  
+
+Terraform https://www.terraform.io/  
+Once the template is built, use terraform commands to make changes  
+- terraform init : get plugins if needed  
+- terraform plan : checks for errors in the terraform file  
+- terraform apply : applies the file and creates the resources  
+- terraform delete : deletes the resources  
+
+Cloud Foundation Toolkit https://cloud.google.com/foundation-toolkit   
+Google Cloud Security, Privacy and Compliance https://cloud.google.com/security  
+Compliance Resource Center https://cloud.google.com/security/compliance/  
+
+Shared responsibility
+PCI (Payment Card Industry) compliance https://cloud.google.com/solutions/pci-dss-compliance-in-gcp  
+HIPAA compliance (US) https://cloud.google.com/security/compliance/hipaa-compliance  
+GDPR compliance https://cloud.google.com/security/gdpr  
+
+Security Command Center https://cloud.google.com/security-command-center
+Security Command Center conceptual overview: https://cloud.google.com/security-command-center/docs/concepts-security-commandcenter-overview
+OWASP Top 10 https://www.hacksplaining.com/owasp  
+NIST 800-53: Definition and Tips for Compliance: https://www.varonis.com/blog/nist-800-53  
+Container Threat Detection https://cloud.google.com/blog/products/identity-security/container-threat-detection-is-ga  
+Tier Information https://cloud.google.com/security-command-center/docs/concepts-security-commandcenter-overview
+
+Recommended Videos
+Six Part Video Series - Security Command Center (June 2020 - Dec 2020) https://www.youtube.com/watch?v=Q-fzz2P6omQ&list=PLIivdWyY5sqKd-Cu1HZ7v5RiYE8gVsM7P&index=2
+Security Talks: Improve your security posture with the Security Command Center (Nov 18, 2020) https://www.youtube.com/watch?v=4nelxX_1erk&t=20s  
+
+Google Cloud infrastructure reliability guide https://cloud.google.com/architecture/infra-reliability-guide  
+Everything you need to know about architecting reliable infrastructure for Google Cloud workloads https://cloud.google.com/blog/products/infrastructure-modernization/design-reliable-infrastructure-for-workloads-in-google-cloud  
+Google Cloud Architecture Framework: Reliability https://cloud.google.com/architecture/framework/reliability  
+Design for scale and high availability https://cloud.google.com/architecture/framework/reliability/design-scale-high-availability  
+Product reliability guides https://cloud.google.com/architecture/framework/reliability/product-guides  
+Design for high availability https://cloud.google.com/architecture/scalable-and-resilient-apps#physically_distribute_resources  
+
+Patterns for scalable and resilient apps: https://cloud.google.com/architecture/scalable-and-resilient-apps  
+Autoscaling Cloud Spanner: https://cloud.google.com/architecture/autoscaling-cloud-spanner  
+Bigtable scaling: https://cloud.google.com/bigtable/docs/scaling  
+Memorystore scaling: https://cloud.google.com/memorystore/docs/redis/scaling-instances#  
+Disaster Recovery Planning Guide https://cloud.google.com/architecture/dr-scenarios-planning-guide  
+Cloud Monitoring https://cloud.google.com/monitoring  
+Custom metrics https://cloud.google.com/monitoring/custom-metrics  
+OpenCensus: https://opencensus.io/  
+Uptime checks https://cloud.google.com/monitoring/uptime-checks  
+Cloud Logging pricing for Cloud Admins: How to approach it & save cost https://cloud.google.com/blog/topics/cost-management/how-to-approach-cloud-logging-pricing-for-cloud-admins  
+Cloud Logging https://cloud.google.com/logging/docs  
+Log data compliance: https://services.google.com/fh/files/misc/whitepaper_data_governance_logs_how_to.pdf  
+Configuring log sinks to export logs to external systems (e.g., on-premises or BigQuery) https://cloud.google.com/logging/docs/routing/overview  
+Scenarios for exporting Cloud Logging data - Splunk https://cloud.google.com/architecture/exporting-stackdriver-logging-for-splunk  
+View logs in sink destinations: https://cloud.google.com/logging/docs/export/using_exported_logs  
+Log sinks: https://cloud.google.com/logging/docs/export/configure_export_v2  
+Cloud Trace https://cloud.google.com/trace  
+Viewing trace details: https://cloud.google.com/trace/docs/viewing-details  
+Cloud Profiler https://cloud.google.com/profiler/docs  
+Cloud Error Reporting https://cloud.google.com/error-reporting  
+
 ## Day 11
 #### 3 MAY 2023  
 ## Day 12
