@@ -467,6 +467,58 @@ Node Auto Provisioning  https://cloud.google.com/kubernetes-engine/docs/how-to/n
 
 ## Day 9
 #### 27 APR 2023  
+
+Docker images are lightweight, preconfigured virtual environments used to run our application. The images include the software required to run the containerized application. The applications are deployed inside the Docker image.  
+
+Cloud Logging and Cloud Monitoring are the built-in logging and monitoring solutions for Google Cloud. Google Cloud’s operations suite offers a fully managed logging, metrics collection, monitoring, dashboarding, and alerting solution that watches all sides of your hybrid or multi-cloud network. It’s the ideal solution for customers wanting a single, easy to configure, powerful cloud-based observability solution that also gives you a single pane of glass dashboard to monitor all of your environments.  
+
+Deploying containers on VMs and MIGs https://cloud.google.com/compute/docs/containers/deploying-containers  
+
+Cloud Build functions similarly to Docker in that it accepts code and configuration and builds containers (among other things). Cloud Build offers many features and services that are geared towards professional development. It is designed to fit into a continuous development / continuous deployment workflow and can scale to handle many application developers working on and continuously updating a live global service.  
+
+Cloud Build executes your build as a series of build steps, where each build step is run in a Docker container. A build step can do anything that can be done from a container irrespective of the environment. To perform your tasks, you can either use the supported build steps provided by Cloud Build or write your own build steps.  
+
+Supported Build Steps → https://cloud.google.com/build/docs/deploying-builds/deploy-cloud-run  
+Write your own build steps → https://cloud.google.com/build/docs/configuring-builds/use-community-and-custom-builders  
+
+Cluster nodes Auto-upgrading https://cloud.google.com/kubernetes-engine/docs/how-to/node-auto-upgrades   
+Cluster nodes Auto-repair https://cloud.google.com/kubernetes-engine/docs/how-to/node-auto-repair  
+
+A Kubernetes cluster is composed of nodes, which are a unit of hardware resources. Nodes in GKE are implemented as VMs in Compute Engine. Each node has pods. Pods are resource management units. A pod is how Kubernetes controls and manages resources needed by applications and how it executes code. Pods also give the system fine-grain control over scaling. Each pod hosts, manages, and runs one or more containers. The containers in a pod
+share networking and storage. So typically, there is one container per pod, unless the containers hold closely related applications. For example, a second container might contain the logging system for the application in the first container. A pod can be moved from one node to another without reconfiguring or rebuilding anything. Each cluster has a control plane node that determines what happens on the cluster. There are usually at least three of them for availability. And they can be located across zones. A Kubernetes job makes changes to the cluster. For example a pod YAML file provides the information to start up and run a pod on a node. If for some reason a pod stops running or a node is lost, the pod will not automatically be replaced. The Deployment YAML tells Kubernetes how many pods you want running. So the Kubernetes deployment is what keeps a number of pods running. The Deployment YAML also defines a Replica Set, which is how many copies of a container you want running. The Kubernetes scheduler determines on which node and in which pod the replica containers are to be run.
+
+Types of clusters (Standard vs Autopilot, Regional vs Zonal) https://cloud.google.com/kubernetes-engine/docs/concepts/types-of-cluster   
+AutoPilot https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview  
+Overview of deploying workloads https://cloud.google.com/kubernetes-engine/docs/how-to/deploying-workloads-overview  
+Services https://cloud.google.com/kubernetes-engine/docs/concepts/service  
+Another overview: https://kubernetes.io/docs/concepts/services-networking/service/  
+Exposing applications using services (includes add, edit and remove): https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps  
+GKE Services https://cloud.google.com/kubernetes-engine/docs/concepts/service  
+About node pools https://cloud.google.com/kubernetes-engine/docs/concepts/node-pools  
+Configuring multidimensional Pod autoscaling https://cloud.google.com/kubernetes-engine/docs/how-to/multidimensional-pod-autoscaling
+Recommendations for planning, architecting, deploying, scaling, and operating large workloads on Google Kubernetes Engine (GKE) clusters https://cloud.google.com/kubernetes-engine/docs/best-practices/scalability  
+For more details on Requests and Limits, see: https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/  
+Cluster nodes scaling https://cloud.google.com/kubernetes-engine/docs/concepts/cluster-autoscaler  
+Using node auto-provisioning https://cloud.google.com/kubernetes-engine/docs/how-to/node-auto-provisioning  
+Enabling node auto-provisioning: https://cloud.google.com/kubernetes-engine/docs/how-to/node-auto-provisioning#enable  
+Horizontal pod scaling https://cloud.google.com/kubernetes-engine/docs/concepts/horizontalpodautoscaler  
+Custom and external metrics for Horizontal autoscaling workloads: https://cloud.google.com/kubernetes-engine/docs/concepts/custom-and-external-metrics  
+Vertical pod scaling https://cloud.google.com/kubernetes-engine/docs/concepts/verticalpodautoscaler  
+Youtube - Autoscaling with GKE https://www.youtube.com/watch?v=7naCIxIaV1M  
+
+
+Pods are the smallest unit of deployment. A pod can be comprised of one or more containers, but typically it is one pod per container.  
+Clusters are a collection of instances the containers can run on. Each instance is a node in a cluster.  
+Replica sets are used to create multiple instances of a pod. The replica sets can guarantee the desired number is always running and only healthy pods are used.  
+Kubernetes can leverage cloud load balancers to distribute traffic to multiple pods.  
+The load balancer is run as a network service.  
+To ensure the proper performance of your application, you can configure autoscalers to add and remove pods.  
+Deployments are configurations that define service resources.  
+
+App Engine is a fully managed, serverless application platform supporting the building and deploying of applications. Applications can be scaled seamlessly from zero upward without having to worry about managing the underlying infrastructure. App Engine was designed for microservices. For configuration, each Google Cloud project can contain one App Engine application, and an application has one or more services. Each service can have one or more versions, and each version has one or more instances. App Engine supports traffic splitting so it makes switching between versions and strategies such as canary testing or A/B testing simple. The diagram on the right shows the high-level organization of a Google Cloud project with two services, and each service has two versions. These services are independently deployable and versioned.  
+
+Your Hybrid Cloud Strategy https://cloud.google.com/files/kubernetes-your-hybrid-cloud-strategy.pdf  
+
 ## Day 10
 #### 28 APR 2023  
 ## Day 11
