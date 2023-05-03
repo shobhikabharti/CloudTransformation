@@ -613,6 +613,18 @@ Cloud Error Reporting https://cloud.google.com/error-reporting
 
 ## Day 11
 #### 3 MAY 2023  
+
+Disaster recovery planning guide https://cloud.google.com/architecture/dr-scenarios-planning-guide  
+Refactoring a monolith into microservices https://cloud.google.com/architecture/microservices-architecture-refactoring-monoliths   
+Infrastructure as a code (IaaC) https://cloud.google.com/recommender/docs/tutorial-iac  
+Active Assist https://cloud.google.com/recommender/docs/whatis-activeassist  
+Cloud Foundation Toolkit https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit  
+Security Command Center https://cloud.google.com/security-command-center  
+News : https://thenewstack.io/paris-is-drowning-gcps-region-failure-in-age-of-operational-resilience/  
+Multi container apps https://docs.docker.com/get-started/07_multi_container/  
+How multi-container works https://medium.com/bb-tutorials-and-thoughts/understanding-multi-container-pods-12f5780f3956  
+Cloud Trace filters https://cloud.google.com/trace/docs/trace-filters  
+
 ## Day 12
 #### 5 MAY 2023  
  
