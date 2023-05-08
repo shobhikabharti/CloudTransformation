@@ -627,4 +627,4 @@ Cloud Trace filters https://cloud.google.com/trace/docs/trace-filters
 
 ## Day 12
 #### 5 MAY 2023  
- 
+Exam Details shared and practiced few test questions.    
