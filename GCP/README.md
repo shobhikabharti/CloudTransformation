@@ -1,12 +1,12 @@
-# #60DaystoGCPE
+# #PrepWorkOnGCP#ACE
 
 <p align="center">
   <img src="/Content/rainbow.png">
 </p>
 
-** DISCLAIMER: This is not 60 days continuous journey to certification as initially advised. But since I had 45 hours workweek and weekend classes as well while taking the exam, I had to start the countdown somewhere so that I take the certification ASAP. However, if you've time, I would suggest 45 days of self study around GCP Engineer prep material on Google Cloud portal (including labs) + 10 days of exam prep questions prep from Udemy  + 5 days relax before Exam and voila, CERTIFIED!  
+** DISCLAIMER: This is not continuous journey to certification as initially advised. But since I had 45 hours workweek and weekend classes as well while taking the exam, I had to start the countdown somewhere so that I take the certification ASAP. However, if you've time, I would suggest 45 days of self study around GCP Engineer prep material on Google Cloud portal (including labs) + 10 days of exam prep questions prep from Udemy  + 5 days relax before Exam and voila, CERTIFIED!  
 
-However, if you're on a Beast Mode, 30 days of self study + 7 days of questionnaire + 3 days relax before exam, but how many exams can we be on a beast mode, hence, I enjoyed work-life balance and nutrition with proper exam management here. We have to take exam prep seriously once we graduate and studying on our own. Meanwhile, have fun, if you're from Computer branch like me, probably you'll enjoy the cloud platform solutions like I do. It's relaxing to see everything under one place. Journey is harder than I thought, but once attained a level in any cloud program, you'll be satisfied with your time investment. It'll be a win-win situation.     
+However, if you're on a Beast Mode, given that you are working only on GCP Cloud, 30 days of self study + 7 days of questionnaire + 3 days relax before exam, but how many exams can we be on a beast mode, hence, I enjoyed work-life balance and nutrition with proper exam management here. We have to take exam prep seriously once we graduate and studying on our own. Meanwhile, have fun, if you're from Computer branch like me, probably you'll enjoy the cloud platform solutions like I do. It's relaxing to see everything under one place. Journey is harder than I thought, but once attained a level in any cloud program, you'll be satisfied with your time investment. It'll be a win-win situation.     
 
 Source: https://github.com/priyankavergadia, https://cloud.google.com/blog/topics/developers-practitioners/network-application-security-google-cloud/    
 Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-services-ef8264cfa5a8, https://cloud.google.com/learn/certification/guides/cloud-engineer, https://sre.google/sre-book/introduction/, https://youtu.be/P6pHRiWVSBI      
@@ -18,7 +18,7 @@ Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-
 - [ ] Feb 18 2023 > Found this GitHub cheatsheet link on GCP https://github.com/priyankavergadia/google-cloud-4-words#the-google-cloud-developers-cheat-sheet   
 - [ ] Feb 19 2023 > Revisited few basics of GCP on Coursera, pay attention to **pricing model**  
 - [ ] Feb 23 2023 > Going through Essential Cloud Infrastructure: Foundation  
-- [ ] Feb 26 2023 > Going through Sample GCP questions today on https://www.whizlabs.com/blog/gcp-associate-cloud-engineer-questions/ , https://gcp-examquestions.com/gcp-associate-cloud-engineer-practice-exam-part-1/   
+- [ ] Feb 26 2023 > Going through Sample GCP questions today on https://www.whizlabs.com/blog/gcp-associate-cloud-engineer-questions/ , https://gcp-examquestions.com/gcp-associate-cloud-engineer-practice-exam-part-1/, https://www.examtopics.com/exams/google/associate-cloud-engineer/view/   
 - [ ] Feb 27 2023 > GCP Partner training started in my office. For the next 15 days, I will be religiously pursuing that material  
 - [ ] Feb 28 2023 > Cheatsheet and cloud comparison https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison, https://googlecloudcheatsheet.withgoogle.com/ 
 - [ ] 1 MAR 2023 > Working with the flash cards for the D-Day revision, back to school methods @35 :D.   
