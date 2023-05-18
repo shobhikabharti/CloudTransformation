@@ -28,4 +28,5 @@ Also, another link to the cheat sheet https://github.com/cheat-sheets/project-ma
 - [ ] 16 MAY 2023 > Stakeholder Management and Strategy  
 - [ ] 17 MAY 2023 > Team Constitution and PM style  
 https://www.ganttscholar.com/post/when-to-apply-agile  
-- [ ] 18 MAY 2023 >  
+- [ ] 18 MAY 2023 > Agile PM & Sodtware Engineering lifecycle  
+- [ ] 19 MAY 2023 >  
