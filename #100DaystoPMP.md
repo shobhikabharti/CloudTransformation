@@ -30,4 +30,5 @@ Also, another link to the cheat sheet https://github.com/cheat-sheets/project-ma
 https://www.ganttscholar.com/post/when-to-apply-agile  
 - [ ] 18 MAY 2023 > Agile PM & Sodtware Engineering lifecycle  
 - [ ] 19 MAY 2023 > Went over Gantt, PERT, MoSCow, KANO, Paired comparison, 100 point method   
-- [ ] 22 MAY 2023 > Brainstorming template, Agile vs Waterfall PM, WBS, Scope, Baseline, Product Backlog, User Stories, Schedule Management Plan, Reactive vs Proactive, Roles of the Product Owner, Product Backlog Grooming      
+- [ ] 22 MAY 2023 > Brainstorming template, Agile vs Waterfall PM, WBS, Scope, Baseline, Product Backlog, User Stories, Schedule Management Plan, Reactive vs Proactive, Roles of the Product Owner, Product Backlog Grooming    
+- [ ] 23 MAY 2023 > Schedule Plan Options, Precendence, First first, first last calculations, three point estimations, Critical Path    
