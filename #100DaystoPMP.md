@@ -34,3 +34,4 @@ https://www.ganttscholar.com/post/when-to-apply-agile
 - [ ] 23 MAY 2023 > Schedule Plan Options, Precendence, First first, first last calculations, three point estimations, Critical Path, Project Schedule Network Diagram     
 - [ ] 24 MAY 2023 > Resource Optimization - Levelling, Schedule Compression Techniques, User Stories, Story points, Story points estimates such as fibonacci sequence, man-hours calculation per user story, iterations    
 - [ ] 25 MAY 2023 > Resources, RACI Chart, Adaptive Resource Planning, Filling Resources Need, Procurement Strategy, Types of Contracts, Types of Risks       
+- [ ] 26 MAY 2023 > Risk Management and Strategy  
