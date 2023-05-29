@@ -35,3 +35,4 @@ https://www.ganttscholar.com/post/when-to-apply-agile
 - [ ] 24 MAY 2023 > Resource Optimization - Levelling, Schedule Compression Techniques, User Stories, Story points, Story points estimates such as fibonacci sequence, man-hours calculation per user story, iterations    
 - [ ] 25 MAY 2023 > Resources, RACI Chart, Adaptive Resource Planning, Filling Resources Need, Procurement Strategy, Types of Contracts, Types of Risks       
 - [ ] 26 MAY 2023 > Risk Management and Strategy  
+- [ ] 27 MAY 2023 > Cost of Quality (CoQ), Stakeholder & Customer Quality, Quality Management Plan, Compliance Requirements, Regulations, Quality Standards and Regulations, e.g, FISMA, Quality Metrics, Checlists, and Processes,  Leadership, Hybrid Teams, Project Teams, Artifacts, Information Storage and Commercial Practices such as Git, SVN, Information Radiators, Tailor Artifacts, COnfiguration Management Plan, Version Control   
