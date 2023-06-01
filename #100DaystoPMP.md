@@ -38,5 +38,5 @@ https://www.ganttscholar.com/post/when-to-apply-agile
 - [ ] 29 MAY 2023 > Cost of Quality (CoQ), Stakeholder & Customer Quality, Quality Management Plan, Compliance Requirements, Regulations, Quality Standards and Regulations, e.g, FISMA, Quality Metrics, Checlists, and Processes,  Leadership, Hybrid Teams, Project Teams, Artifacts, Information Storage and Commercial Practices such as Git, SVN, Information Radiators, Tailor Artifacts, COnfiguration Management Plan, Version Control, Empower the Team   
 - [ ] 30 MAY 2023 > Empower the team, Psychological Safety, Embrace Diversity, Maslow's Hierarchy of Needs, Mcclelland's Achievement Motivation Theory, Teams, Emotional Intelligence   
 - [ ] 31 MAY 2023 >  
-- [ ] 1 JUN 2023 >  Budget Challenges,  
+- [ ] 1 JUN 2023 >  Budget Challenges, Earned Value Analysis,   
 - [ ] 2 JUN 2023 >  
