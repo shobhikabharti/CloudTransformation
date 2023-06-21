@@ -10,6 +10,11 @@ However, if you're on a Beast Mode, given that you are working only on GCP Cloud
 
 Source: https://github.com/priyankavergadia, https://cloud.google.com/blog/topics/developers-practitioners/network-application-security-google-cloud/    
 Starter Link: https://betterprogramming.pub/gcp-and-aws-networking-concepts-and-services-ef8264cfa5a8, https://cloud.google.com/learn/certification/guides/cloud-engineer, https://sre.google/sre-book/introduction/, https://youtu.be/P6pHRiWVSBI      
+
+Case Studies:  
+<a href="https://cloud.google.com/blog/products/serverless/loreal-combines-google-cloud-serverless-and-data-offerings">L'Oreal</a>   
+<a href="https://cloud.google.com/customers/hermes">Hermes</a>   
+<a href="https://cloud.google.com/customers/carrefourtaiwan/">Carrefour</a>  
    
 - [ ] Feb 1 2023 > Went through the GCP Engineer starter introduction on YouTube https://www.youtube.com/watch?v=RbIbS0YMFs4&t=1395&ab_channel=GoogleCloud    
 - [ ] Feb 13 2023 > Went through the IAM & GCP marketplace to understand LAMP deployment in the GCP Engineer coursework https://cloud.google.com/marketplace/docs/  
