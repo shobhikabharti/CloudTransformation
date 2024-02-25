@@ -141,6 +141,7 @@ Ge your hands dirty https://console.cloud.google.com/
 ## Resting at the Lagoon
 - [ ] 15 JULY 2023 > So, finally, after so much hustle and bustle, I cleared my second PG program in Cloud Computing last week. Yay! It took me so much effort to clear coursework, you have to pat my back though I'm a little bit older now :D. But anyway, a very big milestone is achieved at this point. Now, eyes on certifications, I have to update Google ACE & PCA journey too.
 - [ ] 21 FEB 2024 > Finally, after a long pause on Git, today, I wanted to update on my certification journey. My exam GCP CDL is scheduled on Sunday and I am 80% ready to go for it. Will update again...
+- [ ] 25 FEB 2024 > **GCP Cloud Digital Leader: Passed!!!** Hurray, bought some ice cream to celebrate, will make a sundae at home! 
 
 ## Up into the mountains
 
