@@ -4,7 +4,7 @@
   <img src="/Content/rainbow.png">
 </p>
 
-** DISCLAIMER: This is not a continuous journey to certification as initially advised. But since I had 45-hour workweek and weekend classes as well while taking the exam, I had to start the countdown somewhere so that I take the certification ASAP. However, if you've time, I would suggest 45 days of self-study around GCP cloud prep material on the Google Cloud portal (including labs) + 10 days of exam prep questions prep from Udemy  + 5 days relax before the Exam and voila, CERTIFIED!  
+** DISCLAIMER: This is not a continuous journey to certification as initially advised since I had 45-hour workweek and weekend classes as well while taking the exam. As time is ticking, I had to start the countdown somewhere and take the certification ASAP. However, if you've time, I would suggest 45 days of self-study around GCP cloud prep material on the Google Cloud portal (including labs) + 10 days of exam prep questions prep from Udemy  + 5 days relax before the Exam and voila, CERTIFIED!  
 
 However, if you're on a Beast Mode, given that you are working only on GCP Cloud, 30 days of self-study + 7 days of questionnaire + 3 days relax before the exam, but how many exams can we be on a beast mode, hence, I enjoyed **work-life balance and nutrition with proper exam management here**. We have to take exam prep seriously once we graduate and study on our own. Meanwhile, have fun, if you're from a Computer branch like me, probably you'll enjoy the cloud platform solutions as I do. It's relaxing to see everything in one place. The journey is harder than I thought, but once you attain a level in any cloud program, you'll be satisfied with your time investment. It'll be a win-win situation.     
 
