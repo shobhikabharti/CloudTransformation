@@ -144,6 +144,7 @@ Ge your hands dirty https://console.cloud.google.com/
 - [ ] 25 FEB 2024 > **GCP Cloud Digital Leader: Passed!!!** Hurray, bought some ice cream to celebrate, will make a sundae at home! 
 
 ## Up into the mountains
+- [ ] 16 JAN 2025 > Since the last year, I did not get the time to pursue PCA, but today, I am starting again. Let's see our journey together. For this one, I got to know that we have to prepare for case studies for the test. I am okay, but not okay. I can feel the pressure, but then what's the point of getting started and not achieving what you were set to do in the first place. This is totally my thing and I can do it. See ya for tomorrow.
 
 ## Into the sky to touch the cloud!
 
